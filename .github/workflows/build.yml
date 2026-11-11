@@ -1,0 +1,101 @@
+name: Build
+
+on:
+  workflow_dispatch:
+    inputs:
+      release:
+        description: "Release tag, for example v1.0.0. Leave empty to only build."
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+env:
+  UPSTREAM_REPO: "https://github.com/git-learning-game/oh-my-git.git"
+  UPSTREAM_COMMIT: "cfa2625dbd09b50e3108bb9119f2d3b3043fb1b3"
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    container:
+      image: barichello/godot-ci:3.2.3
+    steps:
+      - name: Install tools
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: apt-get update && apt-get install -y --no-install-recommends p7zip-full make wget git zip python3 python3-fonttools
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          path: translation
+
+      - name: Get the game source
+        run: |
+          git clone "$UPSTREAM_REPO" game
+          git -C game checkout "$UPSTREAM_COMMIT"
+
+      - name: Apply translation
+        run: |
+          rm -rf translation/.git translation/.github
+          cp -a translation/. game/
+
+      - name: Fonts
+        run: |
+          mkdir fontsrc
+          wget -q -O fontsrc/PT_Sans-Web-Regular.ttf https://raw.githubusercontent.com/google/fonts/main/ofl/ptsans/PT_Sans-Web-Regular.ttf
+          wget -q -O fontsrc/PT_Sans-Web-Bold.ttf https://raw.githubusercontent.com/google/fonts/main/ofl/ptsans/PT_Sans-Web-Bold.ttf
+          wget -q -O fontsrc/NotoSansSC-Regular.otf https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/SubsetOTF/SC/NotoSansSC-Regular.otf
+          wget -q -O fontsrc/NotoSansJP-Regular.otf https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/SubsetOTF/JP/NotoSansJP-Regular.otf
+          python3 game/tools/fonts.py fontsrc game
+          rm -rf game/tools
+          ls -la game/fonts
+
+      - name: Export templates
+        run: |
+          mkdir -p ~/.local/share/godot/templates
+          if [ ! -d ~/.local/share/godot/templates/3.2.3.stable ]; then
+            mv /root/.local/share/godot/templates/3.2.3.stable ~/.local/share/godot/templates/3.2.3.stable
+          fi
+
+      - name: Build
+        working-directory: game
+        run: make linux macos windows
+
+      - name: Rename
+        run: |
+          mkdir out
+          mv game/build/oh-my-git-linux.zip out/oh-my-git-translated-linux.zip
+          mv game/build/oh-my-git-macos.zip out/oh-my-git-translated-macos.zip
+          mv game/build/oh-my-git-windows.zip out/oh-my-git-translated-windows.zip
+          ls -la out
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: builds
+          path: out/*.zip
+          retention-days: 30
+
+  release:
+    needs: build
+    if: ${{ inputs.release != '' }}
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: builds
+          path: out
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.release }}
+        run: |
+          gh release create "$TAG" out/*.zip \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "Oh My Git! translated $TAG" \
+            --notes "Oh My Git! in Russian, Chinese, Japanese, Spanish, Portuguese, German, French, Indonesian and Turkish. Pick the language in the main menu."
