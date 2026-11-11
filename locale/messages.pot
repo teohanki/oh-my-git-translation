@@ -1,0 +1,1556 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oh My Git!\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: levels/intro/risky
+msgid "Living dangerously"
+msgstr ""
+
+#: levels/intro/risky
+msgid ""
+"So you have decided to apply for time travel school, to learn how to use this time machine called \"Git\"!\n"
+"\n"
+"How exciting!\n"
+"\n"
+"You're almost done with the paperwork! You just need to fill in one more reason why you want to learn Git."
+msgstr ""
+
+#: levels/intro/risky
+msgid ""
+"Suddenly, your cat jumps on the table, snatches away the form, and runs away! Oh no. All your hard work, gone!\n"
+"\n"
+"You clearly need a better solution.\n"
+"\n"
+"(Click \"Next Level\" as soon as you're ready!)"
+msgstr ""
+
+#: levels/intro/risky
+msgid "Add another line to form.txt!"
+msgstr ""
+
+#: levels/intro/copies
+msgid "Making backups"
+msgstr ""
+
+#: levels/intro/copies
+msgid "This time, you're making a lot of backup copies - you can look at them by clicking on them!"
+msgstr ""
+
+#: levels/intro/copies
+msgid ""
+"Okay, this kind of works.\n"
+"\n"
+"But you're a bit worried that you'll end up with hundreds of copies of this form, and it will be hard to keep track of all of them.\n"
+"\n"
+"And especially when working with other people, sending copies back and forth doesn't seem ideal.\n"
+"\n"
+"You can't wait to try these time machines!"
+msgstr ""
+
+#: levels/intro/copies
+msgid "Add another line to form2_really_final.txt!"
+msgstr ""
+
+#: levels/intro/init
+msgid "Enter the time machine"
+msgstr ""
+
+#: levels/intro/init
+msgid ""
+"You've been accepted to time travel school! Yay! It's your first day! Your teacher explains:\n"
+"\n"
+"\"To do anything with a time machine, you first need to initialize it!\"\n"
+"\n"
+"Drag that blue card up to play it!"
+msgstr ""
+
+#: levels/intro/init
+msgid "Nice! See that little owl squirrel that appeared? It will be your companion, and always show you where you are in time!"
+msgstr ""
+
+#: levels/intro/init
+#: levels/intro/cli
+msgid "Initialize the time machine!"
+msgstr ""
+
+#: levels/intro/cli
+msgid "The command line"
+msgstr ""
+
+#: levels/intro/cli
+msgid "These playing cards are designed to be easy to use and to remember! We'd suggest sticking to them if you don't have a lot of experience with Git!"
+msgstr ""
+
+#: levels/intro/cli
+msgid ""
+"But there's another way to interact with Git:\n"
+"\n"
+"Try typing `git init` into the black terminal below, and pressing the enter key!"
+msgstr ""
+
+#: levels/intro/cli
+msgid ""
+"Cool! Instead of using the playing cards, you can also do everything via the command line!\n"
+"\n"
+"The command line is pretty powerful! Often, you can use it to solve tasks faster compared to using a graphical interface."
+msgstr ""
+
+#: levels/intro/commit
+msgid "Your first commit"
+msgstr ""
+
+#: levels/intro/commit
+msgid ""
+"You can use your time machine to make snapshots of objects around you! Here, let's practice this!\n"
+"\n"
+"(Your teacher pours some water into a glass.)"
+msgstr ""
+
+#: levels/intro/commit
+msgid ""
+"Again, instead of using the card, you can also type the commands which are printed on it into the black terminal below!\n"
+"\n"
+"This is totally optional! But this will be a super useful skill in the real world - and it will give you a sparkling golden badge! :)"
+msgstr ""
+
+#: levels/intro/commit
+msgid "Nice! You can try making some additional commits. When you feel comfortable, click on \"Next Level\"."
+msgstr ""
+
+#: levels/intro/commit
+msgid "Make a snapshot of the glass (a \"commit\")"
+msgstr ""
+
+#: levels/intro/commit
+msgid "Change the contents of the glass!"
+msgstr ""
+
+#: levels/intro/commit
+msgid "And make a second commit!"
+msgstr ""
+
+#: levels/intro/remote
+msgid "Working together"
+msgstr ""
+
+#: levels/intro/remote
+msgid ""
+"Let's add your name to our list of students!\n"
+"\n"
+"I already have a second commit of it in my time machine - let's work together!"
+msgstr ""
+
+#: levels/intro/remote
+msgid "To go back to old commands, you can press arrow up and down. That way, you don't have to type in long commands twice."
+msgstr ""
+
+#: levels/intro/remote
+msgid "Welcome to time travel school! :) I'll see you for your first class tomorrow!"
+msgstr ""
+
+#: levels/intro/remote
+msgid "Get the second commit from your teacher using `git pull`."
+msgstr ""
+
+#: levels/intro/remote
+msgid "Add your name to the list of students"
+msgstr ""
+
+#: levels/intro/remote
+msgid "Commit your result."
+msgstr ""
+
+#: levels/intro/remote
+msgid "And use `git push` to send it to your teacher!"
+msgstr ""
+
+#: levels/files/files-delete
+msgid "Unexpected Roommates"
+msgstr ""
+
+#: levels/files/files-delete
+msgid ""
+"The first day at Time Travel School comes to an end and you receive the key to your room.\n"
+"Full of excitement you open the door just to find... spider webs! Spider webs everywhere!\n"
+"\n"
+"Remove all the spider webs you can find with the remove card!"
+msgstr ""
+
+#: levels/files/files-delete
+msgid ""
+"On the command line, you can easily delete all files ending in -web using this command:\n"
+"\n"
+"    rm *web"
+msgstr ""
+
+#: levels/files/files-delete
+msgid "Your room looks now very tidy and cozy! Time to unpack your stuff!"
+msgstr ""
+
+#: levels/files/files-delete
+msgid "Remove all spider webs."
+msgstr ""
+
+#: levels/files/files-delete
+msgid "But make sure you keep your bed!"
+msgstr ""
+
+#: levels/files/files-add
+msgid "Interior design"
+msgstr ""
+
+#: levels/files/files-add
+msgid ""
+"Now that your room looks tidy, you can start to unpack your stuff. You brought two new pieces of furniture with you and with a bright smile,\n"
+"you see that their colors match the color of your bed!\n"
+"\n"
+"Build up your two pieces of furniture by playing the touch card.\n"
+"Then name your furniture - you can choose whatever you like.\n"
+"\n"
+"Make sure the colors match! You can find the bed's color in its description.\n"
+"Don't forget to add a color and description to your new furnitures, too!"
+msgstr ""
+
+#: levels/files/files-add
+msgid "Don't you immediately feel more at home?"
+msgstr ""
+
+#: levels/files/files-add
+msgid "Add two more pieces of furniture"
+msgstr ""
+
+#: levels/files/files-add
+msgid "Make sure the colors match your bed's color."
+msgstr ""
+
+#: levels/branches/checkout-commit
+msgid "Moving through time"
+msgstr ""
+
+#: levels/branches/checkout-commit
+msgid ""
+"The yellow boxes are frozen points in time, we call them \"commits\"! You can travel between them using the \"checkout\" card! (Try it!)\n"
+"\n"
+"Can you find out what happened here? Then, while on the last commit, edit the files to fix the problem, and make a new commit!"
+msgstr ""
+
+#: levels/branches/checkout-commit
+msgid ""
+"To checkout a specific commit, type `git checkout`, then a space, and then right click on the commit you want!\n"
+"\n"
+"This will insert the commit's unique identifier!"
+msgstr ""
+
+#: levels/branches/checkout-commit
+msgid "Wonderful! Now that you're getting familiar with the time machine, let's look at some more complicated situations..."
+msgstr ""
+
+#: levels/branches/checkout-commit
+msgid "Restore sisterly peace."
+msgstr ""
+
+#: levels/branches/fork
+msgid "Make parallel commits"
+msgstr ""
+
+#: levels/branches/fork
+msgid ""
+"Did you know that creating parallel timelines is perfectly legal and safe? It's true!\n"
+"\n"
+"Can you find out when things went wrong in this zoo? Then, go back to the last good commit and create a parallel universe where everyone is happy!"
+msgstr ""
+
+#: levels/branches/fork
+msgid ""
+"The blue animal represents a concept known as the \"HEAD pointer\" in Git: It shows you which commit is the current one.\n"
+"\n"
+"Here's a cool trick to go to the previous commit: \n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"You can also go back two commits by typing, for example: \n"
+"\n"
+"    git checkout HEAD~2"
+msgstr ""
+
+#: levels/branches/fork
+msgid ""
+"Whew, good job! This seems like a *much* better outcome.\n"
+"\n"
+"Feel free to add more parallel timelines, or make them longer.\n"
+"\n"
+"If you're ready, our next mission is already waiting..."
+msgstr ""
+
+#: levels/branches/fork
+msgid "Make sure that the child is happy."
+msgstr ""
+
+#: levels/branches/fork
+msgid "Make sure that the lion gets something to eat."
+msgstr ""
+
+#: levels/branches/branch-create
+msgid "Creating branches"
+msgstr ""
+
+#: levels/branches/branch-create
+msgid ""
+"You were invited to two parties! At one of them, your favorite band is playing - and the other one is your best friend's birthday party. Where should you go? No worries - as a time travel agent in training, you can go to both parties!\n"
+"\n"
+"To make it easier to tell which timeline is which, you can create time portals! (We call these \"branches\".)"
+msgstr ""
+
+#: levels/branches/branch-create
+msgid "Branches also make it really easy to travel between different places using the command line! As soon as you have a branch called \"birthday\", you can type `git checkout birthday` to travel to it!"
+msgstr ""
+
+#: levels/branches/branch-create
+msgid ""
+"Now you can travel between those branches easily (using `git checkout`) - try it!\n"
+"\n"
+"Your friend is happy that you made it to the birthday party and you also got your concert ticket signed. Yay!"
+msgstr ""
+
+#: levels/branches/branch-create
+msgid "Create a branch called 'birthday' that points to the birthday timeline."
+msgstr ""
+
+#: levels/branches/branch-create
+msgid "Create a branch called 'concert' that points to the concert timeline."
+msgstr ""
+
+#: levels/branches/grow
+msgid "Branches grow with you!"
+msgstr ""
+
+#: levels/branches/grow
+msgid ""
+"Note that there are two options to \"travel to the end of a timeline\":\n"
+"\n"
+"First, you can directly travel to the commit, like we've done it before.\n"
+"\n"
+"And second, you can travel to the branch label. In this case, when you make a new commit, the branch will grow with you, and still point at the end of the timeline!"
+msgstr ""
+
+#: levels/branches/grow
+msgid ""
+"To travel to a branch, type `git checkout name_of_the_branch`.\n"
+"\n"
+"And to travel to the last commit, type `git checkout --detach name_of_the_branch`."
+msgstr ""
+
+#: levels/branches/grow
+msgid "Travel directly to the last yellow commit of the birthday timeline, make a change to 'you', and make a commit"
+msgstr ""
+
+#: levels/branches/grow
+msgid "Travel to the blue 'concert' branch, make a change to 'you', and a commit."
+msgstr ""
+
+#: levels/branches/branch-remove
+msgid "Deleting branches"
+msgstr ""
+
+#: levels/branches/branch-remove
+msgid ""
+"Life is full of dangers, right? Even when walking to school, it seems like there's a lot of risks!\n"
+"\n"
+"This Monday is especially bad. You made it to school, but there's some timelines you definitely don't want to keep around."
+msgstr ""
+
+#: levels/branches/branch-remove
+msgid "On second thought, maybe you even prefer the ice cream timeline to the main one? :)"
+msgstr ""
+
+#: levels/branches/branch-remove
+msgid "Find the bad branches and delete them. Keep only the best one."
+msgstr ""
+
+#: levels/branches/reorder
+msgid "Moving branches around"
+msgstr ""
+
+#: levels/branches/reorder
+msgid ""
+"One of your colleagues messed up here, and put the branches in the wrong timelines!\n"
+"\n"
+"You could delete and re-create these branches - but you can also directly move them to different commits, by using\n"
+"\n"
+"    git checkout\n"
+"\n"
+"on the branch names, and then using\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"on the commit where you want the branch to be.\n"
+"\n"
+"The donut branch is in the right place, but the timeline is still incomplete - make you actually *eat* the donut in that branch!"
+msgstr ""
+
+#: levels/branches/reorder
+msgid "Did you eat a baguette on the baguette branch?"
+msgstr ""
+
+#: levels/branches/reorder
+msgid "Did you drink a coffee on the coffee branch?"
+msgstr ""
+
+#: levels/branches/reorder
+msgid "Did you eat a donut on the donut branch?"
+msgstr ""
+
+#: levels/branches/reorder
+msgid "Remember to checkout the blue branch tag when you want it to grow with the timeline."
+msgstr ""
+
+#: levels/merge/merge
+msgid "Merging timelines"
+msgstr ""
+
+#: levels/merge/merge
+msgid "Here's a trick so that you can sleep a bit longer: just do all your morning activities in parallel universes, and then at the end, merge them together!"
+msgstr ""
+
+#: levels/merge/merge
+msgid "I wonder if you're more relaxed when you *sleep* in parallel timelines..."
+msgstr ""
+
+#: levels/merge/merge
+msgid "Build a situation where you consumed a baguette, a coffee, *and* a donut."
+msgstr ""
+
+#: levels/merge/merge
+msgid "Be on a merge commit."
+msgstr ""
+
+#: levels/merge/conflict
+msgid "Contradictions"
+msgstr ""
+
+#: levels/merge/conflict
+msgid ""
+"Sometimes, timelines will contradict each other.\n"
+"\n"
+"For example, in this case, one of our clients wants these timelines merged, but they ate different things for breakfast in both timelines.\n"
+"\n"
+"Try to merge them together! You'll notice that there will be a conflict! The time machine will leave it up to you how to proceed: you can edit the problematic item, it will show you the conflicting sections. You can keep either of the two versions - or create a combination of them! Remove the >>>, <<<, and === markers, and make a new commit to finalize the merge!\n"
+"\n"
+"Let your finalized timeline be the \"main\" one."
+msgstr ""
+
+#: levels/merge/conflict
+msgid "Yum, that sounds like a good breakfast!"
+msgstr ""
+
+#: levels/merge/conflict
+msgid "Make a breakfast compromise in the 'main' branch."
+msgstr ""
+
+#: levels/index/compare
+msgid "Step by step"
+msgstr ""
+
+#: levels/index/compare
+msgid ""
+"Welcome to today's lesson! We're going to learn how to make commits with more precision!\n"
+"\n"
+"Have a look at these two timelines. They have exactly the same outcome. But one of them makes it much easier to figure out what happened."
+msgstr ""
+
+#: levels/index/compare
+msgid "Pick the timeline that's clearer, and make the alarm go off!"
+msgstr ""
+
+#: levels/index/new
+msgid "Add new files to the index"
+msgstr ""
+
+#: levels/index/new
+msgid ""
+"So far, when we made a commit, we've always recorded the current status of all objects, right?\n"
+"\n"
+"But Git allows you to pick which changes you want to put in a commit!\n"
+"\n"
+"To learn how that works, we need to learn about the \"index\"! In the index, we can prepare what will be in the next commit. In this game, the index is represented by a blue aura around icons in the file browser!\n"
+"\n"
+"Initially, the index is empty. To make a commit that contains a new file, we need to add it!"
+msgstr ""
+
+#: levels/index/new
+msgid "You can use tab completion in the terminal! Start typing a filename, then press the tab key to complete its name. This will often save you some time!"
+msgstr ""
+
+#: levels/index/new
+#: levels/index/change
+msgid "Add the candle."
+msgstr ""
+
+#: levels/index/new
+#: levels/index/change
+msgid "Make a commit."
+msgstr ""
+
+#: levels/index/change
+msgid "Update files in the index"
+msgstr ""
+
+#: levels/index/change
+msgid ""
+"When we change files, the index won't change on its own. We have to use `git add` to update the index to the changed version of the file.\n"
+"\n"
+"Let's try that!\n"
+"\n"
+"The icons in the file browser show you when the actual file (white) and the version in the index (blue) are different, and when they are the same!"
+msgstr ""
+
+#: levels/index/change
+msgid "Make a change to the candle."
+msgstr ""
+
+#: levels/index/reset
+msgid "Resetting files in the index"
+msgstr ""
+
+#: levels/index/reset
+msgid ""
+"See the dark shadow behind the icons? That's the version of the file in the last commit!\n"
+"\n"
+"For example, these candles have been blown out, and that change has been added.\n"
+"\n"
+"But you decide that this was a mistake! You only want to blow out the red candle in the next commit!\n"
+"\n"
+"If you already have updated the index to a changed file, but want to reset it, you can use `git reset`!"
+msgstr ""
+
+#: levels/index/reset
+msgid "Reset the changes in the green and blue candles!"
+msgstr ""
+
+#: levels/index/reset
+msgid "And make a commit!"
+msgstr ""
+
+#: levels/index/steps
+msgid "Adding changes step by step"
+msgstr ""
+
+#: levels/index/steps
+msgid "The index is really useful, because it allows us to be precise about which changes we want to include in each commit!"
+msgstr ""
+
+#: levels/index/steps
+msgid "Make changes to all three objects, to form a logical sequence of events!"
+msgstr ""
+
+#: levels/index/steps
+msgid "Only add one of these changes!"
+msgstr ""
+
+#: levels/index/steps
+msgid "And make a commit."
+msgstr ""
+
+#: levels/index/steps
+msgid "Make a second commit that only records a single change."
+msgstr ""
+
+#: levels/index/steps
+msgid "And a third one."
+msgstr ""
+
+#: levels/remotes/friend
+msgid "Friend"
+msgstr ""
+
+#: levels/remotes/friend
+msgid ""
+"Your friend added another line to your essay! Get it, add a third one and send it to them!\n"
+"\n"
+"Take turns until you have five lines!"
+msgstr ""
+
+#: levels/remotes/friend
+msgid "Oh nice, I added a fourth line!"
+msgstr ""
+
+#: levels/remotes/friend
+msgid "Got the second line from your friend"
+msgstr ""
+
+#: levels/remotes/friend
+msgid "Got the fourth line from your friend."
+msgstr ""
+
+#: levels/remotes/friend
+msgid "The friend got a third line from you"
+msgstr ""
+
+#: levels/remotes/friend
+msgid "The friend got a fifth line from you"
+msgstr ""
+
+#: levels/remotes/problems
+msgid "Problems"
+msgstr ""
+
+#: levels/remotes/problems
+msgid "Both you and your friend have been working on the file, and want to sync up!"
+msgstr ""
+
+#: levels/remotes/problems
+msgid "Commit your local changes."
+msgstr ""
+
+#: levels/remotes/problems
+msgid "Look at your friend's suggestion, make a compromise, and push it back."
+msgstr ""
+
+#: levels/changing-the-past/rebase
+msgid "Rebasing"
+msgstr ""
+
+#: levels/changing-the-past/rebase
+msgid ""
+"Okay - turns out that saving time in the morning by utilizing parallel universes is against the regulations of the International Time Travel Association. You'll have to do your tasks in sequence after all.\n"
+"\n"
+"See the \"rebase\" card? When you drag it to a commit, it will copy the events in your current timeline after the specified one! This way, make a clean, linear timeline where you visit all three shops.\n"
+"\n"
+"Again, we want to make that our base reality - the \"main\" branch should point to that timeline!"
+msgstr ""
+
+#: levels/changing-the-past/rebase
+msgid ""
+"Notice how the other timelines and commits are still there - if anything goes wrong, you can also travel back to them.\n"
+"\n"
+"It's really hard to actually *destroy* stuff with your time machine."
+msgstr ""
+
+#: levels/changing-the-past/rebase
+msgid "Order all tree branches into one and move the main branch ref"
+msgstr ""
+
+#: levels/changing-the-past/reorder
+msgid "Reordering events"
+msgstr ""
+
+#: levels/changing-the-past/reorder
+msgid ""
+"Oops, looks like there's something messed up here. Can you put the events back into their correct order?\n"
+"\n"
+"There are two ways to do this: You can drag the \"interactive rebase\" card to the commit before the one you want to change, then reorder the lines in the file that opens, and save it.\n"
+"\n"
+"Or you can reset the main tag to the very first commit, and then cherry-pick single commits in the order you want. You have cards for both approaches!"
+msgstr ""
+
+#: levels/changing-the-past/reorder
+msgid "Feel free to reset the level and try the other strategy! Which one do you like better?"
+msgstr ""
+
+#: levels/changing-the-past/reorder
+msgid "Reorder the commits to dress yourself in the correct way"
+msgstr ""
+
+#: levels/shit-happens/restore-a-file
+msgid "Restore a deleted file"
+msgstr ""
+
+#: levels/shit-happens/restore-a-file
+msgid ""
+"Oops - you deleted the \"essay\" file, which you worked on all night!\n"
+"\n"
+"Luckily, Git is here to help! You can use `git checkout` to restore the file!"
+msgstr ""
+
+#: levels/shit-happens/restore-a-file
+msgid "Restore the essay to contain \"important content\""
+msgstr ""
+
+#: levels/shit-happens/restore-a-file-from-the-past
+msgid "Restore a file from the past"
+msgstr ""
+
+#: levels/shit-happens/restore-a-file-from-the-past
+msgid ""
+"Here's a similar problem: you really liked the essay from the very first commit, and want to have it back! Well, checkout can also restore things from older commits, Here's how:\n"
+"\n"
+"    git checkout [commit] [file]"
+msgstr ""
+
+#: levels/shit-happens/restore-a-file-from-the-past
+msgid "Get the first version of your essay, and make a new commit with it."
+msgstr ""
+
+#: levels/shit-happens/bad-commit
+msgid "Undo a bad commit"
+msgstr ""
+
+#: levels/shit-happens/bad-commit
+msgid ""
+"Oh no, we made a bad commit! How can we undo making the commit, and go back to a point where we can try again?\n"
+"\n"
+"The answer is using `git reset [commit]`, which does two things:\n"
+"\n"
+"- It resets the current branch ref to the commit you specify.\n"
+"- And it resets the index to that commit.\n"
+"\n"
+"It does not change your working directory in any way, which means that after that, you can try making the commit you want again."
+msgstr ""
+
+#: levels/shit-happens/bad-commit
+msgid "In the last main commit, the numbers file contains the numbers from 1 to 10."
+msgstr ""
+
+#: levels/shit-happens/bad-commit
+msgid "The commit message of that commit is \"More numbers\"."
+msgstr ""
+
+#: levels/shit-happens/bad-commit
+msgid "The commit with the typo is not part of the main branch anymore."
+msgstr ""
+
+#: levels/shit-happens/pushed-something-broken
+msgid "I pushed something broken"
+msgstr ""
+
+#: levels/shit-happens/pushed-something-broken
+msgid "We were talking about how to undo a commit, and fix it. This only helps when you haven't already pushed it to a remote. When that has happened, and you want to undo the effects of the commit completely, your best option is `git revert`"
+msgstr ""
+
+#: levels/shit-happens/pushed-something-broken
+msgid "The team's main branch no longer contains the bad thing."
+msgstr ""
+
+#: levels/shit-happens/pushed-something-broken
+msgid "And the history has not been modified."
+msgstr ""
+
+#: levels/shit-happens/reflog
+msgid "Go back to where you were before"
+msgstr ""
+
+#: levels/shit-happens/reflog
+msgid ""
+"Say you were looking at something in the past, and then switched back to the main branch.\n"
+"\n"
+"But then, you got reaaally distracted, and after your lunch break, you can't remember which past commit you were on before. How can you find out?\n"
+"\n"
+"There's a convenient command that shows you all the places your HEAD has pointed to in the past:\n"
+"\n"
+"    git reflog"
+msgstr ""
+
+#: levels/shit-happens/reflog
+msgid "Find out where you've been before, and go back there!"
+msgstr ""
+
+#: levels/workflows/pr
+msgid "Cloning a repo"
+msgstr ""
+
+#: levels/workflows/pr
+msgid "Your friend has a problem! Clone the repo located in `../friend`, create a branch called \"solution\", and fix the problem in this branch. When you're ready, make a \"Pull Request\" by using `git tag pr`."
+msgstr ""
+
+#: levels/workflows/pr
+#: scenes/notification.gd
+msgid "Thanks!"
+msgstr ""
+
+#: levels/bisect/bisect
+msgid "Yellow brick road"
+msgstr ""
+
+#: levels/bisect/bisect
+msgid ""
+"(Please zoom out a bit using your mouse wheel! :D)\n"
+"\n"
+"Oh no! You have lost your key at some point during the day!\n"
+"\n"
+"Sure, you could look at every single commit in an attempt to find it - but there's a better way: your time machine has a built-in way to find the point in time where things went wrong quickly!\n"
+"\n"
+"First, play the \"bisect start\" card. Then, go to a commit where you don't have the key, and play the \"bisect bad\" card. Likewise, go to a commit early on where you have the key *in your pocket*, and play the \"bisect good\" card.\n"
+"\n"
+"After you've found the last good commit, reset the main branch to it. What happened to the key after you lost it?"
+msgstr ""
+
+#: levels/bisect/bisect
+msgid "Well done! :) The only problem is that you now have to walk all the way back home, again..."
+msgstr ""
+
+#: levels/bisect/bisect
+msgid "Find the last good commit"
+msgstr ""
+
+#: levels/stash/stash
+#: scenes/i18n.gd
+msgid "Stashing"
+msgstr ""
+
+#: levels/stash/stash
+msgid ""
+"You will encounter situations in which you are working on your project but you need to\n"
+"put your current changes aside temporarily. To do so, you can use the stash function. Use\n"
+"    git stash push \n"
+"to add your current changes to the stash stack."
+msgstr ""
+
+#: levels/stash/stash
+msgid ""
+"Just\n"
+"    git stash\n"
+"without \"push\" does the same thing."
+msgstr ""
+
+#: levels/stash/stash
+msgid "After stashing, your working directory goes back to the last commit. Your changes aren't lost, they're waiting in the stash."
+msgstr ""
+
+#: levels/stash/stash
+#: levels/stash/stash-pop
+msgid ""
+"To see what's in the stash, use\n"
+"    git stash list"
+msgstr ""
+
+#: levels/stash/stash
+msgid "Nice stash you got there! :)"
+msgstr ""
+
+#: levels/stash/stash
+msgid "Did you stash the current changes?"
+msgstr ""
+
+#: levels/stash/stash-pop
+msgid "Pop from Stash"
+msgstr ""
+
+#: levels/stash/stash-pop
+msgid ""
+"When you stashed your changes and you want to apply them back to your current working directory, you can use\n"
+"    git stash pop\n"
+"This will remove the changes from the stash stack. If you also want to keep the changes on the stash stack, use\n"
+"    git stash apply"
+msgstr ""
+
+#: levels/stash/stash-pop
+msgid "pop is apply plus drop: it applies the changes and removes the entry from the stash in one go."
+msgstr ""
+
+#: levels/stash/stash-pop
+msgid "If there are several entries in the stash, pop takes the most recent one, stash@{0}."
+msgstr ""
+
+#: levels/stash/stash-pop
+#: levels/stash/stash-merge
+msgid "Yay, you got your changes back! :)"
+msgstr ""
+
+#: levels/stash/stash-pop
+msgid "Did you pop the changes from the stash stack?"
+msgstr ""
+
+#: levels/stash/stash-clear
+msgid "Clear the Stash"
+msgstr ""
+
+#: levels/stash/stash-clear
+msgid ""
+"If you want to inspect your stash stack, use the command\n"
+"    git stash list\n"
+"    \n"
+"Oh, you don't want to keep your stashed changes? There are way too many? Then go ahead and clear the stack with\n"
+"    git stash clear\n"
+"If you only want to discard a certain stash entry, you can use\n"
+"    git stash drop <stash>\n"
+"    \n"
+"Clear your stash stack!"
+msgstr ""
+
+#: levels/stash/stash-clear
+msgid "Stash entries are named stash@{0}, stash@{1} and so on. That's what you put in place of <stash>."
+msgstr ""
+
+#: levels/stash/stash-clear
+msgid "Careful: git stash clear removes all entries at once, without asking."
+msgstr ""
+
+#: levels/stash/stash-clear
+msgid ""
+"Just type\n"
+"    git stash clear"
+msgstr ""
+
+#: levels/stash/stash-clear
+msgid "All clear! :)"
+msgstr ""
+
+#: levels/stash/stash-clear
+msgid "Did you clear your stash stack?"
+msgstr ""
+
+#: levels/stash/stash-branch
+msgid "Branch from stash"
+msgstr ""
+
+#: levels/stash/stash-branch
+msgid ""
+"If you want to keep your changes but they don't belong to the main branch, you can easily\n"
+"create a new branch from your stashed changes. Just use\n"
+"    git stash branch <branchname> <stash>\n"
+"If you just want to use the latest stash entry, you can leave the <stash> option empty.\n"
+"\n"
+"Create a new branch from the stashed changes!"
+msgstr ""
+
+#: levels/stash/stash-branch
+msgid ""
+"For example:\n"
+"    git stash branch pie"
+msgstr ""
+
+#: levels/stash/stash-branch
+msgid "The new branch starts at the commit where you stashed, so there won't be any conflicts."
+msgstr ""
+
+#: levels/stash/stash-branch
+msgid "After that, the stash entry is removed automatically."
+msgstr ""
+
+#: levels/stash/stash-branch
+msgid "Stashed changes are in a new branch! :)"
+msgstr ""
+
+#: levels/stash/stash-branch
+msgid "Did you create a new branch from the stashed changes?"
+msgstr ""
+
+#: levels/stash/stash-merge
+msgid "Merging popped stash"
+msgstr ""
+
+#: levels/stash/stash-merge
+msgid ""
+"When you want to re-apply your changes but you already continued working on your file, you might get\n"
+"a merge conflict! Let's practice this situation.\n"
+"Pop the changes from the stash with\n"
+"    git stash pop\n"
+"and resolve the merge conflict. Commit the resolved changes and clear the stash stack afterwards."
+msgstr ""
+
+#: levels/stash/stash-merge
+msgid "Open the file recipe, keep both the flour and the salt, and remove the markers <<<<<<<, ======= and >>>>>>>."
+msgstr ""
+
+#: levels/stash/stash-merge
+msgid ""
+"When there's a conflict, pop doesn't remove the entry from the stash, so you need to clear it at the end:\n"
+"    git stash clear"
+msgstr ""
+
+#: levels/stash/stash-merge
+msgid ""
+"Don't forget to add the file to the index before you commit:\n"
+"    git add recipe"
+msgstr ""
+
+#: levels/stash/stash-merge
+msgid "Did you resolve the conflict and commit?"
+msgstr ""
+
+#: levels/stash/stash-merge
+msgid "Did you clear stash stack?"
+msgstr ""
+
+#: levels/tags/add-tag
+msgid "Creating tags"
+msgstr ""
+
+#: levels/tags/add-tag
+msgid ""
+"Some of your commits may be special commits. Maybe you reached a milestone or a new version number.\n"
+"\n"
+"You can mark these commits with a special flag called 'tag'.\n"
+"\n"
+"Write \n"
+"\n"
+"    git tag <tag-name> \n"
+"    \n"
+"to tag your commit."
+msgstr ""
+
+#: levels/tags/add-tag
+msgid ""
+"For example:\n"
+"    git tag v1"
+msgstr ""
+
+#: levels/tags/add-tag
+msgid "A tag sticks to the commit you're on right now. You'll see it in the graph next to that commit."
+msgstr ""
+
+#: levels/tags/add-tag
+msgid ""
+"To list all tags, use\n"
+"    git tag"
+msgstr ""
+
+#: levels/tags/add-tag
+msgid "Nice! You tagged your first commit :)"
+msgstr ""
+
+#: levels/tags/add-tag
+#: levels/tags/add-tag-later
+msgid "Did you create a new tag?"
+msgstr ""
+
+#: levels/tags/remove-tag
+msgid "Removing tags"
+msgstr ""
+
+#: levels/tags/remove-tag
+msgid ""
+"You added way too many tags? No prob! Delete them with\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"    \n"
+"Remove all tags in this repo!"
+msgstr ""
+
+#: levels/tags/remove-tag
+msgid "This repo has three tags: v1, v2 and v3."
+msgstr ""
+
+#: levels/tags/remove-tag
+msgid ""
+"You can delete several tags at once:\n"
+"    git tag -d v1 v2 v3"
+msgstr ""
+
+#: levels/tags/remove-tag
+msgid ""
+"To check which tags are left, use\n"
+"    git tag"
+msgstr ""
+
+#: levels/tags/remove-tag
+#: levels/tags/add-tag-later
+msgid "Well done :)"
+msgstr ""
+
+#: levels/tags/remove-tag
+msgid "Did you remove all tags?"
+msgstr ""
+
+#: levels/tags/add-tag-later
+msgid "Tagging later"
+msgstr ""
+
+#: levels/tags/add-tag-later
+msgid ""
+"But what happens if you forgot to tag your current commit?\n"
+"No Prob! You can also tag older commits via\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"    \n"
+"Tag the commit \"Adding feature 2\" with the name \"v1\"!"
+msgstr ""
+
+#: levels/tags/add-tag-later
+msgid "Look at the graph and find the commit \"Adding feature 2\". It's the one right before the newest commit."
+msgstr ""
+
+#: levels/tags/add-tag-later
+msgid "You don't need the full hash. The first few characters are enough, and HEAD~1 works too."
+msgstr ""
+
+#: levels/tags/add-tag-later
+msgid ""
+"For example:\n"
+"    git tag v1 HEAD~1"
+msgstr ""
+
+#: levels/tags/remote-tag
+msgid "Remote Tags"
+msgstr ""
+
+#: levels/tags/remote-tag
+msgid ""
+"When you work with remote repositories, tags are not pushed or pulled automatically.\n"
+"\n"
+"You can push a tag with\n"
+"    git push <remote> <tag-name>\n"
+"Or all tags with:\n"
+"    git push <remote> --tags\n"
+"    \n"
+"Deleting tags on your remote works with: \n"
+"    git push <remote> --delete <tag-name>\n"
+"    \n"
+"You can also sync \n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"Add a tag named \"v2\" to the last commit and push it to the remote. Also pull the v1 tag to your local repository."
+msgstr ""
+
+#: levels/tags/remote-tag
+msgid "v1 tag in your repo"
+msgstr ""
+
+#: levels/tags/remote-tag
+msgid "v2 tag in your repo"
+msgstr ""
+
+#: levels/tags/remote-tag
+msgid "v2 tag in the remote"
+msgstr ""
+
+#: levels/sandbox/empty
+msgid "Empty sandbox"
+msgstr ""
+
+#: levels/sandbox/empty
+msgid "This is an empty sandbox you can play around in."
+msgstr ""
+
+#: levels/sandbox/remote
+msgid "Sandbox with a remote"
+msgstr ""
+
+#: levels/sandbox/remote
+msgid ""
+"Here's a sandbox with a remote! Try pulling, fetching, or pushing!\n"
+"\n"
+"How can you push tags and branches on a remote? How can you delete them again?"
+msgstr ""
+
+#: levels/sandbox/three-commits
+msgid "Sandbox with three commits"
+msgstr ""
+
+#: levels/sandbox/three-commits
+msgid ""
+"Here's a sandbox you can play around in.\n"
+"\n"
+"You can use both the playing cards, as well as the terminal. This is a real Git terminal! Fun things to try:\n"
+"\n"
+"- Make a commit that merges three timelines together at once!\n"
+"- Create and delete some tags!\n"
+"- Make a timeline that's completely independent of the rest!"
+msgstr ""
+
+#: resources/cards.json
+msgid "Drag this card into the empty space above to initialize the time machine!"
+msgstr ""
+
+#: resources/cards.json
+msgid "Create your own copy of someone else's repo."
+msgstr ""
+
+#: resources/cards.json
+msgid ""
+"Set your name.\n"
+"\n"
+"(Will not change anything outside of this game.)"
+msgstr ""
+
+#: resources/cards.json
+msgid "Set your email address."
+msgstr ""
+
+#: resources/cards.json
+msgid "Drag this card to a commit or to a branch to travel to it!"
+msgstr ""
+
+#: resources/cards.json
+msgid "Reset changes in a local file."
+msgstr ""
+
+#: resources/cards.json
+msgid "Get the file contents from the specified commits, and reset both the working directory, as well as the index, to it."
+msgstr ""
+
+#: resources/cards.json
+msgid ""
+"Make a new commit, after automatically adding all changes to the index.\n"
+"You'll be asked to enter a short description of what you changed."
+msgstr ""
+
+#: resources/cards.json
+msgid "Make a new commit containing your current environment! Type in a description of what changed!"
+msgstr ""
+
+#: resources/cards.json
+msgid "Merge the specified timeline into yours. If necessary, will create a merge commit."
+msgstr ""
+
+#: resources/cards.json
+msgid "Abort the current merge attempt, and reconstruct the previous state."
+msgstr ""
+
+#: resources/cards.json
+msgid "Put the events in your current timeline on top of the specified one."
+msgstr ""
+
+#: resources/cards.json
+msgid "Get someone else's version of the current timeline, and try to merge it into yours."
+msgstr ""
+
+#: resources/cards.json
+msgid "Get a someone else's version of the current timeline."
+msgstr ""
+
+#: resources/cards.json
+msgid "Give the current timeline to someone else."
+msgstr ""
+
+#: resources/cards.json
+msgid "Make changes to the events in your current timeline, back to the commit you drag this to."
+msgstr ""
+
+#: resources/cards.json
+msgid "Continue the current rebasing process."
+msgstr ""
+
+#: resources/cards.json
+msgid "Move the branch you're on to the specified commit."
+msgstr ""
+
+#: resources/cards.json
+msgid "Jump to the commit, and update the index. Keep the current environment."
+msgstr ""
+
+#: resources/cards.json
+msgid "Reset the index version of a file to the version in the commit you're on."
+msgstr ""
+
+#: resources/cards.json
+msgid "Repeat the specified action on top of your current timeline."
+msgstr ""
+
+#: resources/cards.json
+msgid "Make a new commit that reverts the changes of the specified commit."
+msgstr ""
+
+#: resources/cards.json
+msgid "Start looking for the commit where things got bad."
+msgstr ""
+
+#: resources/cards.json
+msgid "State that the current commit is good! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr ""
+
+#: resources/cards.json
+msgid "State that the current commit is bad! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr ""
+
+#: resources/cards.json
+msgid "Update the index version of the file to its current real content."
+msgstr ""
+
+#: resources/cards.json
+msgid "Delete a file both in the working directory, as well as the index."
+msgstr ""
+
+#: resources/cards.json
+msgid "Make a commit from the current index."
+msgstr ""
+
+#: resources/cards.json
+msgid "Show what changed in the commit."
+msgstr ""
+
+#: resources/cards.json
+msgid "Create a new branch at your current location."
+msgstr ""
+
+#: resources/cards.json
+msgid "Delete a branch."
+msgstr ""
+
+#: resources/cards.json
+msgid "Display a log of where the ref pointed to in the past."
+msgstr ""
+
+#: resources/cards.json
+msgid "Create a new file."
+msgstr ""
+
+#: resources/cards.json
+msgid "Delete a file."
+msgstr ""
+
+#: resources/cards.json
+msgid "Rename a file."
+msgstr ""
+
+#: resources/cards.json
+msgid "Make a copy of a file."
+msgstr ""
+
+#: scenes/cards.gd
+msgid "These are your cards! Drag them to highlighted areas to play them!"
+msgstr ""
+
+#: scenes/cards.tscn
+msgid "Draw new cards"
+msgstr ""
+
+#: scenes/file_browser.gd
+msgid "Click on these files to edit them!"
+msgstr ""
+
+#: scenes/file_browser.tscn
+#: scenes/text_editor.tscn
+msgid "Save"
+msgstr ""
+
+#: scenes/helpers.gd
+msgid "The game ran into an error and will close."
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Introduction"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Files"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Branches"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Merging"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "The index"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Remotes"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Changing the past"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Fixing mistakes"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Workflows"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Bisect"
+msgstr ""
+
+#: scenes/i18n.gd
+msgid "Tags"
+msgstr ""
+
+#: scenes/i18n.gd
+#: scenes/no_git.tscn
+#: scenes/title.tscn
+msgid "Sandbox"
+msgstr ""
+
+#: scenes/level.gd
+msgid "(no description)"
+msgstr ""
+
+#: scenes/level.gd
+msgid "Complete the goal of this level"
+msgstr ""
+
+#: scenes/level_select.gd
+msgid "You get a golden badge for each level you solve without using the playing cards! Can you solve them all using the command line?"
+msgstr ""
+
+#: scenes/level_select.tscn
+#: scenes/main.tscn
+#: scenes/support.gd
+msgid "Back"
+msgstr ""
+
+#: scenes/level_select.tscn
+#: scenes/main.tscn
+msgid "Reload"
+msgstr ""
+
+#: scenes/level_select.tscn
+msgid ""
+"Help us improving Oh My Git! by\n"
+"answering some questions:"
+msgstr ""
+
+#: scenes/level_select.tscn
+msgid "To the survey /o/"
+msgstr ""
+
+#: scenes/main.tscn
+msgid "Cards!"
+msgstr ""
+
+#: scenes/main.tscn
+msgid "Tip!"
+msgstr ""
+
+#: scenes/main.tscn
+msgid "Next level"
+msgstr ""
+
+#: scenes/music_button.tscn
+msgid "Toggle music"
+msgstr ""
+
+#: scenes/no_git.tscn
+#: scenes/survey.tscn
+#: scenes/title.tscn
+msgid "by bleeptrack & blinry"
+msgstr ""
+
+#: scenes/no_git.tscn
+#: scenes/title.tscn
+msgid "Original score by winniehell"
+msgstr ""
+
+#: scenes/no_git.tscn
+#: scenes/title.tscn
+msgid "Levels"
+msgstr ""
+
+#: scenes/no_git.tscn
+msgid "Sure, I'll install it!"
+msgstr ""
+
+#: scenes/no_git.tscn
+msgid ""
+"Hi! It seems that you don't have Git installed yet!\n"
+"\n"
+"On Linux, please install it from your package manager, usually the package is called \"git\"!\n"
+"\n"
+"On macOS 10.8 and below, you can download Git from git-scm.com."
+msgstr ""
+
+#: scenes/node.gd
+msgid "You can drag these around with your mouse!"
+msgstr ""
+
+#: scenes/notification.gd
+#: scenes/notification.tscn
+msgid "Got it!"
+msgstr ""
+
+#: scenes/notification.gd
+msgid "Interesting!"
+msgstr ""
+
+#: scenes/notification.gd
+msgid "Very useful!"
+msgstr ""
+
+#: scenes/notification.gd
+msgid "Cool!"
+msgstr ""
+
+#: scenes/notification.gd
+msgid "Nice!"
+msgstr ""
+
+#: scenes/notification.gd
+msgid "Whatever..."
+msgstr ""
+
+#: scenes/notification.gd
+msgid "Okay!"
+msgstr ""
+
+#: scenes/notification.gd
+msgid "Yay!"
+msgstr ""
+
+#: scenes/notification.gd
+msgid "Awesome!"
+msgstr ""
+
+#: scenes/repository.gd
+msgid "This is the time machine of another person! To interact with it, you need special commands!"
+msgstr ""
+
+#: scenes/repository.tscn
+msgid "Index:"
+msgstr ""
+
+#: scenes/repository.tscn
+msgid "Update"
+msgstr ""
+
+#: scenes/repository.tscn
+msgid "Hide trees and blobs"
+msgstr ""
+
+#: scenes/support.gd
+msgid "Hi, I'm Teo Hanki!"
+msgstr ""
+
+#: scenes/support.gd
+msgid ""
+"I translate Oh My Git! on my own, in my free time.\n"
+"The translation is free and will always stay free.\n"
+"Every donation helps me keep it up to date and add new languages.\n"
+"Thank you!"
+msgstr ""
+
+#: scenes/support.gd
+msgid "new versions, bug reports, ideas"
+msgstr ""
+
+#: scenes/support.gd
+msgid "opens in your browser"
+msgstr ""
+
+#: scenes/survey.tscn
+#: scenes/title.tscn
+msgid "Quit"
+msgstr ""
+
+#: scenes/survey.tscn
+msgid ""
+"Thanks for playing!\n"
+"\n"
+"Oh My Git! is free and open-source! <3\n"
+"\n"
+"If this game was valuable to you, consider joining our supporters on Patreon:"
+msgstr ""
+
+#: scenes/survey.tscn
+msgid "Support us! (Open two browser tabs)"
+msgstr ""
+
+#: scenes/terminal.gd
+msgid "This is your terminal! All commands are executed here, and you can see their output. You can also type your own commands here!"
+msgstr ""
+
+#: scenes/title.gd
+msgid "Support the translator"
+msgstr ""
+
+#: scenes/title.gd
+msgid "Language"
+msgstr ""
+
+#: scenes/level.gd
+msgid ""
+"Good job, you solved the level!\n"
+"\n"
+"Feel free to try a few more things or click 'Next level'."
+msgstr ""
+

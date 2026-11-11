@@ -1,0 +1,1531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oh My Git!\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Teo Hanki\n"
+"Language-Team: Indonesian\n"
+
+msgid "Living dangerously"
+msgstr "Hidup di ujung tanduk"
+
+msgid ""
+"So you have decided to apply for time travel school, to learn how to use this time machine called \"Git\"!\n"
+"\n"
+"How exciting!\n"
+"\n"
+"You're almost done with the paperwork! You just need to fill in one more reason why you want to learn Git."
+msgstr ""
+"Jadi kamu memutuskan mendaftar ke sekolah perjalanan waktu, untuk belajar memakai mesin waktu bernama \"Git\"!\n"
+"\n"
+"Seru banget!\n"
+"\n"
+"Berkas pendaftaranmu hampir selesai! Tinggal tulis satu alasan lagi kenapa kamu ingin belajar Git."
+
+msgid ""
+"Suddenly, your cat jumps on the table, snatches away the form, and runs away! Oh no. All your hard work, gone!\n"
+"\n"
+"You clearly need a better solution.\n"
+"\n"
+"(Click \"Next Level\" as soon as you're ready!)"
+msgstr ""
+"Tiba-tiba kucingmu melompat ke meja, merebut formulirnya, lalu kabur! Oh tidak. Semua kerja kerasmu hilang!\n"
+"\n"
+"Jelas kamu butuh cara yang lebih baik.\n"
+"\n"
+"(Klik \"Level berikutnya\" kalau sudah siap!)"
+
+msgid "Add another line to form.txt!"
+msgstr "Tambahkan satu baris lagi ke form.txt!"
+
+msgid "Making backups"
+msgstr "Membuat cadangan"
+
+msgid "This time, you're making a lot of backup copies - you can look at them by clicking on them!"
+msgstr "Kali ini kamu membuat banyak salinan cadangan. Kamu bisa melihatnya dengan mengekliknya!"
+
+msgid ""
+"Okay, this kind of works.\n"
+"\n"
+"But you're a bit worried that you'll end up with hundreds of copies of this form, and it will be hard to keep track of all of them.\n"
+"\n"
+"And especially when working with other people, sending copies back and forth doesn't seem ideal.\n"
+"\n"
+"You can't wait to try these time machines!"
+msgstr ""
+"Oke, ini lumayan berhasil.\n"
+"\n"
+"Tapi kamu agak khawatir nanti punya ratusan salinan formulir ini, dan jadi susah melacak semuanya.\n"
+"\n"
+"Apalagi kalau bekerja bersama orang lain, kirim-kirim salinan bolak-balik rasanya bukan cara yang ideal.\n"
+"\n"
+"Kamu sudah tidak sabar mencoba mesin waktu itu!"
+
+msgid "Add another line to form2_really_final.txt!"
+msgstr "Tambahkan satu baris lagi ke form2_really_final.txt!"
+
+msgid "Enter the time machine"
+msgstr "Masuk ke mesin waktu"
+
+msgid ""
+"You've been accepted to time travel school! Yay! It's your first day! Your teacher explains:\n"
+"\n"
+"\"To do anything with a time machine, you first need to initialize it!\"\n"
+"\n"
+"Drag that blue card up to play it!"
+msgstr ""
+"Kamu diterima di sekolah perjalanan waktu! Hore! Hari ini hari pertamamu! Gurumu menjelaskan:\n"
+"\n"
+"\"Untuk melakukan apa pun dengan mesin waktu, kamu harus menginisialisasinya dulu!\"\n"
+"\n"
+"Seret kartu biru itu ke atas untuk memainkannya!"
+
+msgid "Nice! See that little owl squirrel that appeared? It will be your companion, and always show you where you are in time!"
+msgstr "Bagus! Lihat tupai-burung hantu kecil yang muncul itu? Dia temanmu, dan akan selalu menunjukkan di titik waktu mana kamu berada!"
+
+msgid "Initialize the time machine!"
+msgstr "Inisialisasi mesin waktunya!"
+
+msgid "The command line"
+msgstr "Baris perintah"
+
+msgid "These playing cards are designed to be easy to use and to remember! We'd suggest sticking to them if you don't have a lot of experience with Git!"
+msgstr "Kartu-kartu ini dibuat supaya mudah dipakai dan diingat! Kalau kamu belum banyak pengalaman dengan Git, sebaiknya pakai kartu saja dulu!"
+
+msgid ""
+"But there's another way to interact with Git:\n"
+"\n"
+"Try typing `git init` into the black terminal below, and pressing the enter key!"
+msgstr ""
+"Tapi ada cara lain untuk berinteraksi dengan Git:\n"
+"\n"
+"Coba ketik `git init` di terminal hitam di bawah, lalu tekan Enter!"
+
+msgid ""
+"Cool! Instead of using the playing cards, you can also do everything via the command line!\n"
+"\n"
+"The command line is pretty powerful! Often, you can use it to solve tasks faster compared to using a graphical interface."
+msgstr ""
+"Keren! Selain memakai kartu, kamu juga bisa melakukan semuanya lewat baris perintah!\n"
+"\n"
+"Baris perintah itu sangat ampuh! Sering kali kamu bisa menyelesaikan tugas lebih cepat dibanding lewat tampilan grafis."
+
+msgid "Your first commit"
+msgstr "Commit pertamamu"
+
+msgid ""
+"You can use your time machine to make snapshots of objects around you! Here, let's practice this!\n"
+"\n"
+"(Your teacher pours some water into a glass.)"
+msgstr ""
+"Kamu bisa memakai mesin waktumu untuk memotret benda-benda di sekitarmu! Ayo kita latihan!\n"
+"\n"
+"(Gurumu menuangkan sedikit air ke dalam gelas.)"
+
+msgid ""
+"Again, instead of using the card, you can also type the commands which are printed on it into the black terminal below!\n"
+"\n"
+"This is totally optional! But this will be a super useful skill in the real world - and it will give you a sparkling golden badge! :)"
+msgstr ""
+"Lagi-lagi, selain memakai kartu, kamu juga bisa mengetik perintah yang tercetak di kartu ke terminal hitam di bawah!\n"
+"\n"
+"Ini sepenuhnya opsional! Tapi ini keterampilan yang sangat berguna di dunia nyata, dan kamu akan dapat lencana emas yang berkilau! :)"
+
+msgid "Nice! You can try making some additional commits. When you feel comfortable, click on \"Next Level\"."
+msgstr "Bagus! Coba buat beberapa commit lagi. Kalau sudah merasa nyaman, klik \"Level berikutnya\"."
+
+msgid "Make a snapshot of the glass (a \"commit\")"
+msgstr "Potret gelasnya (sebuah \"commit\")"
+
+msgid "Change the contents of the glass!"
+msgstr "Ubah isi gelasnya!"
+
+msgid "And make a second commit!"
+msgstr "Lalu buat commit kedua!"
+
+msgid "Working together"
+msgstr "Bekerja bersama"
+
+msgid ""
+"Let's add your name to our list of students!\n"
+"\n"
+"I already have a second commit of it in my time machine - let's work together!"
+msgstr ""
+"Ayo tambahkan namamu ke daftar murid kami!\n"
+"\n"
+"Di mesin waktuku sudah ada commit kedua dari daftar ini. Ayo kita kerjakan bersama!"
+
+msgid "To go back to old commands, you can press arrow up and down. That way, you don't have to type in long commands twice."
+msgstr "Untuk kembali ke perintah lama, tekan tombol panah atas dan bawah. Jadi kamu tidak perlu mengetik perintah panjang dua kali."
+
+msgid "Welcome to time travel school! :) I'll see you for your first class tomorrow!"
+msgstr "Selamat datang di sekolah perjalanan waktu! :) Sampai jumpa di kelas pertamamu besok!"
+
+msgid "Get the second commit from your teacher using `git pull`."
+msgstr "Ambil commit kedua dari gurumu dengan `git pull`."
+
+msgid "Add your name to the list of students"
+msgstr "Tambahkan namamu ke daftar murid"
+
+msgid "Commit your result."
+msgstr "Commit hasilmu."
+
+msgid "And use `git push` to send it to your teacher!"
+msgstr "Lalu pakai `git push` untuk mengirimnya ke gurumu!"
+
+msgid "Unexpected Roommates"
+msgstr "Teman sekamar tak terduga"
+
+msgid ""
+"The first day at Time Travel School comes to an end and you receive the key to your room.\n"
+"Full of excitement you open the door just to find... spider webs! Spider webs everywhere!\n"
+"\n"
+"Remove all the spider webs you can find with the remove card!"
+msgstr ""
+"Hari pertama di sekolah perjalanan waktu hampir selesai, dan kamu menerima kunci kamarmu.\n"
+"Dengan penuh semangat kamu membuka pintu dan menemukan... sarang laba-laba! Sarang laba-laba di mana-mana!\n"
+"\n"
+"Singkirkan semua sarang laba-laba yang kamu temukan dengan kartu rm!"
+
+msgid ""
+"On the command line, you can easily delete all files ending in -web using this command:\n"
+"\n"
+"    rm *web"
+msgstr ""
+"Di baris perintah, kamu bisa dengan mudah menghapus semua file yang namanya berakhiran web dengan perintah ini:\n"
+"\n"
+"    rm *web"
+
+msgid "Your room looks now very tidy and cozy! Time to unpack your stuff!"
+msgstr "Kamarmu sekarang rapi dan nyaman! Saatnya membongkar barang bawaan!"
+
+msgid "Remove all spider webs."
+msgstr "Singkirkan semua sarang laba-laba."
+
+msgid "But make sure you keep your bed!"
+msgstr "Tapi pastikan tempat tidurmu tetap ada!"
+
+msgid "Interior design"
+msgstr "Menata kamar"
+
+msgid ""
+"Now that your room looks tidy, you can start to unpack your stuff. You brought two new pieces of furniture with you and with a bright smile,\n"
+"you see that their colors match the color of your bed!\n"
+"\n"
+"Build up your two pieces of furniture by playing the touch card.\n"
+"Then name your furniture - you can choose whatever you like.\n"
+"\n"
+"Make sure the colors match! You can find the bed's color in its description.\n"
+"Don't forget to add a color and description to your new furnitures, too!"
+msgstr ""
+"Sekarang kamarmu sudah rapi, kamu bisa mulai membongkar barang. Kamu membawa dua perabot baru, dan sambil tersenyum lebar\n"
+"kamu melihat warnanya cocok dengan warna tempat tidurmu!\n"
+"\n"
+"Pasang kedua perabotmu dengan memainkan kartu touch.\n"
+"Lalu beri nama perabotmu, terserah kamu.\n"
+"\n"
+"Pastikan warnanya cocok! Warna tempat tidur ada di deskripsinya.\n"
+"Jangan lupa menambahkan warna dan deskripsi untuk perabot barumu juga. Tulis warnanya dalam bahasa Inggris, sama seperti tempat tidur (yellow)."
+
+msgid "Don't you immediately feel more at home?"
+msgstr "Langsung terasa lebih seperti di rumah, kan?"
+
+msgid "Add two more pieces of furniture"
+msgstr "Tambahkan dua perabot lagi"
+
+msgid "Make sure the colors match your bed's color."
+msgstr "Pastikan warnanya cocok dengan warna tempat tidurmu (yellow)."
+
+msgid "Moving through time"
+msgstr "Bergerak melintasi waktu"
+
+msgid ""
+"The yellow boxes are frozen points in time, we call them \"commits\"! You can travel between them using the \"checkout\" card! (Try it!)\n"
+"\n"
+"Can you find out what happened here? Then, while on the last commit, edit the files to fix the problem, and make a new commit!"
+msgstr ""
+"Kotak-kotak kuning itu adalah titik waktu yang membeku, kami menyebutnya \"commit\"! Kamu bisa berpindah di antara commit memakai kartu checkout! (Coba saja!)\n"
+"\n"
+"Bisakah kamu mencari tahu apa yang terjadi di sini? Lalu, sambil berada di commit terakhir, ubah file-filenya untuk memperbaiki masalah, dan buat commit baru!"
+
+msgid ""
+"To checkout a specific commit, type `git checkout`, then a space, and then right click on the commit you want!\n"
+"\n"
+"This will insert the commit's unique identifier!"
+msgstr ""
+"Untuk checkout ke commit tertentu, ketik `git checkout`, lalu spasi, lalu klik kanan commit yang kamu inginkan!\n"
+"\n"
+"Ini akan menyisipkan pengenal unik commit itu!"
+
+msgid "Wonderful! Now that you're getting familiar with the time machine, let's look at some more complicated situations..."
+msgstr "Luar biasa! Sekarang kamu mulai akrab dengan mesin waktu, ayo kita lihat situasi yang lebih rumit..."
+
+msgid "Restore sisterly peace."
+msgstr "Damaikan kakak beradik itu."
+
+msgid "Make parallel commits"
+msgstr "Membuat commit paralel"
+
+msgid ""
+"Did you know that creating parallel timelines is perfectly legal and safe? It's true!\n"
+"\n"
+"Can you find out when things went wrong in this zoo? Then, go back to the last good commit and create a parallel universe where everyone is happy!"
+msgstr ""
+"Tahukah kamu bahwa membuat garis waktu paralel itu sepenuhnya legal dan aman? Sungguh!\n"
+"\n"
+"Bisakah kamu menemukan kapan semuanya mulai kacau di kebun binatang ini? Lalu, kembali ke commit terakhir yang masih baik, dan buat alam semesta paralel tempat semua orang bahagia!"
+
+msgid ""
+"The blue animal represents a concept known as the \"HEAD pointer\" in Git: It shows you which commit is the current one.\n"
+"\n"
+"Here's a cool trick to go to the previous commit: \n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"You can also go back two commits by typing, for example: \n"
+"\n"
+"    git checkout HEAD~2"
+msgstr ""
+"Hewan biru itu mewakili konsep di Git yang disebut \"penunjuk HEAD\": ia menunjukkan commit mana yang sedang aktif.\n"
+"\n"
+"Ini trik keren untuk pindah ke commit sebelumnya:\n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"Kamu juga bisa mundur dua commit dengan mengetik, misalnya:\n"
+"\n"
+"    git checkout HEAD~2"
+
+msgid ""
+"Whew, good job! This seems like a *much* better outcome.\n"
+"\n"
+"Feel free to add more parallel timelines, or make them longer.\n"
+"\n"
+"If you're ready, our next mission is already waiting..."
+msgstr ""
+"Fiuh, kerja bagus! Hasilnya *jauh* lebih baik.\n"
+"\n"
+"Silakan tambahkan lebih banyak garis waktu paralel, atau buat lebih panjang.\n"
+"\n"
+"Kalau sudah siap, misi berikutnya sudah menunggu..."
+
+msgid "Make sure that the child is happy."
+msgstr "Pastikan anak itu bahagia."
+
+msgid "Make sure that the lion gets something to eat."
+msgstr "Pastikan singa itu dapat sesuatu untuk dimakan."
+
+msgid "Creating branches"
+msgstr "Membuat branch"
+
+msgid ""
+"You were invited to two parties! At one of them, your favorite band is playing - and the other one is your best friend's birthday party. Where should you go? No worries - as a time travel agent in training, you can go to both parties!\n"
+"\n"
+"To make it easier to tell which timeline is which, you can create time portals! (We call these \"branches\".)"
+msgstr ""
+"Kamu diundang ke dua pesta! Di salah satunya, band favoritmu tampil, dan yang satu lagi pesta ulang tahun sahabatmu. Harus pergi ke mana? Tenang, sebagai calon agen perjalanan waktu, kamu bisa datang ke dua-duanya!\n"
+"\n"
+"Supaya lebih mudah membedakan garis waktu yang mana, kamu bisa membuat portal waktu! (Kami menyebutnya \"branch\".)"
+
+msgid "Branches also make it really easy to travel between different places using the command line! As soon as you have a branch called \"birthday\", you can type `git checkout birthday` to travel to it!"
+msgstr "Branch juga membuat berpindah antartempat lewat baris perintah jadi sangat mudah! Begitu kamu punya branch bernama \"birthday\", kamu bisa mengetik `git checkout birthday` untuk pergi ke sana!"
+
+msgid ""
+"Now you can travel between those branches easily (using `git checkout`) - try it!\n"
+"\n"
+"Your friend is happy that you made it to the birthday party and you also got your concert ticket signed. Yay!"
+msgstr ""
+"Sekarang kamu bisa berpindah di antara branch itu dengan mudah (memakai `git checkout`). Coba saja!\n"
+"\n"
+"Temanmu senang kamu datang ke pesta ulang tahunnya, dan tiket konsermu juga dapat tanda tangan. Hore!"
+
+msgid "Create a branch called 'birthday' that points to the birthday timeline."
+msgstr "Buat branch bernama \"birthday\" yang menunjuk ke garis waktu ulang tahun."
+
+msgid "Create a branch called 'concert' that points to the concert timeline."
+msgstr "Buat branch bernama \"concert\" yang menunjuk ke garis waktu konser."
+
+msgid "Branches grow with you!"
+msgstr "Branch tumbuh bersamamu!"
+
+msgid ""
+"Note that there are two options to \"travel to the end of a timeline\":\n"
+"\n"
+"First, you can directly travel to the commit, like we've done it before.\n"
+"\n"
+"And second, you can travel to the branch label. In this case, when you make a new commit, the branch will grow with you, and still point at the end of the timeline!"
+msgstr ""
+"Perhatikan bahwa ada dua cara untuk \"pergi ke ujung garis waktu\":\n"
+"\n"
+"Pertama, kamu bisa langsung pergi ke commit-nya, seperti yang sudah kita lakukan sebelumnya.\n"
+"\n"
+"Kedua, kamu bisa pergi ke label branch-nya. Dengan cara ini, saat kamu membuat commit baru, branch akan ikut tumbuh bersamamu dan tetap menunjuk ke ujung garis waktu!"
+
+msgid ""
+"To travel to a branch, type `git checkout name_of_the_branch`.\n"
+"\n"
+"And to travel to the last commit, type `git checkout --detach name_of_the_branch`."
+msgstr ""
+"Untuk pergi ke sebuah branch, ketik `git checkout name_of_the_branch`.\n"
+"\n"
+"Dan untuk pergi ke commit terakhir, ketik `git checkout --detach name_of_the_branch`."
+
+msgid "Travel directly to the last yellow commit of the birthday timeline, make a change to 'you', and make a commit"
+msgstr "Pergi langsung ke commit kuning terakhir di garis waktu ulang tahun, ubah \"you\", lalu buat commit"
+
+msgid "Travel to the blue 'concert' branch, make a change to 'you', and a commit."
+msgstr "Pergi ke branch biru \"concert\", ubah \"you\", lalu buat commit."
+
+msgid "Deleting branches"
+msgstr "Menghapus branch"
+
+msgid ""
+"Life is full of dangers, right? Even when walking to school, it seems like there's a lot of risks!\n"
+"\n"
+"This Monday is especially bad. You made it to school, but there's some timelines you definitely don't want to keep around."
+msgstr ""
+"Hidup ini penuh bahaya, ya? Bahkan saat berjalan ke sekolah pun rasanya banyak sekali risikonya!\n"
+"\n"
+"Hari Senin ini benar-benar sial. Kamu berhasil sampai di sekolah, tapi ada beberapa garis waktu yang jelas tidak ingin kamu simpan."
+
+msgid "On second thought, maybe you even prefer the ice cream timeline to the main one? :)"
+msgstr "Kalau dipikir-pikir lagi, mungkin kamu malah lebih suka garis waktu es krim daripada yang utama? :)"
+
+msgid "Find the bad branches and delete them. Keep only the best one."
+msgstr "Temukan branch yang buruk dan hapus. Simpan hanya yang terbaik."
+
+msgid "Moving branches around"
+msgstr "Memindahkan branch"
+
+msgid ""
+"One of your colleagues messed up here, and put the branches in the wrong timelines!\n"
+"\n"
+"You could delete and re-create these branches - but you can also directly move them to different commits, by using\n"
+"\n"
+"    git checkout\n"
+"\n"
+"on the branch names, and then using\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"on the commit where you want the branch to be.\n"
+"\n"
+"The donut branch is in the right place, but the timeline is still incomplete - make you actually *eat* the donut in that branch!"
+msgstr ""
+"Salah satu rekanmu mengacaukan ini dan menaruh branch di garis waktu yang salah!\n"
+"\n"
+"Kamu bisa menghapus lalu membuat ulang branch ini, tapi kamu juga bisa langsung memindahkannya ke commit lain dengan memakai\n"
+"\n"
+"    git checkout\n"
+"\n"
+"pada nama branch-nya, lalu\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"pada commit tempat branch itu seharusnya berada.\n"
+"\n"
+"Branch donut sudah di tempat yang benar, tapi garis waktunya belum lengkap: buat dirimu benar-benar *makan* donatnya di branch itu! (Tambahkan satu baris berbahasa Inggris ke file you, misalnya: You ate a donut.)"
+
+msgid "Did you eat a baguette on the baguette branch?"
+msgstr "Apakah kamu makan baguette di branch baguette?"
+
+msgid "Did you drink a coffee on the coffee branch?"
+msgstr "Apakah kamu minum kopi di branch coffee?"
+
+msgid "Did you eat a donut on the donut branch?"
+msgstr "Apakah kamu makan donat di branch donut?"
+
+msgid "Remember to checkout the blue branch tag when you want it to grow with the timeline."
+msgstr "Ingat untuk checkout label branch biru itu kalau kamu ingin label itu ikut tumbuh bersama garis waktu."
+
+msgid "Merging timelines"
+msgstr "Menggabungkan garis waktu"
+
+msgid "Here's a trick so that you can sleep a bit longer: just do all your morning activities in parallel universes, and then at the end, merge them together!"
+msgstr "Ini trik supaya kamu bisa tidur sedikit lebih lama: lakukan semua kegiatan pagimu di alam semesta paralel, lalu di akhir, gabungkan semuanya!"
+
+msgid "I wonder if you're more relaxed when you *sleep* in parallel timelines..."
+msgstr "Apakah kamu lebih segar kalau *tidur* di garis waktu paralel ya..."
+
+msgid "Build a situation where you consumed a baguette, a coffee, *and* a donut."
+msgstr "Buat situasi di mana kamu sudah makan baguette, minum kopi, *dan* makan donat."
+
+msgid "Be on a merge commit."
+msgstr "Berada di sebuah commit merge."
+
+msgid "Contradictions"
+msgstr "Pertentangan"
+
+msgid ""
+"Sometimes, timelines will contradict each other.\n"
+"\n"
+"For example, in this case, one of our clients wants these timelines merged, but they ate different things for breakfast in both timelines.\n"
+"\n"
+"Try to merge them together! You'll notice that there will be a conflict! The time machine will leave it up to you how to proceed: you can edit the problematic item, it will show you the conflicting sections. You can keep either of the two versions - or create a combination of them! Remove the >>>, <<<, and === markers, and make a new commit to finalize the merge!\n"
+"\n"
+"Let your finalized timeline be the \"main\" one."
+msgstr ""
+"Terkadang, garis waktu saling bertentangan.\n"
+"\n"
+"Misalnya di sini, salah satu klien kami ingin garis waktu ini digabung, tapi di masing-masing garis waktu dia sarapan makanan yang berbeda.\n"
+"\n"
+"Coba gabungkan! Kamu akan melihat ada konflik! Mesin waktu membiarkan kamu memutuskan langkah selanjutnya: kamu bisa mengedit benda yang bermasalah, dan bagian yang bertentangan akan ditampilkan. Kamu bisa memilih salah satu dari dua versi, atau menggabungkan keduanya! Hapus penanda >>>, <<<, dan ===, lalu buat commit baru untuk menyelesaikan merge!\n"
+"\n"
+"Jadikan garis waktu akhirmu sebagai \"main\"."
+
+msgid "Yum, that sounds like a good breakfast!"
+msgstr "Hmm, kedengarannya sarapan yang enak!"
+
+msgid "Make a breakfast compromise in the 'main' branch."
+msgstr "Buat kompromi sarapan di branch \"main\"."
+
+msgid "Step by step"
+msgstr "Langkah demi langkah"
+
+msgid ""
+"Welcome to today's lesson! We're going to learn how to make commits with more precision!\n"
+"\n"
+"Have a look at these two timelines. They have exactly the same outcome. But one of them makes it much easier to figure out what happened."
+msgstr ""
+"Selamat datang di pelajaran hari ini! Kita akan belajar membuat commit dengan lebih tepat!\n"
+"\n"
+"Lihat dua garis waktu ini. Hasil akhirnya persis sama. Tapi salah satunya jauh lebih mudah dipahami apa yang terjadi."
+
+msgid "Pick the timeline that's clearer, and make the alarm go off!"
+msgstr "Pilih garis waktu yang lebih jelas, lalu bunyikan alarmnya!"
+
+msgid "Add new files to the index"
+msgstr "Menambahkan file baru ke index"
+
+msgid ""
+"So far, when we made a commit, we've always recorded the current status of all objects, right?\n"
+"\n"
+"But Git allows you to pick which changes you want to put in a commit!\n"
+"\n"
+"To learn how that works, we need to learn about the \"index\"! In the index, we can prepare what will be in the next commit. In this game, the index is represented by a blue aura around icons in the file browser!\n"
+"\n"
+"Initially, the index is empty. To make a commit that contains a new file, we need to add it!"
+msgstr ""
+"Sejauh ini, setiap kali membuat commit, kita selalu merekam keadaan semua benda saat ini, kan?\n"
+"\n"
+"Tapi Git memungkinkan kamu memilih perubahan mana yang ingin dimasukkan ke commit!\n"
+"\n"
+"Untuk memahami caranya, kita perlu mengenal \"index\"! Di index, kita menyiapkan isi commit berikutnya. Di game ini, index digambarkan dengan aura biru di sekitar ikon di penjelajah file!\n"
+"\n"
+"Awalnya index kosong. Untuk membuat commit yang berisi file baru, kita harus menambahkannya!"
+
+msgid "You can use tab completion in the terminal! Start typing a filename, then press the tab key to complete its name. This will often save you some time!"
+msgstr "Kamu bisa memakai pelengkapan otomatis dengan Tab di terminal! Mulai ketik nama file, lalu tekan Tab untuk melengkapinya. Ini sering menghemat waktu!"
+
+msgid "Add the candle."
+msgstr "Tambahkan lilinnya."
+
+msgid "Make a commit."
+msgstr "Buat commit."
+
+msgid "Update files in the index"
+msgstr "Memperbarui file di index"
+
+msgid ""
+"When we change files, the index won't change on its own. We have to use `git add` to update the index to the changed version of the file.\n"
+"\n"
+"Let's try that!\n"
+"\n"
+"The icons in the file browser show you when the actual file (white) and the version in the index (blue) are different, and when they are the same!"
+msgstr ""
+"Saat kita mengubah file, index tidak berubah dengan sendirinya. Kita harus memakai `git add` untuk memperbarui index ke versi file yang sudah diubah.\n"
+"\n"
+"Ayo kita coba!\n"
+"\n"
+"Ikon di penjelajah file menunjukkan kapan file sebenarnya (putih) dan versi di index (biru) berbeda, dan kapan keduanya sama!"
+
+msgid "Make a change to the candle."
+msgstr "Ubah lilinnya."
+
+msgid "Resetting files in the index"
+msgstr "Mengatur ulang file di index"
+
+msgid ""
+"See the dark shadow behind the icons? That's the version of the file in the last commit!\n"
+"\n"
+"For example, these candles have been blown out, and that change has been added.\n"
+"\n"
+"But you decide that this was a mistake! You only want to blow out the red candle in the next commit!\n"
+"\n"
+"If you already have updated the index to a changed file, but want to reset it, you can use `git reset`!"
+msgstr ""
+"Lihat bayangan gelap di belakang ikon? Itu versi file di commit terakhir!\n"
+"\n"
+"Misalnya, lilin-lilin ini sudah ditiup padam, dan perubahan itu sudah ditambahkan.\n"
+"\n"
+"Tapi kamu merasa itu sebuah kesalahan! Di commit berikutnya, kamu hanya ingin meniup lilin merah!\n"
+"\n"
+"Kalau kamu sudah memperbarui index dengan file yang diubah tapi ingin membatalkannya, kamu bisa memakai `git reset`!"
+
+msgid "Reset the changes in the green and blue candles!"
+msgstr "Atur ulang perubahan pada lilin hijau dan biru!"
+
+msgid "And make a commit!"
+msgstr "Lalu buat commit!"
+
+msgid "Adding changes step by step"
+msgstr "Menambahkan perubahan langkah demi langkah"
+
+msgid "The index is really useful, because it allows us to be precise about which changes we want to include in each commit!"
+msgstr "Index sangat berguna, karena memungkinkan kita menentukan dengan tepat perubahan mana yang masuk ke setiap commit!"
+
+msgid "Make changes to all three objects, to form a logical sequence of events!"
+msgstr "Ubah ketiga benda itu supaya membentuk urutan kejadian yang masuk akal!"
+
+msgid "Only add one of these changes!"
+msgstr "Tambahkan hanya satu dari perubahan itu!"
+
+msgid "And make a commit."
+msgstr "Lalu buat commit."
+
+msgid "Make a second commit that only records a single change."
+msgstr "Buat commit kedua yang hanya merekam satu perubahan."
+
+msgid "And a third one."
+msgstr "Dan yang ketiga."
+
+msgid "Friend"
+msgstr "Teman"
+
+msgid ""
+"Your friend added another line to your essay! Get it, add a third one and send it to them!\n"
+"\n"
+"Take turns until you have five lines!"
+msgstr ""
+"Temanmu menambahkan satu baris lagi ke esaimu! Ambil, tambahkan baris ketiga, lalu kirim ke temanmu!\n"
+"\n"
+"Bergantian sampai ada lima baris!"
+
+msgid "Oh nice, I added a fourth line!"
+msgstr "Wah asyik, aku sudah menambahkan baris keempat!"
+
+msgid "Got the second line from your friend"
+msgstr "Dapat baris kedua dari temanmu"
+
+msgid "Got the fourth line from your friend."
+msgstr "Dapat baris keempat dari temanmu."
+
+msgid "The friend got a third line from you"
+msgstr "Temanmu dapat baris ketiga darimu"
+
+msgid "The friend got a fifth line from you"
+msgstr "Temanmu dapat baris kelima darimu"
+
+msgid "Problems"
+msgstr "Masalah"
+
+msgid "Both you and your friend have been working on the file, and want to sync up!"
+msgstr "Kamu dan temanmu sama-sama mengerjakan file ini, dan ingin menyinkronkannya!"
+
+msgid "Commit your local changes."
+msgstr "Commit perubahan lokalmu."
+
+msgid "Look at your friend's suggestion, make a compromise, and push it back."
+msgstr "Lihat usulan temanmu, buat kompromi, lalu push kembali."
+
+msgid "Rebasing"
+msgstr "Rebase"
+
+msgid ""
+"Okay - turns out that saving time in the morning by utilizing parallel universes is against the regulations of the International Time Travel Association. You'll have to do your tasks in sequence after all.\n"
+"\n"
+"See the \"rebase\" card? When you drag it to a commit, it will copy the events in your current timeline after the specified one! This way, make a clean, linear timeline where you visit all three shops.\n"
+"\n"
+"Again, we want to make that our base reality - the \"main\" branch should point to that timeline!"
+msgstr ""
+"Oke, ternyata menghemat waktu di pagi hari dengan memanfaatkan alam semesta paralel itu melanggar aturan Asosiasi Perjalanan Waktu Internasional. Kamu tetap harus mengerjakan tugasmu satu per satu.\n"
+"\n"
+"Lihat kartu \"rebase\"? Kalau kamu menyeretnya ke sebuah commit, kartu itu akan menyalin kejadian di garis waktumu saat ini ke belakang commit yang ditentukan! Dengan cara ini, buat garis waktu lurus yang rapi di mana kamu mampir ke ketiga toko.\n"
+"\n"
+"Sekali lagi, kita ingin menjadikannya realitas dasar kita: branch \"main\" harus menunjuk ke garis waktu itu!"
+
+msgid ""
+"Notice how the other timelines and commits are still there - if anything goes wrong, you can also travel back to them.\n"
+"\n"
+"It's really hard to actually *destroy* stuff with your time machine."
+msgstr ""
+"Perhatikan bahwa garis waktu dan commit lainnya masih ada. Kalau terjadi kesalahan, kamu juga bisa kembali ke sana.\n"
+"\n"
+"Sebenarnya sangat sulit untuk benar-benar *menghancurkan* sesuatu dengan mesin waktumu."
+
+msgid "Order all tree branches into one and move the main branch ref"
+msgstr "Satukan semua cabang pohon jadi satu dan pindahkan branch main"
+
+msgid "Reordering events"
+msgstr "Mengurutkan ulang kejadian"
+
+msgid ""
+"Oops, looks like there's something messed up here. Can you put the events back into their correct order?\n"
+"\n"
+"There are two ways to do this: You can drag the \"interactive rebase\" card to the commit before the one you want to change, then reorder the lines in the file that opens, and save it.\n"
+"\n"
+"Or you can reset the main tag to the very first commit, and then cherry-pick single commits in the order you want. You have cards for both approaches!"
+msgstr ""
+"Ups, sepertinya ada yang berantakan di sini. Bisakah kamu mengembalikan kejadian-kejadiannya ke urutan yang benar?\n"
+"\n"
+"Ada dua cara: kamu bisa menyeret kartu \"rebase interaktif\" (rebase -i) ke commit sebelum commit yang ingin kamu ubah, lalu menyusun ulang baris di file yang terbuka, dan menyimpannya.\n"
+"\n"
+"Atau kamu bisa me-reset label main ke commit paling pertama, lalu cherry-pick commit satu per satu sesuai urutan yang kamu mau. Kamu punya kartu untuk kedua cara!"
+
+msgid "Feel free to reset the level and try the other strategy! Which one do you like better?"
+msgstr "Silakan reset level-nya dan coba strategi yang lain! Mana yang lebih kamu suka?"
+
+msgid "Reorder the commits to dress yourself in the correct way"
+msgstr "Urutkan ulang commit supaya kamu berpakaian dengan urutan yang benar"
+
+msgid "Restore a deleted file"
+msgstr "Memulihkan file yang terhapus"
+
+msgid ""
+"Oops - you deleted the \"essay\" file, which you worked on all night!\n"
+"\n"
+"Luckily, Git is here to help! You can use `git checkout` to restore the file!"
+msgstr ""
+"Ups, kamu menghapus file \"essay\" yang kamu kerjakan semalaman!\n"
+"\n"
+"Untungnya, Git siap membantu! Kamu bisa memakai `git checkout` untuk memulihkan file itu!"
+
+msgid "Restore the essay to contain \"important content\""
+msgstr "Pulihkan esai supaya berisi \"important content\""
+
+msgid "Restore a file from the past"
+msgstr "Memulihkan file dari masa lalu"
+
+msgid ""
+"Here's a similar problem: you really liked the essay from the very first commit, and want to have it back! Well, checkout can also restore things from older commits, Here's how:\n"
+"\n"
+"    git checkout [commit] [file]"
+msgstr ""
+"Ini masalah yang mirip: kamu sangat suka esai dari commit paling pertama, dan ingin mendapatkannya kembali! checkout juga bisa memulihkan sesuatu dari commit lama, begini caranya:\n"
+"\n"
+"    git checkout [commit] [file]"
+
+msgid "Get the first version of your essay, and make a new commit with it."
+msgstr "Ambil versi pertama esaimu, lalu buat commit baru dengannya."
+
+msgid "Undo a bad commit"
+msgstr "Membatalkan commit yang buruk"
+
+msgid ""
+"Oh no, we made a bad commit! How can we undo making the commit, and go back to a point where we can try again?\n"
+"\n"
+"The answer is using `git reset [commit]`, which does two things:\n"
+"\n"
+"- It resets the current branch ref to the commit you specify.\n"
+"- And it resets the index to that commit.\n"
+"\n"
+"It does not change your working directory in any way, which means that after that, you can try making the commit you want again."
+msgstr ""
+"Oh tidak, kita membuat commit yang buruk! Bagaimana cara membatalkan commit itu, dan kembali ke titik di mana kita bisa mencoba lagi?\n"
+"\n"
+"Jawabannya adalah `git reset [commit]`, yang melakukan dua hal:\n"
+"\n"
+"- Memindahkan branch saat ini ke commit yang kamu tentukan.\n"
+"- Dan mengatur ulang index ke commit itu.\n"
+"\n"
+"Perintah ini sama sekali tidak mengubah direktori kerjamu, jadi setelahnya kamu bisa mencoba membuat commit yang kamu inginkan lagi."
+
+msgid "In the last main commit, the numbers file contains the numbers from 1 to 10."
+msgstr "Di commit main terakhir, file numbers berisi angka 1 sampai 10."
+
+msgid "The commit message of that commit is \"More numbers\"."
+msgstr "Pesan commit tersebut adalah \"More numbers\"."
+
+msgid "The commit with the typo is not part of the main branch anymore."
+msgstr "Commit yang salah ketik sudah tidak lagi menjadi bagian dari branch main."
+
+msgid "I pushed something broken"
+msgstr "Aku push sesuatu yang rusak"
+
+msgid "We were talking about how to undo a commit, and fix it. This only helps when you haven't already pushed it to a remote. When that has happened, and you want to undo the effects of the commit completely, your best option is `git revert`"
+msgstr "Kita sudah membahas cara membatalkan commit dan memperbaikinya. Tapi itu hanya membantu kalau kamu belum push ke remote. Kalau sudah terlanjur, dan kamu ingin benar-benar membatalkan efek commit itu, pilihan terbaikmu adalah `git revert`"
+
+msgid "The team's main branch no longer contains the bad thing."
+msgstr "Branch main milik tim sudah tidak berisi hal buruk itu."
+
+msgid "And the history has not been modified."
+msgstr "Dan riwayatnya tidak diubah."
+
+msgid "Go back to where you were before"
+msgstr "Kembali ke tempatmu sebelumnya"
+
+msgid ""
+"Say you were looking at something in the past, and then switched back to the main branch.\n"
+"\n"
+"But then, you got reaaally distracted, and after your lunch break, you can't remember which past commit you were on before. How can you find out?\n"
+"\n"
+"There's a convenient command that shows you all the places your HEAD has pointed to in the past:\n"
+"\n"
+"    git reflog"
+msgstr ""
+"Misalnya kamu sedang melihat sesuatu di masa lalu, lalu pindah kembali ke branch main.\n"
+"\n"
+"Tapi kemudian kamu sangaaat teralihkan, dan setelah istirahat makan siang, kamu tidak ingat commit lama mana yang tadi kamu kunjungi. Bagaimana cara mengetahuinya?\n"
+"\n"
+"Ada perintah praktis yang menunjukkan semua tempat yang pernah ditunjuk HEAD-mu di masa lalu:\n"
+"\n"
+"    git reflog"
+
+msgid "Find out where you've been before, and go back there!"
+msgstr "Cari tahu di mana kamu berada sebelumnya, lalu kembali ke sana!"
+
+msgid "Cloning a repo"
+msgstr "Meng-clone repo"
+
+msgid "Your friend has a problem! Clone the repo located in `../friend`, create a branch called \"solution\", and fix the problem in this branch. When you're ready, make a \"Pull Request\" by using `git tag pr`."
+msgstr "Temanmu sedang ada masalah! Clone repo yang ada di `../friend`, buat branch bernama \"solution\", dan perbaiki masalahnya di branch itu. Kalau sudah siap, buat \"Pull Request\" dengan `git tag pr`."
+
+msgid "Thanks!"
+msgstr "Makasih!"
+
+msgid "Yellow brick road"
+msgstr "Jalan bata kuning"
+
+msgid ""
+"(Please zoom out a bit using your mouse wheel! :D)\n"
+"\n"
+"Oh no! You have lost your key at some point during the day!\n"
+"\n"
+"Sure, you could look at every single commit in an attempt to find it - but there's a better way: your time machine has a built-in way to find the point in time where things went wrong quickly!\n"
+"\n"
+"First, play the \"bisect start\" card. Then, go to a commit where you don't have the key, and play the \"bisect bad\" card. Likewise, go to a commit early on where you have the key *in your pocket*, and play the \"bisect good\" card.\n"
+"\n"
+"After you've found the last good commit, reset the main branch to it. What happened to the key after you lost it?"
+msgstr ""
+"(Tolong perkecil tampilan sedikit dengan roda mouse! :D)\n"
+"\n"
+"Oh tidak! Kamu kehilangan kuncimu di suatu saat hari ini!\n"
+"\n"
+"Tentu saja, kamu bisa memeriksa setiap commit satu per satu untuk menemukannya, tapi ada cara yang lebih baik: mesin waktumu punya fitur bawaan untuk cepat menemukan titik waktu ketika semuanya mulai salah!\n"
+"\n"
+"Pertama, mainkan kartu \"bisect start\". Lalu, pergi ke commit di mana kamu sudah tidak punya kunci, dan mainkan kartu \"bisect bad\". Begitu juga, pergi ke commit awal di mana kunci masih *ada di sakumu*, dan mainkan kartu \"bisect good\".\n"
+"\n"
+"Setelah menemukan commit terakhir yang baik, reset branch main ke commit itu. Apa yang terjadi pada kunci itu setelah kamu kehilangannya?"
+
+msgid "Well done! :) The only problem is that you now have to walk all the way back home, again..."
+msgstr "Bagus sekali! :) Satu-satunya masalah, sekarang kamu harus jalan kaki pulang lagi..."
+
+msgid "Find the last good commit"
+msgstr "Temukan commit terakhir yang baik"
+
+msgid "Stashing"
+msgstr "Stash"
+
+msgid ""
+"You will encounter situations in which you are working on your project but you need to\n"
+"put your current changes aside temporarily. To do so, you can use the stash function. Use\n"
+"    git stash push \n"
+"to add your current changes to the stash stack."
+msgstr ""
+"Kadang kamu sedang mengerjakan proyek, tapi perlu menyingkirkan perubahanmu\n"
+"untuk sementara. Untuk itu, kamu bisa memakai fitur stash. Pakai\n"
+"    git stash push\n"
+"untuk menambahkan perubahanmu saat ini ke tumpukan stash."
+
+msgid ""
+"Just\n"
+"    git stash\n"
+"without \"push\" does the same thing."
+msgstr ""
+"Cukup\n"
+"    git stash\n"
+"tanpa \"push\" juga sama saja."
+
+msgid "After stashing, your working directory goes back to the last commit. Your changes aren't lost, they're waiting in the stash."
+msgstr "Setelah stash, direktori kerjamu kembali ke commit terakhir. Perubahanmu tidak hilang, semuanya menunggu di stash."
+
+msgid ""
+"To see what's in the stash, use\n"
+"    git stash list"
+msgstr ""
+"Untuk melihat isi stash, pakai\n"
+"    git stash list"
+
+msgid "Nice stash you got there! :)"
+msgstr "Stash yang bagus! :)"
+
+msgid "Did you stash the current changes?"
+msgstr "Apakah kamu sudah menyimpan perubahan saat ini ke stash?"
+
+msgid "Pop from Stash"
+msgstr "Mengambil dari stash"
+
+msgid ""
+"When you stashed your changes and you want to apply them back to your current working directory, you can use\n"
+"    git stash pop\n"
+"This will remove the changes from the stash stack. If you also want to keep the changes on the stash stack, use\n"
+"    git stash apply"
+msgstr ""
+"Kalau kamu sudah menyimpan perubahan ke stash dan ingin menerapkannya kembali ke direktori kerjamu saat ini, kamu bisa pakai\n"
+"    git stash pop\n"
+"Ini akan menghapus perubahan dari tumpukan stash. Kalau kamu juga ingin perubahan itu tetap ada di tumpukan stash, pakai\n"
+"    git stash apply"
+
+msgid "pop is apply plus drop: it applies the changes and removes the entry from the stash in one go."
+msgstr "pop adalah apply ditambah drop: menerapkan perubahan sekaligus menghapus entrinya dari stash."
+
+msgid "If there are several entries in the stash, pop takes the most recent one, stash@{0}."
+msgstr "Kalau ada beberapa entri di stash, pop mengambil yang paling baru, yaitu stash@{0}."
+
+msgid "Yay, you got your changes back! :)"
+msgstr "Hore, perubahanmu kembali! :)"
+
+msgid "Did you pop the changes from the stash stack?"
+msgstr "Apakah kamu sudah mengambil perubahan dari tumpukan stash?"
+
+msgid "Clear the Stash"
+msgstr "Mengosongkan stash"
+
+msgid ""
+"If you want to inspect your stash stack, use the command\n"
+"    git stash list\n"
+"    \n"
+"Oh, you don't want to keep your stashed changes? There are way too many? Then go ahead and clear the stack with\n"
+"    git stash clear\n"
+"If you only want to discard a certain stash entry, you can use\n"
+"    git stash drop <stash>\n"
+"    \n"
+"Clear your stash stack!"
+msgstr ""
+"Kalau ingin melihat isi tumpukan stash, pakai perintah\n"
+"    git stash list\n"
+"\n"
+"Oh, kamu tidak ingin menyimpan perubahan di stash? Kebanyakan? Kalau begitu, kosongkan saja tumpukannya dengan\n"
+"    git stash clear\n"
+"Kalau hanya ingin membuang satu entri stash tertentu, kamu bisa pakai\n"
+"    git stash drop <stash>\n"
+"\n"
+"Kosongkan tumpukan stash-mu!"
+
+msgid "Stash entries are named stash@{0}, stash@{1} and so on. That's what you put in place of <stash>."
+msgstr "Entri stash diberi nama stash@{0}, stash@{1}, dan seterusnya. Itulah yang kamu isikan di tempat <stash>."
+
+msgid "Careful: git stash clear removes all entries at once, without asking."
+msgstr "Hati-hati: git stash clear menghapus semua entri sekaligus, tanpa bertanya."
+
+msgid ""
+"Just type\n"
+"    git stash clear"
+msgstr ""
+"Cukup ketik\n"
+"    git stash clear"
+
+msgid "All clear! :)"
+msgstr "Sudah bersih! :)"
+
+msgid "Did you clear your stash stack?"
+msgstr "Apakah kamu sudah mengosongkan tumpukan stash?"
+
+msgid "Branch from stash"
+msgstr "Branch dari stash"
+
+msgid ""
+"If you want to keep your changes but they don't belong to the main branch, you can easily\n"
+"create a new branch from your stashed changes. Just use\n"
+"    git stash branch <branchname> <stash>\n"
+"If you just want to use the latest stash entry, you can leave the <stash> option empty.\n"
+"\n"
+"Create a new branch from the stashed changes!"
+msgstr ""
+"Kalau kamu ingin menyimpan perubahanmu tapi perubahan itu bukan bagian dari branch main, kamu bisa\n"
+"dengan mudah membuat branch baru dari perubahan di stash. Cukup pakai\n"
+"    git stash branch <branchname> <stash>\n"
+"Kalau kamu hanya ingin memakai entri stash terbaru, bagian <stash> boleh dikosongkan.\n"
+"\n"
+"Buat branch baru dari perubahan di stash!"
+
+msgid ""
+"For example:\n"
+"    git stash branch pie"
+msgstr ""
+"Misalnya:\n"
+"    git stash branch pie"
+
+msgid "The new branch starts at the commit where you stashed, so there won't be any conflicts."
+msgstr "Branch baru dimulai dari commit tempat kamu melakukan stash, jadi tidak akan ada konflik."
+
+msgid "After that, the stash entry is removed automatically."
+msgstr "Setelah itu, entri stash dihapus secara otomatis."
+
+msgid "Stashed changes are in a new branch! :)"
+msgstr "Perubahan di stash sekarang ada di branch baru! :)"
+
+msgid "Did you create a new branch from the stashed changes?"
+msgstr "Apakah kamu sudah membuat branch baru dari perubahan di stash?"
+
+msgid "Merging popped stash"
+msgstr "Merge stash yang diambil"
+
+msgid ""
+"When you want to re-apply your changes but you already continued working on your file, you might get\n"
+"a merge conflict! Let's practice this situation.\n"
+"Pop the changes from the stash with\n"
+"    git stash pop\n"
+"and resolve the merge conflict. Commit the resolved changes and clear the stash stack afterwards."
+msgstr ""
+"Kalau kamu ingin menerapkan kembali perubahanmu tapi sudah lanjut mengerjakan file-nya, kamu mungkin akan mendapat\n"
+"konflik merge! Ayo latihan menghadapi situasi ini.\n"
+"Ambil perubahan dari stash dengan\n"
+"    git stash pop\n"
+"lalu selesaikan konflik merge-nya. Commit perubahan yang sudah diselesaikan, lalu kosongkan tumpukan stash."
+
+msgid "Open the file recipe, keep both the flour and the salt, and remove the markers <<<<<<<, ======= and >>>>>>>."
+msgstr "Buka file recipe, simpan baris Flour dan baris Salt, lalu hapus penanda <<<<<<<, =======, dan >>>>>>>."
+
+msgid ""
+"When there's a conflict, pop doesn't remove the entry from the stash, so you need to clear it at the end:\n"
+"    git stash clear"
+msgstr ""
+"Kalau terjadi konflik, pop tidak menghapus entri dari stash, jadi kamu perlu mengosongkannya di akhir:\n"
+"    git stash clear"
+
+msgid ""
+"Don't forget to add the file to the index before you commit:\n"
+"    git add recipe"
+msgstr ""
+"Jangan lupa menambahkan file ke index sebelum commit:\n"
+"    git add recipe"
+
+msgid "Did you resolve the conflict and commit?"
+msgstr "Apakah kamu sudah menyelesaikan konflik dan membuat commit?"
+
+msgid "Did you clear stash stack?"
+msgstr "Apakah kamu sudah mengosongkan tumpukan stash?"
+
+msgid "Creating tags"
+msgstr "Membuat tag"
+
+msgid ""
+"Some of your commits may be special commits. Maybe you reached a milestone or a new version number.\n"
+"\n"
+"You can mark these commits with a special flag called 'tag'.\n"
+"\n"
+"Write \n"
+"\n"
+"    git tag <tag-name> \n"
+"    \n"
+"to tag your commit."
+msgstr ""
+"Beberapa commit-mu mungkin istimewa. Mungkin kamu mencapai tonggak penting atau nomor versi baru.\n"
+"\n"
+"Kamu bisa menandai commit seperti itu dengan bendera khusus yang disebut \"tag\".\n"
+"\n"
+"Ketik\n"
+"\n"
+"    git tag <tag-name>\n"
+"\n"
+"untuk memberi tag pada commit-mu."
+
+msgid ""
+"For example:\n"
+"    git tag v1"
+msgstr ""
+"Misalnya:\n"
+"    git tag v1"
+
+msgid "A tag sticks to the commit you're on right now. You'll see it in the graph next to that commit."
+msgstr "Tag menempel pada commit tempat kamu berada sekarang. Kamu akan melihatnya di grafik di samping commit itu."
+
+msgid ""
+"To list all tags, use\n"
+"    git tag"
+msgstr ""
+"Untuk melihat daftar semua tag, pakai\n"
+"    git tag"
+
+msgid "Nice! You tagged your first commit :)"
+msgstr "Bagus! Kamu memberi tag pada commit pertamamu :)"
+
+msgid "Did you create a new tag?"
+msgstr "Apakah kamu sudah membuat tag baru?"
+
+msgid "Removing tags"
+msgstr "Menghapus tag"
+
+msgid ""
+"You added way too many tags? No prob! Delete them with\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"    \n"
+"Remove all tags in this repo!"
+msgstr ""
+"Terlalu banyak tag? Tidak masalah! Hapus dengan\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"\n"
+"Hapus semua tag di repo ini!"
+
+msgid "This repo has three tags: v1, v2 and v3."
+msgstr "Repo ini punya tiga tag: v1, v2, dan v3."
+
+msgid ""
+"You can delete several tags at once:\n"
+"    git tag -d v1 v2 v3"
+msgstr ""
+"Kamu bisa menghapus beberapa tag sekaligus:\n"
+"    git tag -d v1 v2 v3"
+
+msgid ""
+"To check which tags are left, use\n"
+"    git tag"
+msgstr ""
+"Untuk mengecek tag mana yang masih ada, pakai\n"
+"    git tag"
+
+msgid "Well done :)"
+msgstr "Bagus sekali :)"
+
+msgid "Did you remove all tags?"
+msgstr "Apakah kamu sudah menghapus semua tag?"
+
+msgid "Tagging later"
+msgstr "Memberi tag belakangan"
+
+msgid ""
+"But what happens if you forgot to tag your current commit?\n"
+"No Prob! You can also tag older commits via\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"    \n"
+"Tag the commit \"Adding feature 2\" with the name \"v1\"!"
+msgstr ""
+"Tapi bagaimana kalau kamu lupa memberi tag pada commit saat ini?\n"
+"Tidak masalah! Kamu juga bisa memberi tag pada commit lama dengan\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"\n"
+"Beri tag bernama v1 pada commit \"Adding feature 2\"!"
+
+msgid "Look at the graph and find the commit \"Adding feature 2\". It's the one right before the newest commit."
+msgstr "Cari commit \"Adding feature 2\" di grafik. Letaknya tepat sebelum commit terbaru."
+
+msgid "You don't need the full hash. The first few characters are enough, and HEAD~1 works too."
+msgstr "Kamu tidak perlu hash lengkap. Beberapa karakter pertama sudah cukup, dan HEAD~1 juga bisa."
+
+msgid ""
+"For example:\n"
+"    git tag v1 HEAD~1"
+msgstr ""
+"Misalnya:\n"
+"    git tag v1 HEAD~1"
+
+msgid "Remote Tags"
+msgstr "Tag di remote"
+
+msgid ""
+"When you work with remote repositories, tags are not pushed or pulled automatically.\n"
+"\n"
+"You can push a tag with\n"
+"    git push <remote> <tag-name>\n"
+"Or all tags with:\n"
+"    git push <remote> --tags\n"
+"    \n"
+"Deleting tags on your remote works with: \n"
+"    git push <remote> --delete <tag-name>\n"
+"    \n"
+"You can also sync \n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"Add a tag named \"v2\" to the last commit and push it to the remote. Also pull the v1 tag to your local repository."
+msgstr ""
+"Saat bekerja dengan repositori remote, tag tidak di-push atau di-pull secara otomatis.\n"
+"\n"
+"Kamu bisa push sebuah tag dengan\n"
+"    git push <remote> <tag-name>\n"
+"Atau semua tag dengan:\n"
+"    git push <remote> --tags\n"
+"\n"
+"Untuk menghapus tag di remote:\n"
+"    git push <remote> --delete <tag-name>\n"
+"\n"
+"Kamu juga bisa menyinkronkannya\n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"Tambahkan tag bernama v2 ke commit terakhir dan push ke remote. Selain itu, pull tag v1 ke repositori lokalmu."
+
+msgid "v1 tag in your repo"
+msgstr "Tag v1 ada di repo-mu"
+
+msgid "v2 tag in your repo"
+msgstr "Tag v2 ada di repo-mu"
+
+msgid "v2 tag in the remote"
+msgstr "Tag v2 ada di remote"
+
+msgid "Empty sandbox"
+msgstr "Sandbox kosong"
+
+msgid "This is an empty sandbox you can play around in."
+msgstr "Ini sandbox kosong tempat kamu bisa bereksperimen sesukamu."
+
+msgid "Sandbox with a remote"
+msgstr "Sandbox dengan remote"
+
+msgid ""
+"Here's a sandbox with a remote! Try pulling, fetching, or pushing!\n"
+"\n"
+"How can you push tags and branches on a remote? How can you delete them again?"
+msgstr ""
+"Ini sandbox dengan remote! Coba pull, fetch, atau push!\n"
+"\n"
+"Bagaimana cara push tag dan branch ke remote? Bagaimana cara menghapusnya lagi?"
+
+msgid "Sandbox with three commits"
+msgstr "Sandbox dengan tiga commit"
+
+msgid ""
+"Here's a sandbox you can play around in.\n"
+"\n"
+"You can use both the playing cards, as well as the terminal. This is a real Git terminal! Fun things to try:\n"
+"\n"
+"- Make a commit that merges three timelines together at once!\n"
+"- Create and delete some tags!\n"
+"- Make a timeline that's completely independent of the rest!"
+msgstr ""
+"Ini sandbox tempat kamu bisa bereksperimen sesukamu.\n"
+"\n"
+"Kamu bisa memakai kartu maupun terminal. Ini terminal Git sungguhan! Hal seru yang bisa dicoba:\n"
+"\n"
+"- Buat commit yang menggabungkan tiga garis waktu sekaligus!\n"
+"- Buat dan hapus beberapa tag!\n"
+"- Buat garis waktu yang sepenuhnya terpisah dari yang lain!"
+
+msgid "Drag this card into the empty space above to initialize the time machine!"
+msgstr "Seret kartu ini ke ruang kosong di atas untuk menginisialisasi mesin waktu!"
+
+msgid "Create your own copy of someone else's repo."
+msgstr "Membuat salinan pribadi dari repo orang lain."
+
+msgid ""
+"Set your name.\n"
+"\n"
+"(Will not change anything outside of this game.)"
+msgstr ""
+"Mengatur namamu.\n"
+"\n"
+"(Tidak mengubah apa pun di luar game ini.)"
+
+msgid "Set your email address."
+msgstr "Mengatur alamat emailmu."
+
+msgid "Drag this card to a commit or to a branch to travel to it!"
+msgstr "Seret kartu ini ke commit atau branch untuk pergi ke sana!"
+
+msgid "Reset changes in a local file."
+msgstr "Membatalkan perubahan di file lokal."
+
+msgid "Get the file contents from the specified commits, and reset both the working directory, as well as the index, to it."
+msgstr "Mengambil isi file dari commit yang ditentukan, lalu mengatur ulang direktori kerja dan index ke isi itu."
+
+msgid ""
+"Make a new commit, after automatically adding all changes to the index.\n"
+"You'll be asked to enter a short description of what you changed."
+msgstr ""
+"Membuat commit baru setelah otomatis menambahkan semua perubahan ke index.\n"
+"Kamu akan diminta menulis deskripsi singkat tentang apa yang kamu ubah."
+
+msgid "Make a new commit containing your current environment! Type in a description of what changed!"
+msgstr "Buat commit baru berisi lingkunganmu saat ini! Ketik deskripsi tentang apa yang berubah!"
+
+msgid "Merge the specified timeline into yours. If necessary, will create a merge commit."
+msgstr "Menggabungkan garis waktu yang ditentukan ke garis waktumu. Jika perlu, akan membuat commit merge."
+
+msgid "Abort the current merge attempt, and reconstruct the previous state."
+msgstr "Membatalkan merge yang sedang berjalan dan mengembalikan keadaan sebelumnya."
+
+msgid "Put the events in your current timeline on top of the specified one."
+msgstr "Menaruh kejadian di garis waktumu saat ini di atas garis waktu yang ditentukan."
+
+msgid "Get someone else's version of the current timeline, and try to merge it into yours."
+msgstr "Mengambil versi orang lain dari garis waktu saat ini, lalu mencoba menggabungkannya ke milikmu."
+
+msgid "Get a someone else's version of the current timeline."
+msgstr "Mengambil versi orang lain dari garis waktu saat ini."
+
+msgid "Give the current timeline to someone else."
+msgstr "Memberikan garis waktu saat ini ke orang lain."
+
+msgid "Make changes to the events in your current timeline, back to the commit you drag this to."
+msgstr "Mengubah kejadian di garis waktumu saat ini, mundur sampai commit tempat kamu menyeret kartu ini."
+
+msgid "Continue the current rebasing process."
+msgstr "Melanjutkan proses rebase yang sedang berjalan."
+
+msgid "Move the branch you're on to the specified commit."
+msgstr "Memindahkan branch tempatmu berada ke commit yang ditentukan."
+
+msgid "Jump to the commit, and update the index. Keep the current environment."
+msgstr "Melompat ke commit dan memperbarui index. Lingkungan saat ini tetap dipertahankan."
+
+msgid "Reset the index version of a file to the version in the commit you're on."
+msgstr "Mengembalikan versi file di index ke versi di commit tempatmu berada."
+
+msgid "Repeat the specified action on top of your current timeline."
+msgstr "Mengulang tindakan yang ditentukan di atas garis waktumu saat ini."
+
+msgid "Make a new commit that reverts the changes of the specified commit."
+msgstr "Membuat commit baru yang membatalkan perubahan dari commit yang ditentukan."
+
+msgid "Start looking for the commit where things got bad."
+msgstr "Mulai mencari commit tempat semuanya jadi kacau."
+
+msgid "State that the current commit is good! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr "Nyatakan bahwa commit saat ini baik! Saat kamu dipindahkan otomatis, terus mainkan kartu `good` dan `bad`!"
+
+msgid "State that the current commit is bad! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr "Nyatakan bahwa commit saat ini buruk! Saat kamu dipindahkan otomatis, terus mainkan kartu `good` dan `bad`!"
+
+msgid "Update the index version of the file to its current real content."
+msgstr "Memperbarui versi file di index ke isi sebenarnya saat ini."
+
+msgid "Delete a file both in the working directory, as well as the index."
+msgstr "Menghapus file di direktori kerja sekaligus di index."
+
+msgid "Make a commit from the current index."
+msgstr "Membuat commit dari index saat ini."
+
+msgid "Show what changed in the commit."
+msgstr "Menampilkan apa yang berubah di commit."
+
+msgid "Create a new branch at your current location."
+msgstr "Membuat branch baru di posisimu saat ini."
+
+msgid "Delete a branch."
+msgstr "Menghapus sebuah branch."
+
+msgid "Display a log of where the ref pointed to in the past."
+msgstr "Menampilkan catatan ke mana ref pernah menunjuk di masa lalu."
+
+msgid "Create a new file."
+msgstr "Membuat file baru."
+
+msgid "Delete a file."
+msgstr "Menghapus file."
+
+msgid "Rename a file."
+msgstr "Mengganti nama file."
+
+msgid "Make a copy of a file."
+msgstr "Membuat salinan file."
+
+msgid "These are your cards! Drag them to highlighted areas to play them!"
+msgstr "Ini kartu-kartumu! Seret ke area yang disorot untuk memainkannya!"
+
+msgid "Draw new cards"
+msgstr "Ambil kartu baru"
+
+msgid "Click on these files to edit them!"
+msgstr "Klik file-file ini untuk mengeditnya!"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "The game ran into an error and will close."
+msgstr "Game mengalami kesalahan dan akan ditutup."
+
+msgid "Introduction"
+msgstr "Pengenalan"
+
+msgid "Files"
+msgstr "File"
+
+msgid "Branches"
+msgstr "Branch"
+
+msgid "Merging"
+msgstr "Merge"
+
+msgid "The index"
+msgstr "Index"
+
+msgid "Remotes"
+msgstr "Remote"
+
+msgid "Changing the past"
+msgstr "Mengubah masa lalu"
+
+msgid "Fixing mistakes"
+msgstr "Memperbaiki kesalahan"
+
+msgid "Workflows"
+msgstr "Alur kerja"
+
+msgid "Bisect"
+msgstr "Bisect"
+
+msgid "Tags"
+msgstr "Tag"
+
+msgid "Sandbox"
+msgstr "Sandbox"
+
+msgid "(no description)"
+msgstr "(tanpa deskripsi)"
+
+msgid "Complete the goal of this level"
+msgstr "Selesaikan tujuan level ini"
+
+msgid "You get a golden badge for each level you solve without using the playing cards! Can you solve them all using the command line?"
+msgstr "Kamu dapat lencana emas untuk setiap level yang kamu selesaikan tanpa kartu! Bisakah kamu menyelesaikan semuanya lewat baris perintah?"
+
+msgid "Back"
+msgstr "Kembali"
+
+msgid "Reload"
+msgstr "Ulangi"
+
+msgid ""
+"Help us improving Oh My Git! by\n"
+"answering some questions:"
+msgstr ""
+"Bantu kami memperbaiki Oh My Git!\n"
+"dengan menjawab beberapa pertanyaan:"
+
+msgid "To the survey /o/"
+msgstr "Ke survei /o/"
+
+msgid "Cards!"
+msgstr "Kartu!"
+
+msgid "Tip!"
+msgstr "Petunjuk!"
+
+msgid "Next level"
+msgstr "Level berikutnya"
+
+msgid "Toggle music"
+msgstr "Musik nyala/mati"
+
+msgid "by bleeptrack & blinry"
+msgstr "oleh bleeptrack & blinry"
+
+msgid "Original score by winniehell"
+msgstr "Musik asli oleh winniehell"
+
+msgid "Levels"
+msgstr "Level"
+
+msgid "Sure, I'll install it!"
+msgstr "Oke, aku pasang!"
+
+msgid ""
+"Hi! It seems that you don't have Git installed yet!\n"
+"\n"
+"On Linux, please install it from your package manager, usually the package is called \"git\"!\n"
+"\n"
+"On macOS 10.8 and below, you can download Git from git-scm.com."
+msgstr ""
+"Halo! Sepertinya kamu belum memasang Git!\n"
+"\n"
+"Di Linux, pasang lewat manajer paket, biasanya nama paketnya \"git\"!\n"
+"\n"
+"Di macOS 10.8 dan versi lebih lama, kamu bisa mengunduh Git dari git-scm.com."
+
+msgid "You can drag these around with your mouse!"
+msgstr "Kamu bisa menggeser ini dengan mouse!"
+
+msgid "Got it!"
+msgstr "Paham!"
+
+msgid "Interesting!"
+msgstr "Menarik!"
+
+msgid "Very useful!"
+msgstr "Sangat berguna!"
+
+msgid "Cool!"
+msgstr "Keren!"
+
+msgid "Nice!"
+msgstr "Mantap!"
+
+msgid "Whatever..."
+msgstr "Terserah deh..."
+
+msgid "Okay!"
+msgstr "Oke!"
+
+msgid "Yay!"
+msgstr "Hore!"
+
+msgid "Awesome!"
+msgstr "Luar biasa!"
+
+msgid "This is the time machine of another person! To interact with it, you need special commands!"
+msgstr "Ini mesin waktu milik orang lain! Untuk berinteraksi dengannya, kamu butuh perintah khusus!"
+
+msgid "Index:"
+msgstr "Index:"
+
+msgid "Update"
+msgstr "Perbarui"
+
+msgid "Hide trees and blobs"
+msgstr "Sembunyikan tree dan blob"
+
+msgid "Hi, I'm Teo Hanki!"
+msgstr "Halo, aku Teo Hanki!"
+
+msgid ""
+"I translate Oh My Git! on my own, in my free time.\n"
+"The translation is free and will always stay free.\n"
+"Every donation helps me keep it up to date and add new languages.\n"
+"Thank you!"
+msgstr ""
+"Aku menerjemahkan Oh My Git! sendirian, di waktu luangku.\n"
+"Terjemahan ini gratis dan akan selalu gratis.\n"
+"Setiap donasi membantuku memperbaruinya dan menambah bahasa baru.\n"
+"Terima kasih!"
+
+msgid "new versions, bug reports, ideas"
+msgstr "versi baru, laporan bug, ide"
+
+msgid "opens in your browser"
+msgstr "terbuka di browser"
+
+msgid "Quit"
+msgstr "Keluar"
+
+msgid ""
+"Thanks for playing!\n"
+"\n"
+"Oh My Git! is free and open-source! <3\n"
+"\n"
+"If this game was valuable to you, consider joining our supporters on Patreon:"
+msgstr ""
+"Terima kasih sudah bermain!\n"
+"\n"
+"Oh My Git! gratis dan open source! <3\n"
+"\n"
+"Kalau game ini bermanfaat untukmu, pertimbangkan untuk ikut mendukung kami di Patreon:"
+
+msgid "Support us! (Open two browser tabs)"
+msgstr "Dukung kami! (Membuka dua tab browser)"
+
+msgid "This is your terminal! All commands are executed here, and you can see their output. You can also type your own commands here!"
+msgstr "Ini terminalmu! Semua perintah dijalankan di sini, dan kamu bisa melihat hasilnya. Kamu juga bisa mengetik perintahmu sendiri di sini!"
+
+msgid "Support the translator"
+msgstr "Dukung penerjemah"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid ""
+"Good job, you solved the level!\n"
+"\n"
+"Feel free to try a few more things or click 'Next level'."
+msgstr ""
+"Kerja bagus, kamu menyelesaikan level ini!\n"
+"\n"
+"Silakan coba beberapa hal lain atau klik \"Level berikutnya\"."
+

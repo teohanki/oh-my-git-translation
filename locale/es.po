@@ -1,0 +1,1531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oh My Git!\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Teo Hanki\n"
+"Language-Team: Spanish\n"
+
+msgid "Living dangerously"
+msgstr "Vivir al límite"
+
+msgid ""
+"So you have decided to apply for time travel school, to learn how to use this time machine called \"Git\"!\n"
+"\n"
+"How exciting!\n"
+"\n"
+"You're almost done with the paperwork! You just need to fill in one more reason why you want to learn Git."
+msgstr ""
+"¡Así que decidiste inscribirte en la escuela de viajes en el tiempo para aprender a usar esta máquina del tiempo llamada «Git»!\n"
+"\n"
+"¡Qué emoción!\n"
+"\n"
+"¡Ya casi terminas con el papeleo! Solo te falta escribir un motivo más de por qué quieres aprender Git."
+
+msgid ""
+"Suddenly, your cat jumps on the table, snatches away the form, and runs away! Oh no. All your hard work, gone!\n"
+"\n"
+"You clearly need a better solution.\n"
+"\n"
+"(Click \"Next Level\" as soon as you're ready!)"
+msgstr ""
+"De repente, tu gato salta a la mesa, te quita el formulario y sale corriendo. ¡Oh, no! ¡Todo tu esfuerzo, perdido!\n"
+"\n"
+"Está claro que necesitas una solución mejor.\n"
+"\n"
+"(¡Haz clic en «Siguiente nivel» cuando estés listo!)"
+
+msgid "Add another line to form.txt!"
+msgstr "¡Añade otra línea a form.txt!"
+
+msgid "Making backups"
+msgstr "Haciendo copias de seguridad"
+
+msgid "This time, you're making a lot of backup copies - you can look at them by clicking on them!"
+msgstr "Esta vez estás haciendo muchas copias de seguridad. ¡Puedes verlas haciendo clic en ellas!"
+
+msgid ""
+"Okay, this kind of works.\n"
+"\n"
+"But you're a bit worried that you'll end up with hundreds of copies of this form, and it will be hard to keep track of all of them.\n"
+"\n"
+"And especially when working with other people, sending copies back and forth doesn't seem ideal.\n"
+"\n"
+"You can't wait to try these time machines!"
+msgstr ""
+"Vale, esto más o menos funciona.\n"
+"\n"
+"Pero te preocupa un poco acabar con cientos de copias de este formulario, y que sea difícil no perderse entre todas.\n"
+"\n"
+"Y sobre todo, si trabajas con otras personas, enviar copias de un lado a otro no parece lo ideal.\n"
+"\n"
+"¡Te mueres de ganas de probar esas máquinas del tiempo!"
+
+msgid "Add another line to form2_really_final.txt!"
+msgstr "¡Añade otra línea a form2_really_final.txt!"
+
+msgid "Enter the time machine"
+msgstr "Entra en la máquina del tiempo"
+
+msgid ""
+"You've been accepted to time travel school! Yay! It's your first day! Your teacher explains:\n"
+"\n"
+"\"To do anything with a time machine, you first need to initialize it!\"\n"
+"\n"
+"Drag that blue card up to play it!"
+msgstr ""
+"¡Te han aceptado en la escuela de viajes en el tiempo! ¡Bien! ¡Hoy es tu primer día! Tu profesora explica:\n"
+"\n"
+"«¡Para hacer cualquier cosa con una máquina del tiempo, primero tienes que inicializarla!»\n"
+"\n"
+"¡Arrastra esa carta azul hacia arriba para jugarla!"
+
+msgid "Nice! See that little owl squirrel that appeared? It will be your companion, and always show you where you are in time!"
+msgstr "¡Genial! ¿Ves esa pequeña ardilla búho que ha aparecido? ¡Será tu compañera y siempre te mostrará en qué momento del tiempo estás!"
+
+msgid "Initialize the time machine!"
+msgstr "¡Inicializa la máquina del tiempo!"
+
+msgid "The command line"
+msgstr "La línea de comandos"
+
+msgid "These playing cards are designed to be easy to use and to remember! We'd suggest sticking to them if you don't have a lot of experience with Git!"
+msgstr "¡Estas cartas están pensadas para ser fáciles de usar y de recordar! ¡Te recomendamos usarlas si no tienes mucha experiencia con Git!"
+
+msgid ""
+"But there's another way to interact with Git:\n"
+"\n"
+"Try typing `git init` into the black terminal below, and pressing the enter key!"
+msgstr ""
+"Pero hay otra forma de usar Git:\n"
+"\n"
+"¡Prueba a escribir `git init` en la terminal negra de abajo y pulsa Enter!"
+
+msgid ""
+"Cool! Instead of using the playing cards, you can also do everything via the command line!\n"
+"\n"
+"The command line is pretty powerful! Often, you can use it to solve tasks faster compared to using a graphical interface."
+msgstr ""
+"¡Genial! ¡En lugar de usar las cartas, también puedes hacerlo todo desde la línea de comandos!\n"
+"\n"
+"¡La línea de comandos es muy potente! A menudo puedes resolver las tareas más rápido que con una interfaz gráfica."
+
+msgid "Your first commit"
+msgstr "Tu primer commit"
+
+msgid ""
+"You can use your time machine to make snapshots of objects around you! Here, let's practice this!\n"
+"\n"
+"(Your teacher pours some water into a glass.)"
+msgstr ""
+"¡Puedes usar tu máquina del tiempo para tomar instantáneas de los objetos que te rodean! ¡Vamos a practicarlo!\n"
+"\n"
+"(Tu profesora echa un poco de agua en un vaso.)"
+
+msgid ""
+"Again, instead of using the card, you can also type the commands which are printed on it into the black terminal below!\n"
+"\n"
+"This is totally optional! But this will be a super useful skill in the real world - and it will give you a sparkling golden badge! :)"
+msgstr ""
+"¡De nuevo, en lugar de usar la carta, también puedes escribir los comandos que lleva impresos en la terminal negra de abajo!\n"
+"\n"
+"¡Es totalmente opcional! Pero es una habilidad muy útil en el mundo real, ¡y te dará una brillante insignia dorada! :)"
+
+msgid "Nice! You can try making some additional commits. When you feel comfortable, click on \"Next Level\"."
+msgstr "¡Genial! Prueba a hacer algunos commits más. Cuando te sientas cómodo, haz clic en «Siguiente nivel»."
+
+msgid "Make a snapshot of the glass (a \"commit\")"
+msgstr "Toma una instantánea del vaso (un «commit»)"
+
+msgid "Change the contents of the glass!"
+msgstr "¡Cambia el contenido del vaso!"
+
+msgid "And make a second commit!"
+msgstr "¡Y haz un segundo commit!"
+
+msgid "Working together"
+msgstr "Trabajando juntos"
+
+msgid ""
+"Let's add your name to our list of students!\n"
+"\n"
+"I already have a second commit of it in my time machine - let's work together!"
+msgstr ""
+"¡Vamos a añadir tu nombre a nuestra lista de estudiantes!\n"
+"\n"
+"Ya tengo un segundo commit de la lista en mi máquina del tiempo. ¡Trabajemos juntos!"
+
+msgid "To go back to old commands, you can press arrow up and down. That way, you don't have to type in long commands twice."
+msgstr "Para volver a comandos anteriores, puedes pulsar las flechas arriba y abajo. Así no tendrás que escribir dos veces los comandos largos."
+
+msgid "Welcome to time travel school! :) I'll see you for your first class tomorrow!"
+msgstr "¡Bienvenido a la escuela de viajes en el tiempo! :) ¡Nos vemos mañana en tu primera clase!"
+
+msgid "Get the second commit from your teacher using `git pull`."
+msgstr "Consigue el segundo commit de tu profesora con `git pull`."
+
+msgid "Add your name to the list of students"
+msgstr "Añade tu nombre a la lista de estudiantes"
+
+msgid "Commit your result."
+msgstr "Haz commit de tu resultado."
+
+msgid "And use `git push` to send it to your teacher!"
+msgstr "¡Y usa `git push` para enviárselo a tu profesora!"
+
+msgid "Unexpected Roommates"
+msgstr "Compañeros inesperados"
+
+msgid ""
+"The first day at Time Travel School comes to an end and you receive the key to your room.\n"
+"Full of excitement you open the door just to find... spider webs! Spider webs everywhere!\n"
+"\n"
+"Remove all the spider webs you can find with the remove card!"
+msgstr ""
+"El primer día en la escuela de viajes en el tiempo llega a su fin y recibes la llave de tu habitación.\n"
+"Lleno de emoción abres la puerta y te encuentras... ¡telarañas! ¡Telarañas por todas partes!\n"
+"\n"
+"¡Quita todas las telarañas que encuentres con la carta rm!"
+
+msgid ""
+"On the command line, you can easily delete all files ending in -web using this command:\n"
+"\n"
+"    rm *web"
+msgstr ""
+"En la línea de comandos puedes borrar fácilmente todos los archivos que terminan en web con este comando:\n"
+"\n"
+"    rm *web"
+
+msgid "Your room looks now very tidy and cozy! Time to unpack your stuff!"
+msgstr "¡Tu habitación ahora está muy ordenada y acogedora! ¡Hora de deshacer las maletas!"
+
+msgid "Remove all spider webs."
+msgstr "Quita todas las telarañas."
+
+msgid "But make sure you keep your bed!"
+msgstr "¡Pero asegúrate de conservar tu cama!"
+
+msgid "Interior design"
+msgstr "Decoración de interiores"
+
+msgid ""
+"Now that your room looks tidy, you can start to unpack your stuff. You brought two new pieces of furniture with you and with a bright smile,\n"
+"you see that their colors match the color of your bed!\n"
+"\n"
+"Build up your two pieces of furniture by playing the touch card.\n"
+"Then name your furniture - you can choose whatever you like.\n"
+"\n"
+"Make sure the colors match! You can find the bed's color in its description.\n"
+"Don't forget to add a color and description to your new furnitures, too!"
+msgstr ""
+"Ahora que tu habitación está ordenada, puedes empezar a deshacer las maletas. Trajiste dos muebles nuevos y, con una gran sonrisa,\n"
+"ves que sus colores combinan con el de tu cama.\n"
+"\n"
+"Monta tus dos muebles jugando la carta touch.\n"
+"Luego ponles nombre, el que quieras.\n"
+"\n"
+"¡Asegúrate de que los colores combinen! El color de la cama está en su descripción.\n"
+"No olvides añadir también un color y una descripción a tus muebles nuevos. Escribe el color en inglés, igual que en la cama (yellow)."
+
+msgid "Don't you immediately feel more at home?"
+msgstr "¿A que ya te sientes más como en casa?"
+
+msgid "Add two more pieces of furniture"
+msgstr "Añade dos muebles más"
+
+msgid "Make sure the colors match your bed's color."
+msgstr "Asegúrate de que los colores combinen con el de tu cama (yellow)."
+
+msgid "Moving through time"
+msgstr "Moviéndote por el tiempo"
+
+msgid ""
+"The yellow boxes are frozen points in time, we call them \"commits\"! You can travel between them using the \"checkout\" card! (Try it!)\n"
+"\n"
+"Can you find out what happened here? Then, while on the last commit, edit the files to fix the problem, and make a new commit!"
+msgstr ""
+"Las cajas amarillas son momentos congelados en el tiempo, ¡los llamamos «commits»! Puedes viajar entre ellos usando la carta checkout. (¡Pruébalo!)\n"
+"\n"
+"¿Puedes averiguar qué pasó aquí? Después, estando en el último commit, edita los archivos para arreglar el problema y haz un commit nuevo."
+
+msgid ""
+"To checkout a specific commit, type `git checkout`, then a space, and then right click on the commit you want!\n"
+"\n"
+"This will insert the commit's unique identifier!"
+msgstr ""
+"Para hacer checkout de un commit concreto, escribe `git checkout`, luego un espacio, ¡y después haz clic derecho en el commit que quieras!\n"
+"\n"
+"¡Así se insertará el identificador único del commit!"
+
+msgid "Wonderful! Now that you're getting familiar with the time machine, let's look at some more complicated situations..."
+msgstr "¡Maravilloso! Ahora que te vas familiarizando con la máquina del tiempo, veamos algunas situaciones más complicadas..."
+
+msgid "Restore sisterly peace."
+msgstr "Restaura la paz entre hermanas."
+
+msgid "Make parallel commits"
+msgstr "Commits en paralelo"
+
+msgid ""
+"Did you know that creating parallel timelines is perfectly legal and safe? It's true!\n"
+"\n"
+"Can you find out when things went wrong in this zoo? Then, go back to the last good commit and create a parallel universe where everyone is happy!"
+msgstr ""
+"¿Sabías que crear líneas temporales paralelas es totalmente legal y seguro? ¡Es verdad!\n"
+"\n"
+"¿Puedes averiguar cuándo empezaron a torcerse las cosas en este zoo? Después, vuelve al último commit bueno y crea un universo paralelo donde todos sean felices."
+
+msgid ""
+"The blue animal represents a concept known as the \"HEAD pointer\" in Git: It shows you which commit is the current one.\n"
+"\n"
+"Here's a cool trick to go to the previous commit: \n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"You can also go back two commits by typing, for example: \n"
+"\n"
+"    git checkout HEAD~2"
+msgstr ""
+"El animal azul representa un concepto de Git llamado «puntero HEAD»: te muestra cuál es el commit actual.\n"
+"\n"
+"Aquí tienes un truco genial para ir al commit anterior:\n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"También puedes retroceder dos commits escribiendo, por ejemplo:\n"
+"\n"
+"    git checkout HEAD~2"
+
+msgid ""
+"Whew, good job! This seems like a *much* better outcome.\n"
+"\n"
+"Feel free to add more parallel timelines, or make them longer.\n"
+"\n"
+"If you're ready, our next mission is already waiting..."
+msgstr ""
+"¡Uf, buen trabajo! Esto parece un resultado *mucho* mejor.\n"
+"\n"
+"Si quieres, añade más líneas temporales paralelas o hazlas más largas.\n"
+"\n"
+"Cuando estés listo, nuestra próxima misión ya te espera..."
+
+msgid "Make sure that the child is happy."
+msgstr "Asegúrate de que el niño esté feliz."
+
+msgid "Make sure that the lion gets something to eat."
+msgstr "Asegúrate de que el león coma algo."
+
+msgid "Creating branches"
+msgstr "Creando ramas"
+
+msgid ""
+"You were invited to two parties! At one of them, your favorite band is playing - and the other one is your best friend's birthday party. Where should you go? No worries - as a time travel agent in training, you can go to both parties!\n"
+"\n"
+"To make it easier to tell which timeline is which, you can create time portals! (We call these \"branches\".)"
+msgstr ""
+"¡Te han invitado a dos fiestas! En una toca tu banda favorita y la otra es el cumpleaños de tu mejor amigo. ¿A cuál deberías ir? No te preocupes: como agente de viajes en el tiempo en formación, ¡puedes ir a las dos!\n"
+"\n"
+"Para que sea más fácil saber qué línea temporal es cuál, ¡puedes crear portales temporales! (Los llamamos «ramas».)"
+
+msgid "Branches also make it really easy to travel between different places using the command line! As soon as you have a branch called \"birthday\", you can type `git checkout birthday` to travel to it!"
+msgstr "¡Las ramas también hacen muy fácil viajar entre distintos lugares con la línea de comandos! En cuanto tengas una rama llamada «birthday», ¡puedes escribir `git checkout birthday` para viajar hasta ella!"
+
+msgid ""
+"Now you can travel between those branches easily (using `git checkout`) - try it!\n"
+"\n"
+"Your friend is happy that you made it to the birthday party and you also got your concert ticket signed. Yay!"
+msgstr ""
+"Ahora puedes viajar fácilmente entre esas ramas (con `git checkout`). ¡Pruébalo!\n"
+"\n"
+"Tu amigo está contento de que hayas ido a su cumpleaños y además conseguiste que te firmaran la entrada del concierto. ¡Bien!"
+
+msgid "Create a branch called 'birthday' that points to the birthday timeline."
+msgstr "Crea una rama llamada «birthday» que apunte a la línea temporal del cumpleaños."
+
+msgid "Create a branch called 'concert' that points to the concert timeline."
+msgstr "Crea una rama llamada «concert» que apunte a la línea temporal del concierto."
+
+msgid "Branches grow with you!"
+msgstr "¡Las ramas crecen contigo!"
+
+msgid ""
+"Note that there are two options to \"travel to the end of a timeline\":\n"
+"\n"
+"First, you can directly travel to the commit, like we've done it before.\n"
+"\n"
+"And second, you can travel to the branch label. In this case, when you make a new commit, the branch will grow with you, and still point at the end of the timeline!"
+msgstr ""
+"Fíjate en que hay dos maneras de «viajar al final de una línea temporal»:\n"
+"\n"
+"Primero, puedes viajar directamente al commit, como hemos hecho antes.\n"
+"\n"
+"Y segundo, puedes viajar a la etiqueta de la rama. En este caso, cuando hagas un commit nuevo, la rama crecerá contigo y seguirá apuntando al final de la línea temporal."
+
+msgid ""
+"To travel to a branch, type `git checkout name_of_the_branch`.\n"
+"\n"
+"And to travel to the last commit, type `git checkout --detach name_of_the_branch`."
+msgstr ""
+"Para viajar a una rama, escribe `git checkout name_of_the_branch`.\n"
+"\n"
+"Y para viajar al último commit, escribe `git checkout --detach name_of_the_branch`."
+
+msgid "Travel directly to the last yellow commit of the birthday timeline, make a change to 'you', and make a commit"
+msgstr "Viaja directamente al último commit amarillo de la línea del cumpleaños, cambia «you» y haz un commit"
+
+msgid "Travel to the blue 'concert' branch, make a change to 'you', and a commit."
+msgstr "Viaja a la rama azul «concert», cambia «you» y haz un commit."
+
+msgid "Deleting branches"
+msgstr "Borrando ramas"
+
+msgid ""
+"Life is full of dangers, right? Even when walking to school, it seems like there's a lot of risks!\n"
+"\n"
+"This Monday is especially bad. You made it to school, but there's some timelines you definitely don't want to keep around."
+msgstr ""
+"La vida está llena de peligros, ¿verdad? ¡Incluso yendo a pie a la escuela parece que hay un montón de riesgos!\n"
+"\n"
+"Este lunes es especialmente malo. Llegaste a la escuela, pero hay algunas líneas temporales que definitivamente no quieres conservar."
+
+msgid "On second thought, maybe you even prefer the ice cream timeline to the main one? :)"
+msgstr "Pensándolo mejor, ¿a lo mejor prefieres la línea del helado a la principal? :)"
+
+msgid "Find the bad branches and delete them. Keep only the best one."
+msgstr "Encuentra las ramas malas y bórralas. Conserva solo la mejor."
+
+msgid "Moving branches around"
+msgstr "Moviendo ramas"
+
+msgid ""
+"One of your colleagues messed up here, and put the branches in the wrong timelines!\n"
+"\n"
+"You could delete and re-create these branches - but you can also directly move them to different commits, by using\n"
+"\n"
+"    git checkout\n"
+"\n"
+"on the branch names, and then using\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"on the commit where you want the branch to be.\n"
+"\n"
+"The donut branch is in the right place, but the timeline is still incomplete - make you actually *eat* the donut in that branch!"
+msgstr ""
+"¡Uno de tus compañeros lo ha liado aquí y ha puesto las ramas en las líneas temporales equivocadas!\n"
+"\n"
+"Podrías borrar y volver a crear estas ramas, pero también puedes moverlas directamente a otros commits usando\n"
+"\n"
+"    git checkout\n"
+"\n"
+"con el nombre de la rama, y después\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"con el commit donde quieres que esté la rama.\n"
+"\n"
+"La rama donut está en el lugar correcto, pero la línea temporal aún está incompleta: ¡haz que de verdad te *comas* el donut en esa rama! (Añade una línea en inglés al archivo you, por ejemplo: You ate a donut.)"
+
+msgid "Did you eat a baguette on the baguette branch?"
+msgstr "¿Te comiste una baguette en la rama baguette?"
+
+msgid "Did you drink a coffee on the coffee branch?"
+msgstr "¿Te tomaste un café en la rama coffee?"
+
+msgid "Did you eat a donut on the donut branch?"
+msgstr "¿Te comiste un donut en la rama donut?"
+
+msgid "Remember to checkout the blue branch tag when you want it to grow with the timeline."
+msgstr "Recuerda hacer checkout de la etiqueta azul de la rama si quieres que crezca con la línea temporal."
+
+msgid "Merging timelines"
+msgstr "Fusionando líneas temporales"
+
+msgid "Here's a trick so that you can sleep a bit longer: just do all your morning activities in parallel universes, and then at the end, merge them together!"
+msgstr "Aquí tienes un truco para dormir un poco más: haz todas tus tareas de la mañana en universos paralelos y, al final, ¡fusiónalos!"
+
+msgid "I wonder if you're more relaxed when you *sleep* in parallel timelines..."
+msgstr "Me pregunto si descansas mejor cuando *duermes* en líneas temporales paralelas..."
+
+msgid "Build a situation where you consumed a baguette, a coffee, *and* a donut."
+msgstr "Crea una situación en la que te hayas comido una baguette, tomado un café *y* comido un donut."
+
+msgid "Be on a merge commit."
+msgstr "Estar en un commit de merge."
+
+msgid "Contradictions"
+msgstr "Contradicciones"
+
+msgid ""
+"Sometimes, timelines will contradict each other.\n"
+"\n"
+"For example, in this case, one of our clients wants these timelines merged, but they ate different things for breakfast in both timelines.\n"
+"\n"
+"Try to merge them together! You'll notice that there will be a conflict! The time machine will leave it up to you how to proceed: you can edit the problematic item, it will show you the conflicting sections. You can keep either of the two versions - or create a combination of them! Remove the >>>, <<<, and === markers, and make a new commit to finalize the merge!\n"
+"\n"
+"Let your finalized timeline be the \"main\" one."
+msgstr ""
+"A veces, las líneas temporales se contradicen.\n"
+"\n"
+"Por ejemplo, en este caso uno de nuestros clientes quiere fusionar estas líneas, pero en cada una desayunó cosas distintas.\n"
+"\n"
+"¡Intenta fusionarlas! ¡Verás que hay un conflicto! La máquina del tiempo te deja decidir cómo seguir: puedes editar el objeto problemático, y te mostrará las partes en conflicto. Puedes quedarte con cualquiera de las dos versiones, ¡o combinarlas! Quita los marcadores >>>, <<< y === y haz un commit nuevo para terminar el merge.\n"
+"\n"
+"Haz que tu línea temporal final sea la «main»."
+
+msgid "Yum, that sounds like a good breakfast!"
+msgstr "¡Mmm, eso suena a un buen desayuno!"
+
+msgid "Make a breakfast compromise in the 'main' branch."
+msgstr "Llega a un acuerdo sobre el desayuno en la rama «main»."
+
+msgid "Step by step"
+msgstr "Paso a paso"
+
+msgid ""
+"Welcome to today's lesson! We're going to learn how to make commits with more precision!\n"
+"\n"
+"Have a look at these two timelines. They have exactly the same outcome. But one of them makes it much easier to figure out what happened."
+msgstr ""
+"¡Bienvenido a la lección de hoy! ¡Vamos a aprender a hacer commits con más precisión!\n"
+"\n"
+"Mira estas dos líneas temporales. Tienen exactamente el mismo resultado. Pero en una de ellas es mucho más fácil entender qué pasó."
+
+msgid "Pick the timeline that's clearer, and make the alarm go off!"
+msgstr "¡Elige la línea temporal más clara y haz que suene la alarma!"
+
+msgid "Add new files to the index"
+msgstr "Añadir archivos nuevos al índice"
+
+msgid ""
+"So far, when we made a commit, we've always recorded the current status of all objects, right?\n"
+"\n"
+"But Git allows you to pick which changes you want to put in a commit!\n"
+"\n"
+"To learn how that works, we need to learn about the \"index\"! In the index, we can prepare what will be in the next commit. In this game, the index is represented by a blue aura around icons in the file browser!\n"
+"\n"
+"Initially, the index is empty. To make a commit that contains a new file, we need to add it!"
+msgstr ""
+"Hasta ahora, al hacer un commit siempre hemos guardado el estado actual de todos los objetos, ¿verdad?\n"
+"\n"
+"¡Pero Git te permite elegir qué cambios quieres poner en un commit!\n"
+"\n"
+"Para entender cómo funciona, tenemos que conocer el «índice». ¡En el índice preparamos lo que irá en el siguiente commit! En este juego, el índice se representa con un aura azul alrededor de los iconos del explorador de archivos.\n"
+"\n"
+"Al principio el índice está vacío. Para hacer un commit que contenga un archivo nuevo, ¡tenemos que añadirlo!"
+
+msgid "You can use tab completion in the terminal! Start typing a filename, then press the tab key to complete its name. This will often save you some time!"
+msgstr "¡Puedes usar el autocompletado con Tab en la terminal! Empieza a escribir un nombre de archivo y pulsa Tab para completarlo. ¡A menudo te ahorrará tiempo!"
+
+msgid "Add the candle."
+msgstr "Añade la vela."
+
+msgid "Make a commit."
+msgstr "Haz un commit."
+
+msgid "Update files in the index"
+msgstr "Actualizar archivos en el índice"
+
+msgid ""
+"When we change files, the index won't change on its own. We have to use `git add` to update the index to the changed version of the file.\n"
+"\n"
+"Let's try that!\n"
+"\n"
+"The icons in the file browser show you when the actual file (white) and the version in the index (blue) are different, and when they are the same!"
+msgstr ""
+"Cuando cambiamos archivos, el índice no cambia solo. Tenemos que usar `git add` para actualizar el índice con la versión modificada del archivo.\n"
+"\n"
+"¡Vamos a probarlo!\n"
+"\n"
+"¡Los iconos del explorador de archivos te muestran cuándo el archivo real (blanco) y la versión del índice (azul) son distintos y cuándo son iguales!"
+
+msgid "Make a change to the candle."
+msgstr "Haz un cambio en la vela."
+
+msgid "Resetting files in the index"
+msgstr "Restablecer archivos en el índice"
+
+msgid ""
+"See the dark shadow behind the icons? That's the version of the file in the last commit!\n"
+"\n"
+"For example, these candles have been blown out, and that change has been added.\n"
+"\n"
+"But you decide that this was a mistake! You only want to blow out the red candle in the next commit!\n"
+"\n"
+"If you already have updated the index to a changed file, but want to reset it, you can use `git reset`!"
+msgstr ""
+"¿Ves la sombra oscura detrás de los iconos? ¡Es la versión del archivo en el último commit!\n"
+"\n"
+"Por ejemplo, estas velas se han apagado y ese cambio ya se ha añadido.\n"
+"\n"
+"¡Pero decides que fue un error! ¡En el siguiente commit solo quieres apagar la vela roja!\n"
+"\n"
+"Si ya actualizaste el índice con un archivo modificado pero quieres deshacerlo, ¡puedes usar `git reset`!"
+
+msgid "Reset the changes in the green and blue candles!"
+msgstr "¡Restablece los cambios de las velas verde y azul!"
+
+msgid "And make a commit!"
+msgstr "¡Y haz un commit!"
+
+msgid "Adding changes step by step"
+msgstr "Añadir cambios paso a paso"
+
+msgid "The index is really useful, because it allows us to be precise about which changes we want to include in each commit!"
+msgstr "¡El índice es muy útil, porque nos permite decidir con precisión qué cambios incluir en cada commit!"
+
+msgid "Make changes to all three objects, to form a logical sequence of events!"
+msgstr "¡Cambia los tres objetos para formar una secuencia lógica de sucesos!"
+
+msgid "Only add one of these changes!"
+msgstr "¡Añade solo uno de esos cambios!"
+
+msgid "And make a commit."
+msgstr "Y haz un commit."
+
+msgid "Make a second commit that only records a single change."
+msgstr "Haz un segundo commit que solo guarde un cambio."
+
+msgid "And a third one."
+msgstr "Y un tercero."
+
+msgid "Friend"
+msgstr "Amigo"
+
+msgid ""
+"Your friend added another line to your essay! Get it, add a third one and send it to them!\n"
+"\n"
+"Take turns until you have five lines!"
+msgstr ""
+"¡Tu amigo añadió otra línea a tu redacción! Tráela, añade una tercera y envíasela.\n"
+"\n"
+"¡Turnaos hasta tener cinco líneas!"
+
+msgid "Oh nice, I added a fourth line!"
+msgstr "¡Genial, añadí una cuarta línea!"
+
+msgid "Got the second line from your friend"
+msgstr "Recibiste la segunda línea de tu amigo"
+
+msgid "Got the fourth line from your friend."
+msgstr "Recibiste la cuarta línea de tu amigo."
+
+msgid "The friend got a third line from you"
+msgstr "Tu amigo recibió de ti una tercera línea"
+
+msgid "The friend got a fifth line from you"
+msgstr "Tu amigo recibió de ti una quinta línea"
+
+msgid "Problems"
+msgstr "Problemas"
+
+msgid "Both you and your friend have been working on the file, and want to sync up!"
+msgstr "Tanto tú como tu amigo habéis trabajado en el archivo, ¡y queréis sincronizaros!"
+
+msgid "Commit your local changes."
+msgstr "Haz commit de tus cambios locales."
+
+msgid "Look at your friend's suggestion, make a compromise, and push it back."
+msgstr "Mira la sugerencia de tu amigo, llega a un acuerdo y envíalo de vuelta con push."
+
+msgid "Rebasing"
+msgstr "Rebase"
+
+msgid ""
+"Okay - turns out that saving time in the morning by utilizing parallel universes is against the regulations of the International Time Travel Association. You'll have to do your tasks in sequence after all.\n"
+"\n"
+"See the \"rebase\" card? When you drag it to a commit, it will copy the events in your current timeline after the specified one! This way, make a clean, linear timeline where you visit all three shops.\n"
+"\n"
+"Again, we want to make that our base reality - the \"main\" branch should point to that timeline!"
+msgstr ""
+"Vale, resulta que ahorrar tiempo por la mañana usando universos paralelos va contra las normas de la Asociación Internacional de Viajes en el Tiempo. Al final tendrás que hacer tus tareas una detrás de otra.\n"
+"\n"
+"¿Ves la carta «rebase»? ¡Cuando la arrastras a un commit, copia los sucesos de tu línea temporal actual detrás del commit indicado! Así, crea una línea temporal limpia y recta en la que visites las tres tiendas.\n"
+"\n"
+"De nuevo, queremos que esa sea nuestra realidad base: ¡la rama «main» debe apuntar a esa línea temporal!"
+
+msgid ""
+"Notice how the other timelines and commits are still there - if anything goes wrong, you can also travel back to them.\n"
+"\n"
+"It's really hard to actually *destroy* stuff with your time machine."
+msgstr ""
+"Fíjate en que las otras líneas temporales y commits siguen ahí: si algo sale mal, también puedes volver a ellos.\n"
+"\n"
+"Es realmente difícil *destruir* algo de verdad con tu máquina del tiempo."
+
+msgid "Order all tree branches into one and move the main branch ref"
+msgstr "Junta todas las ramas del árbol en una y mueve la rama main"
+
+msgid "Reordering events"
+msgstr "Reordenando sucesos"
+
+msgid ""
+"Oops, looks like there's something messed up here. Can you put the events back into their correct order?\n"
+"\n"
+"There are two ways to do this: You can drag the \"interactive rebase\" card to the commit before the one you want to change, then reorder the lines in the file that opens, and save it.\n"
+"\n"
+"Or you can reset the main tag to the very first commit, and then cherry-pick single commits in the order you want. You have cards for both approaches!"
+msgstr ""
+"Ups, parece que aquí algo está desordenado. ¿Puedes poner los sucesos en el orden correcto?\n"
+"\n"
+"Hay dos maneras de hacerlo: puedes arrastrar la carta de «rebase interactivo» (rebase -i) al commit anterior al que quieres cambiar, reordenar las líneas del archivo que se abre y guardarlo.\n"
+"\n"
+"O puedes restablecer la etiqueta main al primerísimo commit y después hacer cherry-pick de los commits uno a uno en el orden que quieras. ¡Tienes cartas para ambos métodos!"
+
+msgid "Feel free to reset the level and try the other strategy! Which one do you like better?"
+msgstr "¡Si quieres, reinicia el nivel y prueba la otra estrategia! ¿Cuál te gusta más?"
+
+msgid "Reorder the commits to dress yourself in the correct way"
+msgstr "Reordena los commits para vestirte en el orden correcto"
+
+msgid "Restore a deleted file"
+msgstr "Recuperar un archivo borrado"
+
+msgid ""
+"Oops - you deleted the \"essay\" file, which you worked on all night!\n"
+"\n"
+"Luckily, Git is here to help! You can use `git checkout` to restore the file!"
+msgstr ""
+"Ups, ¡borraste el archivo «essay», en el que trabajaste toda la noche!\n"
+"\n"
+"Por suerte, ¡Git está aquí para ayudar! ¡Puedes usar `git checkout` para recuperar el archivo!"
+
+msgid "Restore the essay to contain \"important content\""
+msgstr "Recupera la redacción para que contenga \"important content\""
+
+msgid "Restore a file from the past"
+msgstr "Recuperar un archivo del pasado"
+
+msgid ""
+"Here's a similar problem: you really liked the essay from the very first commit, and want to have it back! Well, checkout can also restore things from older commits, Here's how:\n"
+"\n"
+"    git checkout [commit] [file]"
+msgstr ""
+"Aquí tienes un problema parecido: te gustaba mucho la redacción del primer commit y quieres recuperarla. Checkout también puede recuperar cosas de commits antiguos, así:\n"
+"\n"
+"    git checkout [commit] [file]"
+
+msgid "Get the first version of your essay, and make a new commit with it."
+msgstr "Consigue la primera versión de tu redacción y haz un commit nuevo con ella."
+
+msgid "Undo a bad commit"
+msgstr "Deshacer un mal commit"
+
+msgid ""
+"Oh no, we made a bad commit! How can we undo making the commit, and go back to a point where we can try again?\n"
+"\n"
+"The answer is using `git reset [commit]`, which does two things:\n"
+"\n"
+"- It resets the current branch ref to the commit you specify.\n"
+"- And it resets the index to that commit.\n"
+"\n"
+"It does not change your working directory in any way, which means that after that, you can try making the commit you want again."
+msgstr ""
+"¡Oh, no, hemos hecho un mal commit! ¿Cómo podemos deshacerlo y volver a un punto desde el que intentarlo de nuevo?\n"
+"\n"
+"La respuesta es usar `git reset [commit]`, que hace dos cosas:\n"
+"\n"
+"- Mueve la rama actual al commit que indiques.\n"
+"- Y restablece el índice a ese commit.\n"
+"\n"
+"No cambia en absoluto tu directorio de trabajo, así que después puedes volver a hacer el commit que querías."
+
+msgid "In the last main commit, the numbers file contains the numbers from 1 to 10."
+msgstr "En el último commit de main, el archivo numbers contiene los números del 1 al 10."
+
+msgid "The commit message of that commit is \"More numbers\"."
+msgstr "El mensaje de ese commit es \"More numbers\"."
+
+msgid "The commit with the typo is not part of the main branch anymore."
+msgstr "El commit con la errata ya no forma parte de la rama main."
+
+msgid "I pushed something broken"
+msgstr "Subí algo roto"
+
+msgid "We were talking about how to undo a commit, and fix it. This only helps when you haven't already pushed it to a remote. When that has happened, and you want to undo the effects of the commit completely, your best option is `git revert`"
+msgstr "Hemos visto cómo deshacer un commit y arreglarlo. Esto solo sirve si todavía no lo has subido a un remoto. Si ya lo hiciste y quieres deshacer por completo los efectos del commit, tu mejor opción es `git revert`"
+
+msgid "The team's main branch no longer contains the bad thing."
+msgstr "La rama main del equipo ya no contiene lo malo."
+
+msgid "And the history has not been modified."
+msgstr "Y el historial no se ha modificado."
+
+msgid "Go back to where you were before"
+msgstr "Volver a donde estabas"
+
+msgid ""
+"Say you were looking at something in the past, and then switched back to the main branch.\n"
+"\n"
+"But then, you got reaaally distracted, and after your lunch break, you can't remember which past commit you were on before. How can you find out?\n"
+"\n"
+"There's a convenient command that shows you all the places your HEAD has pointed to in the past:\n"
+"\n"
+"    git reflog"
+msgstr ""
+"Imagina que estabas mirando algo del pasado y luego volviste a la rama main.\n"
+"\n"
+"Pero después te distrajiste muuucho, y tras la pausa del almuerzo no recuerdas en qué commit antiguo estabas. ¿Cómo puedes averiguarlo?\n"
+"\n"
+"Hay un comando muy práctico que te muestra todos los lugares a los que ha apuntado tu HEAD en el pasado:\n"
+"\n"
+"    git reflog"
+
+msgid "Find out where you've been before, and go back there!"
+msgstr "¡Averigua dónde estuviste antes y vuelve allí!"
+
+msgid "Cloning a repo"
+msgstr "Clonar un repositorio"
+
+msgid "Your friend has a problem! Clone the repo located in `../friend`, create a branch called \"solution\", and fix the problem in this branch. When you're ready, make a \"Pull Request\" by using `git tag pr`."
+msgstr "¡Tu amigo tiene un problema! Clona el repositorio que está en `../friend`, crea una rama llamada «solution» y arregla el problema en esa rama. Cuando termines, haz un «Pull Request» con `git tag pr`."
+
+msgid "Thanks!"
+msgstr "¡Gracias!"
+
+msgid "Yellow brick road"
+msgstr "El camino de baldosas amarillas"
+
+msgid ""
+"(Please zoom out a bit using your mouse wheel! :D)\n"
+"\n"
+"Oh no! You have lost your key at some point during the day!\n"
+"\n"
+"Sure, you could look at every single commit in an attempt to find it - but there's a better way: your time machine has a built-in way to find the point in time where things went wrong quickly!\n"
+"\n"
+"First, play the \"bisect start\" card. Then, go to a commit where you don't have the key, and play the \"bisect bad\" card. Likewise, go to a commit early on where you have the key *in your pocket*, and play the \"bisect good\" card.\n"
+"\n"
+"After you've found the last good commit, reset the main branch to it. What happened to the key after you lost it?"
+msgstr ""
+"(¡Aleja un poco la vista con la rueda del ratón! :D)\n"
+"\n"
+"¡Oh, no! ¡En algún momento del día perdiste la llave!\n"
+"\n"
+"Claro, podrías mirar cada commit para encontrarla, pero hay una forma mejor: ¡tu máquina del tiempo tiene una función integrada para encontrar rápido el momento en que las cosas salieron mal!\n"
+"\n"
+"Primero, juega la carta «bisect start». Luego ve a un commit en el que ya no tengas la llave y juega la carta «bisect bad». Del mismo modo, ve a un commit temprano en el que aún tengas la llave *en el bolsillo* y juega la carta «bisect good».\n"
+"\n"
+"Cuando encuentres el último commit bueno, restablece la rama main a ese commit. ¿Qué le pasó a la llave después de perderla?"
+
+msgid "Well done! :) The only problem is that you now have to walk all the way back home, again..."
+msgstr "¡Bien hecho! :) El único problema es que ahora tienes que volver a casa andando otra vez..."
+
+msgid "Find the last good commit"
+msgstr "Encuentra el último commit bueno"
+
+msgid "Stashing"
+msgstr "Stash"
+
+msgid ""
+"You will encounter situations in which you are working on your project but you need to\n"
+"put your current changes aside temporarily. To do so, you can use the stash function. Use\n"
+"    git stash push \n"
+"to add your current changes to the stash stack."
+msgstr ""
+"Habrá veces en que estés trabajando en tu proyecto y necesites\n"
+"apartar tus cambios actuales durante un rato. Para eso existe la función stash. Usa\n"
+"    git stash push\n"
+"para añadir tus cambios actuales a la pila del stash."
+
+msgid ""
+"Just\n"
+"    git stash\n"
+"without \"push\" does the same thing."
+msgstr ""
+"Simplemente\n"
+"    git stash\n"
+"sin «push» hace lo mismo."
+
+msgid "After stashing, your working directory goes back to the last commit. Your changes aren't lost, they're waiting in the stash."
+msgstr "Después del stash, tu directorio de trabajo vuelve al último commit. Tus cambios no se han perdido, te esperan en el stash."
+
+msgid ""
+"To see what's in the stash, use\n"
+"    git stash list"
+msgstr ""
+"Para ver qué hay en el stash, usa\n"
+"    git stash list"
+
+msgid "Nice stash you got there! :)"
+msgstr "¡Qué buen stash tienes ahí! :)"
+
+msgid "Did you stash the current changes?"
+msgstr "¿Guardaste los cambios actuales en el stash?"
+
+msgid "Pop from Stash"
+msgstr "Sacar del stash"
+
+msgid ""
+"When you stashed your changes and you want to apply them back to your current working directory, you can use\n"
+"    git stash pop\n"
+"This will remove the changes from the stash stack. If you also want to keep the changes on the stash stack, use\n"
+"    git stash apply"
+msgstr ""
+"Si guardaste tus cambios en el stash y quieres aplicarlos de nuevo a tu directorio de trabajo actual, puedes usar\n"
+"    git stash pop\n"
+"Esto quitará los cambios de la pila del stash. Si además quieres conservar los cambios en la pila, usa\n"
+"    git stash apply"
+
+msgid "pop is apply plus drop: it applies the changes and removes the entry from the stash in one go."
+msgstr "pop es apply más drop: aplica los cambios y quita la entrada del stash de una vez."
+
+msgid "If there are several entries in the stash, pop takes the most recent one, stash@{0}."
+msgstr "Si hay varias entradas en el stash, pop toma la más reciente, stash@{0}."
+
+msgid "Yay, you got your changes back! :)"
+msgstr "¡Bien, recuperaste tus cambios! :)"
+
+msgid "Did you pop the changes from the stash stack?"
+msgstr "¿Sacaste los cambios de la pila del stash?"
+
+msgid "Clear the Stash"
+msgstr "Vaciar el stash"
+
+msgid ""
+"If you want to inspect your stash stack, use the command\n"
+"    git stash list\n"
+"    \n"
+"Oh, you don't want to keep your stashed changes? There are way too many? Then go ahead and clear the stack with\n"
+"    git stash clear\n"
+"If you only want to discard a certain stash entry, you can use\n"
+"    git stash drop <stash>\n"
+"    \n"
+"Clear your stash stack!"
+msgstr ""
+"Si quieres revisar la pila del stash, usa el comando\n"
+"    git stash list\n"
+"\n"
+"¿Ah, no quieres guardar tus cambios del stash? ¿Hay demasiados? Pues adelante, vacía la pila con\n"
+"    git stash clear\n"
+"Si solo quieres descartar una entrada concreta, puedes usar\n"
+"    git stash drop <stash>\n"
+"\n"
+"¡Vacía la pila del stash!"
+
+msgid "Stash entries are named stash@{0}, stash@{1} and so on. That's what you put in place of <stash>."
+msgstr "Las entradas del stash se llaman stash@{0}, stash@{1}, etc. Eso es lo que pones en lugar de <stash>."
+
+msgid "Careful: git stash clear removes all entries at once, without asking."
+msgstr "Cuidado: git stash clear borra todas las entradas a la vez, sin preguntar."
+
+msgid ""
+"Just type\n"
+"    git stash clear"
+msgstr ""
+"Simplemente escribe\n"
+"    git stash clear"
+
+msgid "All clear! :)"
+msgstr "¡Todo limpio! :)"
+
+msgid "Did you clear your stash stack?"
+msgstr "¿Vaciaste la pila del stash?"
+
+msgid "Branch from stash"
+msgstr "Rama desde el stash"
+
+msgid ""
+"If you want to keep your changes but they don't belong to the main branch, you can easily\n"
+"create a new branch from your stashed changes. Just use\n"
+"    git stash branch <branchname> <stash>\n"
+"If you just want to use the latest stash entry, you can leave the <stash> option empty.\n"
+"\n"
+"Create a new branch from the stashed changes!"
+msgstr ""
+"Si quieres conservar tus cambios pero no pertenecen a la rama main, puedes\n"
+"crear fácilmente una rama nueva a partir de tus cambios del stash. Solo usa\n"
+"    git stash branch <branchname> <stash>\n"
+"Si solo quieres usar la entrada más reciente del stash, puedes dejar vacío <stash>.\n"
+"\n"
+"¡Crea una rama nueva a partir de los cambios del stash!"
+
+msgid ""
+"For example:\n"
+"    git stash branch pie"
+msgstr ""
+"Por ejemplo:\n"
+"    git stash branch pie"
+
+msgid "The new branch starts at the commit where you stashed, so there won't be any conflicts."
+msgstr "La rama nueva empieza en el commit en el que hiciste el stash, así que no habrá conflictos."
+
+msgid "After that, the stash entry is removed automatically."
+msgstr "Después, la entrada del stash se borra automáticamente."
+
+msgid "Stashed changes are in a new branch! :)"
+msgstr "¡Los cambios del stash están en una rama nueva! :)"
+
+msgid "Did you create a new branch from the stashed changes?"
+msgstr "¿Creaste una rama nueva a partir de los cambios del stash?"
+
+msgid "Merging popped stash"
+msgstr "Fusionar un stash recuperado"
+
+msgid ""
+"When you want to re-apply your changes but you already continued working on your file, you might get\n"
+"a merge conflict! Let's practice this situation.\n"
+"Pop the changes from the stash with\n"
+"    git stash pop\n"
+"and resolve the merge conflict. Commit the resolved changes and clear the stash stack afterwards."
+msgstr ""
+"Si quieres volver a aplicar tus cambios pero ya seguiste trabajando en tu archivo, ¡puede que tengas\n"
+"un conflicto de merge! Vamos a practicar esta situación.\n"
+"Saca los cambios del stash con\n"
+"    git stash pop\n"
+"y resuelve el conflicto. Haz commit de los cambios resueltos y vacía la pila del stash después."
+
+msgid "Open the file recipe, keep both the flour and the salt, and remove the markers <<<<<<<, ======= and >>>>>>>."
+msgstr "Abre el archivo recipe, conserva las líneas de Flour y de Salt, y quita los marcadores <<<<<<<, ======= y >>>>>>>."
+
+msgid ""
+"When there's a conflict, pop doesn't remove the entry from the stash, so you need to clear it at the end:\n"
+"    git stash clear"
+msgstr ""
+"Cuando hay un conflicto, pop no quita la entrada del stash, así que tendrás que vaciarlo al final:\n"
+"    git stash clear"
+
+msgid ""
+"Don't forget to add the file to the index before you commit:\n"
+"    git add recipe"
+msgstr ""
+"No olvides añadir el archivo al índice antes de hacer commit:\n"
+"    git add recipe"
+
+msgid "Did you resolve the conflict and commit?"
+msgstr "¿Resolviste el conflicto e hiciste commit?"
+
+msgid "Did you clear stash stack?"
+msgstr "¿Vaciaste la pila del stash?"
+
+msgid "Creating tags"
+msgstr "Creando tags"
+
+msgid ""
+"Some of your commits may be special commits. Maybe you reached a milestone or a new version number.\n"
+"\n"
+"You can mark these commits with a special flag called 'tag'.\n"
+"\n"
+"Write \n"
+"\n"
+"    git tag <tag-name> \n"
+"    \n"
+"to tag your commit."
+msgstr ""
+"Algunos de tus commits pueden ser especiales. Quizá alcanzaste un hito o un nuevo número de versión.\n"
+"\n"
+"Puedes marcar esos commits con una señal especial llamada «tag».\n"
+"\n"
+"Escribe\n"
+"\n"
+"    git tag <tag-name>\n"
+"\n"
+"para ponerle un tag a tu commit."
+
+msgid ""
+"For example:\n"
+"    git tag v1"
+msgstr ""
+"Por ejemplo:\n"
+"    git tag v1"
+
+msgid "A tag sticks to the commit you're on right now. You'll see it in the graph next to that commit."
+msgstr "Un tag se queda pegado al commit en el que estás ahora. Lo verás en el grafo junto a ese commit."
+
+msgid ""
+"To list all tags, use\n"
+"    git tag"
+msgstr ""
+"Para ver todos los tags, usa\n"
+"    git tag"
+
+msgid "Nice! You tagged your first commit :)"
+msgstr "¡Genial! Le pusiste un tag a tu primer commit :)"
+
+msgid "Did you create a new tag?"
+msgstr "¿Creaste un tag nuevo?"
+
+msgid "Removing tags"
+msgstr "Borrando tags"
+
+msgid ""
+"You added way too many tags? No prob! Delete them with\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"    \n"
+"Remove all tags in this repo!"
+msgstr ""
+"¿Pusiste demasiados tags? ¡No pasa nada! Bórralos con\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"\n"
+"¡Borra todos los tags de este repositorio!"
+
+msgid "This repo has three tags: v1, v2 and v3."
+msgstr "Este repositorio tiene tres tags: v1, v2 y v3."
+
+msgid ""
+"You can delete several tags at once:\n"
+"    git tag -d v1 v2 v3"
+msgstr ""
+"Puedes borrar varios tags a la vez:\n"
+"    git tag -d v1 v2 v3"
+
+msgid ""
+"To check which tags are left, use\n"
+"    git tag"
+msgstr ""
+"Para ver qué tags quedan, usa\n"
+"    git tag"
+
+msgid "Well done :)"
+msgstr "Bien hecho :)"
+
+msgid "Did you remove all tags?"
+msgstr "¿Borraste todos los tags?"
+
+msgid "Tagging later"
+msgstr "Poner tags más tarde"
+
+msgid ""
+"But what happens if you forgot to tag your current commit?\n"
+"No Prob! You can also tag older commits via\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"    \n"
+"Tag the commit \"Adding feature 2\" with the name \"v1\"!"
+msgstr ""
+"¿Y qué pasa si olvidaste ponerle un tag a tu commit actual?\n"
+"¡No pasa nada! También puedes poner tags a commits antiguos con\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"\n"
+"¡Ponle al commit \"Adding feature 2\" un tag llamado v1!"
+
+msgid "Look at the graph and find the commit \"Adding feature 2\". It's the one right before the newest commit."
+msgstr "Busca en el grafo el commit \"Adding feature 2\". Es el que está justo antes del commit más reciente."
+
+msgid "You don't need the full hash. The first few characters are enough, and HEAD~1 works too."
+msgstr "No necesitas el hash completo. Bastan los primeros caracteres, y HEAD~1 también funciona."
+
+msgid ""
+"For example:\n"
+"    git tag v1 HEAD~1"
+msgstr ""
+"Por ejemplo:\n"
+"    git tag v1 HEAD~1"
+
+msgid "Remote Tags"
+msgstr "Tags en remotos"
+
+msgid ""
+"When you work with remote repositories, tags are not pushed or pulled automatically.\n"
+"\n"
+"You can push a tag with\n"
+"    git push <remote> <tag-name>\n"
+"Or all tags with:\n"
+"    git push <remote> --tags\n"
+"    \n"
+"Deleting tags on your remote works with: \n"
+"    git push <remote> --delete <tag-name>\n"
+"    \n"
+"You can also sync \n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"Add a tag named \"v2\" to the last commit and push it to the remote. Also pull the v1 tag to your local repository."
+msgstr ""
+"Cuando trabajas con repositorios remotos, los tags no se suben ni se bajan automáticamente.\n"
+"\n"
+"Puedes subir un tag con\n"
+"    git push <remote> <tag-name>\n"
+"O todos los tags con:\n"
+"    git push <remote> --tags\n"
+"\n"
+"Para borrar tags en tu remoto:\n"
+"    git push <remote> --delete <tag-name>\n"
+"\n"
+"También puedes sincronizarlos\n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"Añade un tag llamado v2 al último commit y súbelo al remoto. Además, baja el tag v1 a tu repositorio local."
+
+msgid "v1 tag in your repo"
+msgstr "Tag v1 en tu repositorio"
+
+msgid "v2 tag in your repo"
+msgstr "Tag v2 en tu repositorio"
+
+msgid "v2 tag in the remote"
+msgstr "Tag v2 en el remoto"
+
+msgid "Empty sandbox"
+msgstr "Sandbox vacío"
+
+msgid "This is an empty sandbox you can play around in."
+msgstr "Este es un sandbox vacío en el que puedes experimentar."
+
+msgid "Sandbox with a remote"
+msgstr "Sandbox con un remoto"
+
+msgid ""
+"Here's a sandbox with a remote! Try pulling, fetching, or pushing!\n"
+"\n"
+"How can you push tags and branches on a remote? How can you delete them again?"
+msgstr ""
+"¡Aquí tienes un sandbox con un remoto! ¡Prueba pull, fetch o push!\n"
+"\n"
+"¿Cómo puedes subir tags y ramas a un remoto? ¿Y cómo puedes borrarlos después?"
+
+msgid "Sandbox with three commits"
+msgstr "Sandbox con tres commits"
+
+msgid ""
+"Here's a sandbox you can play around in.\n"
+"\n"
+"You can use both the playing cards, as well as the terminal. This is a real Git terminal! Fun things to try:\n"
+"\n"
+"- Make a commit that merges three timelines together at once!\n"
+"- Create and delete some tags!\n"
+"- Make a timeline that's completely independent of the rest!"
+msgstr ""
+"Aquí tienes un sandbox en el que puedes experimentar.\n"
+"\n"
+"Puedes usar tanto las cartas como la terminal. ¡Es una terminal de Git de verdad! Cosas divertidas para probar:\n"
+"\n"
+"- ¡Haz un commit que fusione tres líneas temporales a la vez!\n"
+"- ¡Crea y borra algunos tags!\n"
+"- ¡Crea una línea temporal completamente independiente del resto!"
+
+msgid "Drag this card into the empty space above to initialize the time machine!"
+msgstr "¡Arrastra esta carta al espacio vacío de arriba para inicializar la máquina del tiempo!"
+
+msgid "Create your own copy of someone else's repo."
+msgstr "Crea tu propia copia del repositorio de otra persona."
+
+msgid ""
+"Set your name.\n"
+"\n"
+"(Will not change anything outside of this game.)"
+msgstr ""
+"Configura tu nombre.\n"
+"\n"
+"(No cambiará nada fuera de este juego.)"
+
+msgid "Set your email address."
+msgstr "Configura tu dirección de correo."
+
+msgid "Drag this card to a commit or to a branch to travel to it!"
+msgstr "¡Arrastra esta carta a un commit o a una rama para viajar hasta allí!"
+
+msgid "Reset changes in a local file."
+msgstr "Descarta los cambios de un archivo local."
+
+msgid "Get the file contents from the specified commits, and reset both the working directory, as well as the index, to it."
+msgstr "Toma el contenido del archivo del commit indicado y restablece con él tanto el directorio de trabajo como el índice."
+
+msgid ""
+"Make a new commit, after automatically adding all changes to the index.\n"
+"You'll be asked to enter a short description of what you changed."
+msgstr ""
+"Hace un commit nuevo tras añadir automáticamente todos los cambios al índice.\n"
+"Te pedirá una breve descripción de lo que cambiaste."
+
+msgid "Make a new commit containing your current environment! Type in a description of what changed!"
+msgstr "¡Haz un commit nuevo con tu entorno actual! ¡Escribe una descripción de lo que cambió!"
+
+msgid "Merge the specified timeline into yours. If necessary, will create a merge commit."
+msgstr "Fusiona la línea temporal indicada con la tuya. Si hace falta, creará un commit de merge."
+
+msgid "Abort the current merge attempt, and reconstruct the previous state."
+msgstr "Cancela el merge en curso y reconstruye el estado anterior."
+
+msgid "Put the events in your current timeline on top of the specified one."
+msgstr "Coloca los sucesos de tu línea temporal actual encima de la indicada."
+
+msgid "Get someone else's version of the current timeline, and try to merge it into yours."
+msgstr "Trae la versión de otra persona de la línea temporal actual e intenta fusionarla con la tuya."
+
+msgid "Get a someone else's version of the current timeline."
+msgstr "Trae la versión de otra persona de la línea temporal actual."
+
+msgid "Give the current timeline to someone else."
+msgstr "Entrega la línea temporal actual a otra persona."
+
+msgid "Make changes to the events in your current timeline, back to the commit you drag this to."
+msgstr "Cambia los sucesos de tu línea temporal actual hasta el commit al que arrastres esta carta."
+
+msgid "Continue the current rebasing process."
+msgstr "Continúa el rebase en curso."
+
+msgid "Move the branch you're on to the specified commit."
+msgstr "Mueve la rama en la que estás al commit indicado."
+
+msgid "Jump to the commit, and update the index. Keep the current environment."
+msgstr "Salta al commit y actualiza el índice. Mantiene el entorno actual."
+
+msgid "Reset the index version of a file to the version in the commit you're on."
+msgstr "Restablece la versión de un archivo en el índice a la del commit en el que estás."
+
+msgid "Repeat the specified action on top of your current timeline."
+msgstr "Repite la acción indicada encima de tu línea temporal actual."
+
+msgid "Make a new commit that reverts the changes of the specified commit."
+msgstr "Hace un commit nuevo que revierte los cambios del commit indicado."
+
+msgid "Start looking for the commit where things got bad."
+msgstr "Empieza a buscar el commit en el que las cosas se estropearon."
+
+msgid "State that the current commit is good! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr "¡Indica que el commit actual es bueno! Cuando te muevan automáticamente, ¡sigue jugando las cartas `good` y `bad`!"
+
+msgid "State that the current commit is bad! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr "¡Indica que el commit actual es malo! Cuando te muevan automáticamente, ¡sigue jugando las cartas `good` y `bad`!"
+
+msgid "Update the index version of the file to its current real content."
+msgstr "Actualiza la versión del archivo en el índice con su contenido real actual."
+
+msgid "Delete a file both in the working directory, as well as the index."
+msgstr "Borra un archivo tanto del directorio de trabajo como del índice."
+
+msgid "Make a commit from the current index."
+msgstr "Hace un commit a partir del índice actual."
+
+msgid "Show what changed in the commit."
+msgstr "Muestra qué cambió en el commit."
+
+msgid "Create a new branch at your current location."
+msgstr "Crea una rama nueva donde estás ahora."
+
+msgid "Delete a branch."
+msgstr "Borra una rama."
+
+msgid "Display a log of where the ref pointed to in the past."
+msgstr "Muestra un registro de a dónde apuntaba la referencia en el pasado."
+
+msgid "Create a new file."
+msgstr "Crea un archivo nuevo."
+
+msgid "Delete a file."
+msgstr "Borra un archivo."
+
+msgid "Rename a file."
+msgstr "Cambia el nombre de un archivo."
+
+msgid "Make a copy of a file."
+msgstr "Hace una copia de un archivo."
+
+msgid "These are your cards! Drag them to highlighted areas to play them!"
+msgstr "¡Estas son tus cartas! ¡Arrástralas a las zonas resaltadas para jugarlas!"
+
+msgid "Draw new cards"
+msgstr "Robar cartas nuevas"
+
+msgid "Click on these files to edit them!"
+msgstr "¡Haz clic en estos archivos para editarlos!"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "The game ran into an error and will close."
+msgstr "El juego ha encontrado un error y se cerrará."
+
+msgid "Introduction"
+msgstr "Introducción"
+
+msgid "Files"
+msgstr "Archivos"
+
+msgid "Branches"
+msgstr "Ramas"
+
+msgid "Merging"
+msgstr "Merge"
+
+msgid "The index"
+msgstr "El índice"
+
+msgid "Remotes"
+msgstr "Remotos"
+
+msgid "Changing the past"
+msgstr "Cambiar el pasado"
+
+msgid "Fixing mistakes"
+msgstr "Arreglar errores"
+
+msgid "Workflows"
+msgstr "Flujos de trabajo"
+
+msgid "Bisect"
+msgstr "Bisect"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Sandbox"
+msgstr "Sandbox"
+
+msgid "(no description)"
+msgstr "(sin descripción)"
+
+msgid "Complete the goal of this level"
+msgstr "Cumple el objetivo de este nivel"
+
+msgid "You get a golden badge for each level you solve without using the playing cards! Can you solve them all using the command line?"
+msgstr "¡Consigues una insignia dorada por cada nivel que resuelvas sin usar las cartas! ¿Puedes resolverlos todos con la línea de comandos?"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Reload"
+msgstr "Reiniciar"
+
+msgid ""
+"Help us improving Oh My Git! by\n"
+"answering some questions:"
+msgstr ""
+"Ayúdanos a mejorar Oh My Git!\n"
+"respondiendo unas preguntas:"
+
+msgid "To the survey /o/"
+msgstr "A la encuesta /o/"
+
+msgid "Cards!"
+msgstr "¡Cartas!"
+
+msgid "Tip!"
+msgstr "¡Pista!"
+
+msgid "Next level"
+msgstr "Siguiente nivel"
+
+msgid "Toggle music"
+msgstr "Activar/desactivar música"
+
+msgid "by bleeptrack & blinry"
+msgstr "por bleeptrack y blinry"
+
+msgid "Original score by winniehell"
+msgstr "Banda sonora original de winniehell"
+
+msgid "Levels"
+msgstr "Niveles"
+
+msgid "Sure, I'll install it!"
+msgstr "¡Vale, lo instalo!"
+
+msgid ""
+"Hi! It seems that you don't have Git installed yet!\n"
+"\n"
+"On Linux, please install it from your package manager, usually the package is called \"git\"!\n"
+"\n"
+"On macOS 10.8 and below, you can download Git from git-scm.com."
+msgstr ""
+"¡Hola! ¡Parece que todavía no tienes Git instalado!\n"
+"\n"
+"En Linux, instálalo desde tu gestor de paquetes. El paquete suele llamarse «git».\n"
+"\n"
+"En macOS 10.8 y anteriores, puedes descargar Git desde git-scm.com."
+
+msgid "You can drag these around with your mouse!"
+msgstr "¡Puedes arrastrarlos con el ratón!"
+
+msgid "Got it!"
+msgstr "¡Entendido!"
+
+msgid "Interesting!"
+msgstr "¡Interesante!"
+
+msgid "Very useful!"
+msgstr "¡Muy útil!"
+
+msgid "Cool!"
+msgstr "¡Genial!"
+
+msgid "Nice!"
+msgstr "¡Bien!"
+
+msgid "Whatever..."
+msgstr "Lo que tú digas..."
+
+msgid "Okay!"
+msgstr "¡Vale!"
+
+msgid "Yay!"
+msgstr "¡Bieen!"
+
+msgid "Awesome!"
+msgstr "¡Increíble!"
+
+msgid "This is the time machine of another person! To interact with it, you need special commands!"
+msgstr "¡Esta es la máquina del tiempo de otra persona! ¡Para interactuar con ella necesitas comandos especiales!"
+
+msgid "Index:"
+msgstr "Índice:"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Hide trees and blobs"
+msgstr "Ocultar árboles y blobs"
+
+msgid "Hi, I'm Teo Hanki!"
+msgstr "¡Hola, soy Teo Hanki!"
+
+msgid ""
+"I translate Oh My Git! on my own, in my free time.\n"
+"The translation is free and will always stay free.\n"
+"Every donation helps me keep it up to date and add new languages.\n"
+"Thank you!"
+msgstr ""
+"Traduzco Oh My Git! yo solo, en mi tiempo libre.\n"
+"La traducción es gratis y siempre lo será.\n"
+"Cada donación me ayuda a mantenerla al día y añadir idiomas.\n"
+"¡Gracias!"
+
+msgid "new versions, bug reports, ideas"
+msgstr "versiones nuevas, errores e ideas"
+
+msgid "opens in your browser"
+msgstr "se abre en el navegador"
+
+msgid "Quit"
+msgstr "Salir"
+
+msgid ""
+"Thanks for playing!\n"
+"\n"
+"Oh My Git! is free and open-source! <3\n"
+"\n"
+"If this game was valuable to you, consider joining our supporters on Patreon:"
+msgstr ""
+"¡Gracias por jugar!\n"
+"\n"
+"¡Oh My Git! es libre y de código abierto! <3\n"
+"\n"
+"Si este juego te ha sido útil, piensa en unirte a quienes nos apoyan en Patreon:"
+
+msgid "Support us! (Open two browser tabs)"
+msgstr "¡Apóyanos! (Se abrirán dos pestañas)"
+
+msgid "This is your terminal! All commands are executed here, and you can see their output. You can also type your own commands here!"
+msgstr "¡Esta es tu terminal! Aquí se ejecutan todos los comandos y puedes ver su salida. ¡También puedes escribir tus propios comandos aquí!"
+
+msgid "Support the translator"
+msgstr "Apoyar al traductor"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid ""
+"Good job, you solved the level!\n"
+"\n"
+"Feel free to try a few more things or click 'Next level'."
+msgstr ""
+"¡Buen trabajo, superaste el nivel!\n"
+"\n"
+"Puedes probar alguna cosa más o hacer clic en «Siguiente nivel»."
+

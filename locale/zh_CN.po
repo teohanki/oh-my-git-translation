@@ -1,0 +1,1529 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oh My Git!\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Teo Hanki\n"
+"Language-Team: Chinese (Simplified)\n"
+
+msgid "Living dangerously"
+msgstr "铤而走险"
+
+msgid ""
+"So you have decided to apply for time travel school, to learn how to use this time machine called \"Git\"!\n"
+"\n"
+"How exciting!\n"
+"\n"
+"You're almost done with the paperwork! You just need to fill in one more reason why you want to learn Git."
+msgstr ""
+"你决定报名时间旅行学校，学习如何使用这台叫作“Git”的时光机！\n"
+"\n"
+"太激动了！\n"
+"\n"
+"报名材料快填完了！只差再写一条你想学 Git 的理由。"
+
+msgid ""
+"Suddenly, your cat jumps on the table, snatches away the form, and runs away! Oh no. All your hard work, gone!\n"
+"\n"
+"You clearly need a better solution.\n"
+"\n"
+"(Click \"Next Level\" as soon as you're ready!)"
+msgstr ""
+"突然，你的猫跳上桌子，叼走表格跑掉了！糟糕。辛辛苦苦写的全没了！\n"
+"\n"
+"看来你需要一个更靠谱的办法。\n"
+"\n"
+"（准备好了就点击“下一关”！）"
+
+msgid "Add another line to form.txt!"
+msgstr "在 form.txt 里再加一行！"
+
+msgid "Making backups"
+msgstr "备份副本"
+
+msgid "This time, you're making a lot of backup copies - you can look at them by clicking on them!"
+msgstr "这次你做了很多备份副本，点击它们就能查看！"
+
+msgid ""
+"Okay, this kind of works.\n"
+"\n"
+"But you're a bit worried that you'll end up with hundreds of copies of this form, and it will be hard to keep track of all of them.\n"
+"\n"
+"And especially when working with other people, sending copies back and forth doesn't seem ideal.\n"
+"\n"
+"You can't wait to try these time machines!"
+msgstr ""
+"好吧，这样勉强能用。\n"
+"\n"
+"但你有点担心，这张表格最后会有几百个副本，很难理清哪个是哪个。\n"
+"\n"
+"要是和别人一起工作，来回发送副本也不是什么好办法。\n"
+"\n"
+"真想快点试试那些时光机！"
+
+msgid "Add another line to form2_really_final.txt!"
+msgstr "在 form2_really_final.txt 里再加一行！"
+
+msgid "Enter the time machine"
+msgstr "进入时光机"
+
+msgid ""
+"You've been accepted to time travel school! Yay! It's your first day! Your teacher explains:\n"
+"\n"
+"\"To do anything with a time machine, you first need to initialize it!\"\n"
+"\n"
+"Drag that blue card up to play it!"
+msgstr ""
+"你被时间旅行学校录取了！耶！今天是你的第一天！老师解释说：\n"
+"\n"
+"“想用时光机做任何事，首先都要把它初始化！”\n"
+"\n"
+"把那张蓝色卡牌往上拖，就能打出它！"
+
+msgid "Nice! See that little owl squirrel that appeared? It will be your companion, and always show you where you are in time!"
+msgstr "不错！看到出现的那只小猫头鹰松鼠了吗？它是你的伙伴，会一直告诉你现在身处哪个时间点！"
+
+msgid "Initialize the time machine!"
+msgstr "初始化时光机！"
+
+msgid "The command line"
+msgstr "命令行"
+
+msgid "These playing cards are designed to be easy to use and to remember! We'd suggest sticking to them if you don't have a lot of experience with Git!"
+msgstr "这些卡牌设计得简单好用、容易记住！如果你对 Git 还不太熟，建议先用卡牌！"
+
+msgid ""
+"But there's another way to interact with Git:\n"
+"\n"
+"Try typing `git init` into the black terminal below, and pressing the enter key!"
+msgstr ""
+"不过，还有另一种使用 Git 的方式：\n"
+"\n"
+"试着在下方的黑色终端里输入 `git init`，然后按回车键！"
+
+msgid ""
+"Cool! Instead of using the playing cards, you can also do everything via the command line!\n"
+"\n"
+"The command line is pretty powerful! Often, you can use it to solve tasks faster compared to using a graphical interface."
+msgstr ""
+"酷！除了卡牌，所有操作也都可以通过命令行完成！\n"
+"\n"
+"命令行非常强大！很多时候，用它解决问题比用图形界面更快。"
+
+msgid "Your first commit"
+msgstr "你的第一次提交"
+
+msgid ""
+"You can use your time machine to make snapshots of objects around you! Here, let's practice this!\n"
+"\n"
+"(Your teacher pours some water into a glass.)"
+msgstr ""
+"你可以用时光机给身边的物品拍快照！来练习一下吧！\n"
+"\n"
+"（老师往玻璃杯里倒了一些水。）"
+
+msgid ""
+"Again, instead of using the card, you can also type the commands which are printed on it into the black terminal below!\n"
+"\n"
+"This is totally optional! But this will be a super useful skill in the real world - and it will give you a sparkling golden badge! :)"
+msgstr ""
+"同样，除了打出卡牌，你也可以把卡牌上印着的命令输入到下方的黑色终端里！\n"
+"\n"
+"这完全是可选的！不过这在现实中是非常有用的技能，而且还能得到一枚闪亮的金色徽章！:)"
+
+msgid "Nice! You can try making some additional commits. When you feel comfortable, click on \"Next Level\"."
+msgstr "很好！你可以再多做几次提交试试。觉得熟练了，就点击“下一关”。"
+
+msgid "Make a snapshot of the glass (a \"commit\")"
+msgstr "给玻璃杯拍一张快照（也就是一次“提交”）"
+
+msgid "Change the contents of the glass!"
+msgstr "改变玻璃杯里的内容！"
+
+msgid "And make a second commit!"
+msgstr "再做第二次提交！"
+
+msgid "Working together"
+msgstr "一起合作"
+
+msgid ""
+"Let's add your name to our list of students!\n"
+"\n"
+"I already have a second commit of it in my time machine - let's work together!"
+msgstr ""
+"我们把你的名字加到学生名单上吧！\n"
+"\n"
+"我的时光机里已经有这份名单的第二次提交了，我们一起来完成吧！"
+
+msgid "To go back to old commands, you can press arrow up and down. That way, you don't have to type in long commands twice."
+msgstr "按上下方向键可以找回之前输入过的命令，这样长命令就不用重复输入了。"
+
+msgid "Welcome to time travel school! :) I'll see you for your first class tomorrow!"
+msgstr "欢迎来到时间旅行学校！:) 明天第一堂课见！"
+
+msgid "Get the second commit from your teacher using `git pull`."
+msgstr "用 `git pull` 从老师那里拿到第二次提交。"
+
+msgid "Add your name to the list of students"
+msgstr "把你的名字加到学生名单上"
+
+msgid "Commit your result."
+msgstr "提交你的结果。"
+
+msgid "And use `git push` to send it to your teacher!"
+msgstr "然后用 `git push` 把它发给老师！"
+
+msgid "Unexpected Roommates"
+msgstr "不速之客"
+
+msgid ""
+"The first day at Time Travel School comes to an end and you receive the key to your room.\n"
+"Full of excitement you open the door just to find... spider webs! Spider webs everywhere!\n"
+"\n"
+"Remove all the spider webs you can find with the remove card!"
+msgstr ""
+"在时间旅行学校的第一天快结束了，你拿到了宿舍的钥匙。\n"
+"你满怀期待地打开门，却发现……蜘蛛网！到处都是蜘蛛网！\n"
+"\n"
+"用 rm 卡牌清除你能找到的所有蜘蛛网！"
+
+msgid ""
+"On the command line, you can easily delete all files ending in -web using this command:\n"
+"\n"
+"    rm *web"
+msgstr ""
+"在命令行里，用这条命令就能轻松删除所有以 web 结尾的文件：\n"
+"\n"
+"    rm *web"
+
+msgid "Your room looks now very tidy and cozy! Time to unpack your stuff!"
+msgstr "现在房间干净又舒适！该打开行李了！"
+
+msgid "Remove all spider webs."
+msgstr "清除所有蜘蛛网。"
+
+msgid "But make sure you keep your bed!"
+msgstr "但一定要留着你的床！"
+
+msgid "Interior design"
+msgstr "室内装修"
+
+msgid ""
+"Now that your room looks tidy, you can start to unpack your stuff. You brought two new pieces of furniture with you and with a bright smile,\n"
+"you see that their colors match the color of your bed!\n"
+"\n"
+"Build up your two pieces of furniture by playing the touch card.\n"
+"Then name your furniture - you can choose whatever you like.\n"
+"\n"
+"Make sure the colors match! You can find the bed's color in its description.\n"
+"Don't forget to add a color and description to your new furnitures, too!"
+msgstr ""
+"房间收拾干净了，可以开始整理行李了。你带来了两件新家具，你开心地发现\n"
+"它们的颜色和床的颜色正好相配！\n"
+"\n"
+"打出 touch 卡牌，把两件家具摆出来。\n"
+"然后给它们起名字，叫什么都行。\n"
+"\n"
+"一定要让颜色相配！床的颜色写在它的描述里。\n"
+"别忘了也给新家具写上颜色和描述。颜色请用英文写，和床一样（yellow）。"
+
+msgid "Don't you immediately feel more at home?"
+msgstr "是不是马上有家的感觉了？"
+
+msgid "Add two more pieces of furniture"
+msgstr "再添加两件家具"
+
+msgid "Make sure the colors match your bed's color."
+msgstr "家具的颜色要和床的颜色一致（yellow）。"
+
+msgid "Moving through time"
+msgstr "穿越时间"
+
+msgid ""
+"The yellow boxes are frozen points in time, we call them \"commits\"! You can travel between them using the \"checkout\" card! (Try it!)\n"
+"\n"
+"Can you find out what happened here? Then, while on the last commit, edit the files to fix the problem, and make a new commit!"
+msgstr ""
+"这些黄色方块是凝固的时间点，我们叫它们“提交”！你可以用 checkout 卡牌在它们之间穿梭！（试试看！）\n"
+"\n"
+"你能弄清楚这里发生了什么吗？然后，停在最后一个提交上，修改文件解决问题，再做一次新的提交！"
+
+msgid ""
+"To checkout a specific commit, type `git checkout`, then a space, and then right click on the commit you want!\n"
+"\n"
+"This will insert the commit's unique identifier!"
+msgstr ""
+"要切换到某个提交，先输入 `git checkout` 和一个空格，然后右键点击你想去的提交！\n"
+"\n"
+"这样就会插入这个提交的唯一标识符！"
+
+msgid "Wonderful! Now that you're getting familiar with the time machine, let's look at some more complicated situations..."
+msgstr "太棒了！既然你已经熟悉时光机了，我们来看看更复杂的情况……"
+
+msgid "Restore sisterly peace."
+msgstr "让姐妹俩重归于好。"
+
+msgid "Make parallel commits"
+msgstr "创建平行提交"
+
+msgid ""
+"Did you know that creating parallel timelines is perfectly legal and safe? It's true!\n"
+"\n"
+"Can you find out when things went wrong in this zoo? Then, go back to the last good commit and create a parallel universe where everyone is happy!"
+msgstr ""
+"你知道吗？创建平行时间线是完全合法又安全的！真的！\n"
+"\n"
+"你能找出这座动物园是从什么时候开始出问题的吗？然后回到最后一个正常的提交，创造一个大家都开心的平行宇宙！"
+
+msgid ""
+"The blue animal represents a concept known as the \"HEAD pointer\" in Git: It shows you which commit is the current one.\n"
+"\n"
+"Here's a cool trick to go to the previous commit: \n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"You can also go back two commits by typing, for example: \n"
+"\n"
+"    git checkout HEAD~2"
+msgstr ""
+"那只蓝色的小动物代表 Git 里一个叫作“HEAD 指针”的概念：它告诉你当前处在哪个提交。\n"
+"\n"
+"这里有个回到上一个提交的小技巧：\n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"你也可以后退两个提交，比如输入：\n"
+"\n"
+"    git checkout HEAD~2"
+
+msgid ""
+"Whew, good job! This seems like a *much* better outcome.\n"
+"\n"
+"Feel free to add more parallel timelines, or make them longer.\n"
+"\n"
+"If you're ready, our next mission is already waiting..."
+msgstr ""
+"呼，干得好！这个结局*好太多*了。\n"
+"\n"
+"你可以随意再加几条平行时间线，或者把它们延长。\n"
+"\n"
+"准备好了的话，下一个任务已经在等你了……"
+
+msgid "Make sure that the child is happy."
+msgstr "让孩子开心起来。"
+
+msgid "Make sure that the lion gets something to eat."
+msgstr "让狮子吃上东西。"
+
+msgid "Creating branches"
+msgstr "创建分支"
+
+msgid ""
+"You were invited to two parties! At one of them, your favorite band is playing - and the other one is your best friend's birthday party. Where should you go? No worries - as a time travel agent in training, you can go to both parties!\n"
+"\n"
+"To make it easier to tell which timeline is which, you can create time portals! (We call these \"branches\".)"
+msgstr ""
+"你同时被邀请去两个派对！一个有你最喜欢的乐队演出，另一个是你最好朋友的生日派对。该去哪个呢？别担心，作为一名见习时间旅行特工，两个派对你都能去！\n"
+"\n"
+"为了更容易分清哪条时间线是哪条，你可以创建时空传送门！（我们把它们叫作“分支”。）"
+
+msgid "Branches also make it really easy to travel between different places using the command line! As soon as you have a branch called \"birthday\", you can type `git checkout birthday` to travel to it!"
+msgstr "有了分支，用命令行在不同地点之间穿梭也变得特别方便！只要有一个叫“birthday”的分支，输入 `git checkout birthday` 就能去那里！"
+
+msgid ""
+"Now you can travel between those branches easily (using `git checkout`) - try it!\n"
+"\n"
+"Your friend is happy that you made it to the birthday party and you also got your concert ticket signed. Yay!"
+msgstr ""
+"现在你可以轻松地在这些分支之间穿梭了（用 `git checkout`），试试吧！\n"
+"\n"
+"朋友很高兴你来参加了生日派对，你的演唱会门票也拿到了签名。耶！"
+
+msgid "Create a branch called 'birthday' that points to the birthday timeline."
+msgstr "创建一个叫“birthday”的分支，指向生日派对的时间线。"
+
+msgid "Create a branch called 'concert' that points to the concert timeline."
+msgstr "创建一个叫“concert”的分支，指向演唱会的时间线。"
+
+msgid "Branches grow with you!"
+msgstr "分支会和你一起成长！"
+
+msgid ""
+"Note that there are two options to \"travel to the end of a timeline\":\n"
+"\n"
+"First, you can directly travel to the commit, like we've done it before.\n"
+"\n"
+"And second, you can travel to the branch label. In this case, when you make a new commit, the branch will grow with you, and still point at the end of the timeline!"
+msgstr ""
+"注意，“去到时间线的末端”有两种方式：\n"
+"\n"
+"第一种，像之前那样直接跳到那个提交。\n"
+"\n"
+"第二种，跳到分支标签上。这样当你做新的提交时，分支会跟着你一起前进，仍然指向时间线的末端！"
+
+msgid ""
+"To travel to a branch, type `git checkout name_of_the_branch`.\n"
+"\n"
+"And to travel to the last commit, type `git checkout --detach name_of_the_branch`."
+msgstr ""
+"要切换到某个分支，输入 `git checkout name_of_the_branch`。\n"
+"\n"
+"要切换到最后一个提交，输入 `git checkout --detach name_of_the_branch`。"
+
+msgid "Travel directly to the last yellow commit of the birthday timeline, make a change to 'you', and make a commit"
+msgstr "直接跳到生日时间线的最后一个黄色提交，修改“you”，然后提交"
+
+msgid "Travel to the blue 'concert' branch, make a change to 'you', and a commit."
+msgstr "切换到蓝色的“concert”分支，修改“you”，然后提交。"
+
+msgid "Deleting branches"
+msgstr "删除分支"
+
+msgid ""
+"Life is full of dangers, right? Even when walking to school, it seems like there's a lot of risks!\n"
+"\n"
+"This Monday is especially bad. You made it to school, but there's some timelines you definitely don't want to keep around."
+msgstr ""
+"生活处处有危险，对吧？连上学路上都有好多风险！\n"
+"\n"
+"这个星期一尤其倒霉。你总算到了学校，可有些时间线你肯定不想留着。"
+
+msgid "On second thought, maybe you even prefer the ice cream timeline to the main one? :)"
+msgstr "仔细想想，也许你比起主线更喜欢冰淇淋那条时间线？:)"
+
+msgid "Find the bad branches and delete them. Keep only the best one."
+msgstr "找出糟糕的分支并删除它们。只留下最好的那一个。"
+
+msgid "Moving branches around"
+msgstr "移动分支"
+
+msgid ""
+"One of your colleagues messed up here, and put the branches in the wrong timelines!\n"
+"\n"
+"You could delete and re-create these branches - but you can also directly move them to different commits, by using\n"
+"\n"
+"    git checkout\n"
+"\n"
+"on the branch names, and then using\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"on the commit where you want the branch to be.\n"
+"\n"
+"The donut branch is in the right place, but the timeline is still incomplete - make you actually *eat* the donut in that branch!"
+msgstr ""
+"你的一位同事把这里搞砸了，把分支放到了错误的时间线上！\n"
+"\n"
+"你可以删掉这些分支再重新创建，但也可以直接把它们移到别的提交上，方法是对分支名使用\n"
+"\n"
+"    git checkout\n"
+"\n"
+"然后对你想让分支所在的提交使用\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"donut 分支的位置是对的，但时间线还不完整：让你在这个分支上真的*吃掉*甜甜圈吧！（用英文在 you 文件里加一行，比如：You ate a donut.）"
+
+msgid "Did you eat a baguette on the baguette branch?"
+msgstr "你在 baguette 分支上吃了法棍吗？"
+
+msgid "Did you drink a coffee on the coffee branch?"
+msgstr "你在 coffee 分支上喝了咖啡吗？"
+
+msgid "Did you eat a donut on the donut branch?"
+msgstr "你在 donut 分支上吃了甜甜圈吗？"
+
+msgid "Remember to checkout the blue branch tag when you want it to grow with the timeline."
+msgstr "如果想让蓝色分支标签跟着时间线一起前进，记得先 checkout 到它。"
+
+msgid "Merging timelines"
+msgstr "合并时间线"
+
+msgid "Here's a trick so that you can sleep a bit longer: just do all your morning activities in parallel universes, and then at the end, merge them together!"
+msgstr "有个能多睡一会儿的小技巧：在平行宇宙里同时做完早上所有的事，最后再把它们合并起来！"
+
+msgid "I wonder if you're more relaxed when you *sleep* in parallel timelines..."
+msgstr "不知道在平行时间线里*睡觉*，会不会睡得更香……"
+
+msgid "Build a situation where you consumed a baguette, a coffee, *and* a donut."
+msgstr "做出一个你既吃了法棍、喝了咖啡，*又*吃了甜甜圈的局面。"
+
+msgid "Be on a merge commit."
+msgstr "停在一个合并提交上。"
+
+msgid "Contradictions"
+msgstr "矛盾"
+
+msgid ""
+"Sometimes, timelines will contradict each other.\n"
+"\n"
+"For example, in this case, one of our clients wants these timelines merged, but they ate different things for breakfast in both timelines.\n"
+"\n"
+"Try to merge them together! You'll notice that there will be a conflict! The time machine will leave it up to you how to proceed: you can edit the problematic item, it will show you the conflicting sections. You can keep either of the two versions - or create a combination of them! Remove the >>>, <<<, and === markers, and make a new commit to finalize the merge!\n"
+"\n"
+"Let your finalized timeline be the \"main\" one."
+msgstr ""
+"有时候，时间线之间会互相矛盾。\n"
+"\n"
+"比如这里，有位客户想把这些时间线合并，但他在两条时间线里吃的早餐不一样。\n"
+"\n"
+"试着把它们合并起来！你会发现出现了冲突！时光机会让你自己决定怎么处理：你可以编辑出问题的物品，里面会显示冲突的部分。你可以保留其中一个版本，也可以把两者结合起来！删掉 >>>、<<< 和 === 标记，再做一次新的提交来完成合并！\n"
+"\n"
+"让最终的时间线成为“main”分支。"
+
+msgid "Yum, that sounds like a good breakfast!"
+msgstr "嗯，听起来是顿不错的早餐！"
+
+msgid "Make a breakfast compromise in the 'main' branch."
+msgstr "在“main”分支上做出一个早餐折中方案。"
+
+msgid "Step by step"
+msgstr "一步一步来"
+
+msgid ""
+"Welcome to today's lesson! We're going to learn how to make commits with more precision!\n"
+"\n"
+"Have a look at these two timelines. They have exactly the same outcome. But one of them makes it much easier to figure out what happened."
+msgstr ""
+"欢迎来到今天的课程！我们要学习如何更精确地做提交！\n"
+"\n"
+"看看这两条时间线，它们的最终结果完全一样。但其中一条让人更容易看懂发生了什么。"
+
+msgid "Pick the timeline that's clearer, and make the alarm go off!"
+msgstr "选出更清晰的那条时间线，然后让闹钟响起来！"
+
+msgid "Add new files to the index"
+msgstr "把新文件加入暂存区"
+
+msgid ""
+"So far, when we made a commit, we've always recorded the current status of all objects, right?\n"
+"\n"
+"But Git allows you to pick which changes you want to put in a commit!\n"
+"\n"
+"To learn how that works, we need to learn about the \"index\"! In the index, we can prepare what will be in the next commit. In this game, the index is represented by a blue aura around icons in the file browser!\n"
+"\n"
+"Initially, the index is empty. To make a commit that contains a new file, we need to add it!"
+msgstr ""
+"到目前为止，每次提交时，我们都会记录所有物品的当前状态，对吧？\n"
+"\n"
+"但 Git 允许你挑选哪些改动放进提交里！\n"
+"\n"
+"要弄懂这一点，我们需要了解“暂存区”（index）！在暂存区里，我们可以准备下一次提交的内容。在这个游戏里，暂存区用文件浏览器中图标周围的蓝色光晕表示！\n"
+"\n"
+"一开始暂存区是空的。想让提交包含一个新文件，就得先把它加进去！"
+
+msgid "You can use tab completion in the terminal! Start typing a filename, then press the tab key to complete its name. This will often save you some time!"
+msgstr "终端里可以用 Tab 补全！开始输入文件名，然后按 Tab 键补全名字。这常常能帮你省下不少时间！"
+
+msgid "Add the candle."
+msgstr "加入蜡烛。"
+
+msgid "Make a commit."
+msgstr "做一次提交。"
+
+msgid "Update files in the index"
+msgstr "更新暂存区里的文件"
+
+msgid ""
+"When we change files, the index won't change on its own. We have to use `git add` to update the index to the changed version of the file.\n"
+"\n"
+"Let's try that!\n"
+"\n"
+"The icons in the file browser show you when the actual file (white) and the version in the index (blue) are different, and when they are the same!"
+msgstr ""
+"修改文件后，暂存区不会自己跟着变。我们要用 `git add` 把暂存区更新为文件修改后的版本。\n"
+"\n"
+"来试试吧！\n"
+"\n"
+"文件浏览器里的图标会告诉你实际文件（白色）和暂存区里的版本（蓝色）是不同还是相同！"
+
+msgid "Make a change to the candle."
+msgstr "修改一下蜡烛。"
+
+msgid "Resetting files in the index"
+msgstr "重置暂存区里的文件"
+
+msgid ""
+"See the dark shadow behind the icons? That's the version of the file in the last commit!\n"
+"\n"
+"For example, these candles have been blown out, and that change has been added.\n"
+"\n"
+"But you decide that this was a mistake! You only want to blow out the red candle in the next commit!\n"
+"\n"
+"If you already have updated the index to a changed file, but want to reset it, you can use `git reset`!"
+msgstr ""
+"看到图标后面的深色阴影了吗？那是文件在上一次提交中的版本！\n"
+"\n"
+"比如这些蜡烛已经被吹灭了，而且这个改动已经加入了暂存区。\n"
+"\n"
+"但你觉得这是个错误！下一次提交里只想吹灭红色蜡烛！\n"
+"\n"
+"如果你已经把改动过的文件更新到暂存区，但又想撤销，可以用 `git reset`！"
+
+msgid "Reset the changes in the green and blue candles!"
+msgstr "重置绿色和蓝色蜡烛的改动！"
+
+msgid "And make a commit!"
+msgstr "然后做一次提交！"
+
+msgid "Adding changes step by step"
+msgstr "一步步加入改动"
+
+msgid "The index is really useful, because it allows us to be precise about which changes we want to include in each commit!"
+msgstr "暂存区非常有用，因为它让我们能精确决定每次提交包含哪些改动！"
+
+msgid "Make changes to all three objects, to form a logical sequence of events!"
+msgstr "修改全部三个物品，让它们组成一串合乎逻辑的事件！"
+
+msgid "Only add one of these changes!"
+msgstr "只加入其中一个改动！"
+
+msgid "And make a commit."
+msgstr "然后做一次提交。"
+
+msgid "Make a second commit that only records a single change."
+msgstr "再做第二次提交，只记录一个改动。"
+
+msgid "And a third one."
+msgstr "还有第三次。"
+
+msgid "Friend"
+msgstr "朋友"
+
+msgid ""
+"Your friend added another line to your essay! Get it, add a third one and send it to them!\n"
+"\n"
+"Take turns until you have five lines!"
+msgstr ""
+"你的朋友在你的作文里又加了一行！把它拿过来，加上第三行，再发给朋友！\n"
+"\n"
+"轮流来，直到写满五行！"
+
+msgid "Oh nice, I added a fourth line!"
+msgstr "不错哦，我加上了第四行！"
+
+msgid "Got the second line from your friend"
+msgstr "从朋友那里拿到了第二行"
+
+msgid "Got the fourth line from your friend."
+msgstr "从朋友那里拿到了第四行。"
+
+msgid "The friend got a third line from you"
+msgstr "朋友从你这里拿到了第三行"
+
+msgid "The friend got a fifth line from you"
+msgstr "朋友从你这里拿到了第五行"
+
+msgid "Problems"
+msgstr "问题"
+
+msgid "Both you and your friend have been working on the file, and want to sync up!"
+msgstr "你和朋友都修改了这个文件，现在需要同步一下！"
+
+msgid "Commit your local changes."
+msgstr "提交你的本地改动。"
+
+msgid "Look at your friend's suggestion, make a compromise, and push it back."
+msgstr "看看朋友的建议，做个折中，然后推送回去。"
+
+msgid "Rebasing"
+msgstr "变基"
+
+msgid ""
+"Okay - turns out that saving time in the morning by utilizing parallel universes is against the regulations of the International Time Travel Association. You'll have to do your tasks in sequence after all.\n"
+"\n"
+"See the \"rebase\" card? When you drag it to a commit, it will copy the events in your current timeline after the specified one! This way, make a clean, linear timeline where you visit all three shops.\n"
+"\n"
+"Again, we want to make that our base reality - the \"main\" branch should point to that timeline!"
+msgstr ""
+"好吧，原来利用平行宇宙节省早上的时间违反了国际时间旅行协会的规定。你终究还是得按顺序做事。\n"
+"\n"
+"看到“rebase”卡牌了吗？把它拖到一个提交上，它会把你当前时间线上的事件复制到那个提交之后！用这个方法，做出一条干净的直线时间线，让你依次去三家店。\n"
+"\n"
+"同样，我们要把它当作基础现实：“main”分支应该指向这条时间线！"
+
+msgid ""
+"Notice how the other timelines and commits are still there - if anything goes wrong, you can also travel back to them.\n"
+"\n"
+"It's really hard to actually *destroy* stuff with your time machine."
+msgstr ""
+"注意，其他时间线和提交都还在。万一出了问题，你还可以回到它们那里。\n"
+"\n"
+"用时光机想真正*毁掉*什么东西，其实非常难。"
+
+msgid "Order all tree branches into one and move the main branch ref"
+msgstr "把所有树枝排成一条，并移动 main 分支"
+
+msgid "Reordering events"
+msgstr "调整事件顺序"
+
+msgid ""
+"Oops, looks like there's something messed up here. Can you put the events back into their correct order?\n"
+"\n"
+"There are two ways to do this: You can drag the \"interactive rebase\" card to the commit before the one you want to change, then reorder the lines in the file that opens, and save it.\n"
+"\n"
+"Or you can reset the main tag to the very first commit, and then cherry-pick single commits in the order you want. You have cards for both approaches!"
+msgstr ""
+"哎呀，这里好像有些东西乱了。你能把事件恢复到正确的顺序吗？\n"
+"\n"
+"有两种办法：可以把“交互式变基”（rebase -i）卡牌拖到你想修改的提交的前一个提交上，然后在打开的文件里调整各行的顺序并保存。\n"
+"\n"
+"或者把 main 标签重置到最开始的提交，然后按你想要的顺序逐个 cherry-pick 提交。两种方法的卡牌你都有！"
+
+msgid "Feel free to reset the level and try the other strategy! Which one do you like better?"
+msgstr "可以重置关卡，试试另一种方法！你更喜欢哪一种？"
+
+msgid "Reorder the commits to dress yourself in the correct way"
+msgstr "调整提交顺序，让你按正确的顺序穿衣服"
+
+msgid "Restore a deleted file"
+msgstr "恢复被删除的文件"
+
+msgid ""
+"Oops - you deleted the \"essay\" file, which you worked on all night!\n"
+"\n"
+"Luckily, Git is here to help! You can use `git checkout` to restore the file!"
+msgstr ""
+"糟糕，你把熬夜写的“essay”文件删掉了！\n"
+"\n"
+"幸好有 Git 帮忙！你可以用 `git checkout` 恢复这个文件！"
+
+msgid "Restore the essay to contain \"important content\""
+msgstr "恢复作文，让它的内容为 \"important content\""
+
+msgid "Restore a file from the past"
+msgstr "从过去恢复文件"
+
+msgid ""
+"Here's a similar problem: you really liked the essay from the very first commit, and want to have it back! Well, checkout can also restore things from older commits, Here's how:\n"
+"\n"
+"    git checkout [commit] [file]"
+msgstr ""
+"还有个类似的问题：你特别喜欢最初那次提交里的作文，想把它找回来！checkout 也能从更早的提交里恢复东西，方法如下：\n"
+"\n"
+"    git checkout [commit] [file]"
+
+msgid "Get the first version of your essay, and make a new commit with it."
+msgstr "拿到作文的第一个版本，并用它做一次新的提交。"
+
+msgid "Undo a bad commit"
+msgstr "撤销一次糟糕的提交"
+
+msgid ""
+"Oh no, we made a bad commit! How can we undo making the commit, and go back to a point where we can try again?\n"
+"\n"
+"The answer is using `git reset [commit]`, which does two things:\n"
+"\n"
+"- It resets the current branch ref to the commit you specify.\n"
+"- And it resets the index to that commit.\n"
+"\n"
+"It does not change your working directory in any way, which means that after that, you can try making the commit you want again."
+msgstr ""
+"糟糕，我们做了一次糟糕的提交！怎样才能撤销这次提交，回到可以重新来过的状态呢？\n"
+"\n"
+"答案是用 `git reset [commit]`，它会做两件事：\n"
+"\n"
+"- 把当前分支移到你指定的提交上。\n"
+"- 把暂存区重置到那个提交。\n"
+"\n"
+"它完全不会改变你的工作目录，所以之后你可以重新做你想要的提交。"
+
+msgid "In the last main commit, the numbers file contains the numbers from 1 to 10."
+msgstr "在 main 的最新提交中，numbers 文件包含 1 到 10 的数字。"
+
+msgid "The commit message of that commit is \"More numbers\"."
+msgstr "这次提交的提交信息是 \"More numbers\"。"
+
+msgid "The commit with the typo is not part of the main branch anymore."
+msgstr "有拼写错误的那次提交已经不在 main 分支上了。"
+
+msgid "I pushed something broken"
+msgstr "我推送了坏掉的东西"
+
+msgid "We were talking about how to undo a commit, and fix it. This only helps when you haven't already pushed it to a remote. When that has happened, and you want to undo the effects of the commit completely, your best option is `git revert`"
+msgstr "我们讲过如何撤销一次提交并修正它。不过这只在你还没把它推送到远程仓库时才有用。如果已经推送了，又想彻底撤销这次提交的影响，最好的选择是 `git revert`"
+
+msgid "The team's main branch no longer contains the bad thing."
+msgstr "团队的 main 分支里已经没有那个坏东西了。"
+
+msgid "And the history has not been modified."
+msgstr "而且历史没有被改写。"
+
+msgid "Go back to where you were before"
+msgstr "回到之前的位置"
+
+msgid ""
+"Say you were looking at something in the past, and then switched back to the main branch.\n"
+"\n"
+"But then, you got reaaally distracted, and after your lunch break, you can't remember which past commit you were on before. How can you find out?\n"
+"\n"
+"There's a convenient command that shows you all the places your HEAD has pointed to in the past:\n"
+"\n"
+"    git reflog"
+msgstr ""
+"假设你刚才在查看过去的某个东西，然后切回了 main 分支。\n"
+"\n"
+"可后来你走神得厉害，吃完午饭就想不起之前停在哪个旧提交上了。怎么才能找出来呢？\n"
+"\n"
+"有个很方便的命令，可以显示 HEAD 过去指向过的所有位置：\n"
+"\n"
+"    git reflog"
+
+msgid "Find out where you've been before, and go back there!"
+msgstr "找出你之前去过的地方，然后回到那里！"
+
+msgid "Cloning a repo"
+msgstr "克隆仓库"
+
+msgid "Your friend has a problem! Clone the repo located in `../friend`, create a branch called \"solution\", and fix the problem in this branch. When you're ready, make a \"Pull Request\" by using `git tag pr`."
+msgstr "你的朋友遇到麻烦了！克隆位于 `../friend` 的仓库，创建一个叫“solution”的分支，并在这个分支上解决问题。准备好后，用 `git tag pr` 发起一个“Pull Request”。"
+
+msgid "Thanks!"
+msgstr "谢谢！"
+
+msgid "Yellow brick road"
+msgstr "黄砖路"
+
+msgid ""
+"(Please zoom out a bit using your mouse wheel! :D)\n"
+"\n"
+"Oh no! You have lost your key at some point during the day!\n"
+"\n"
+"Sure, you could look at every single commit in an attempt to find it - but there's a better way: your time machine has a built-in way to find the point in time where things went wrong quickly!\n"
+"\n"
+"First, play the \"bisect start\" card. Then, go to a commit where you don't have the key, and play the \"bisect bad\" card. Likewise, go to a commit early on where you have the key *in your pocket*, and play the \"bisect good\" card.\n"
+"\n"
+"After you've found the last good commit, reset the main branch to it. What happened to the key after you lost it?"
+msgstr ""
+"（请用鼠标滚轮稍微缩小一点！:D）\n"
+"\n"
+"糟糕！你在这一天的某个时候弄丢了钥匙！\n"
+"\n"
+"当然，你可以一个个提交地看过去找它，但还有更好的办法：你的时光机内置了一个工具，能快速找到出问题的那个时间点！\n"
+"\n"
+"先打出“bisect start”卡牌。然后去一个你已经没有钥匙的提交，打出“bisect bad”卡牌。同样，去一个比较早的、钥匙还*在你口袋里*的提交，打出“bisect good”卡牌。\n"
+"\n"
+"找到最后一个正常的提交后，把 main 分支重置到那里。钥匙丢了之后发生了什么？"
+
+msgid "Well done! :) The only problem is that you now have to walk all the way back home, again..."
+msgstr "干得好！:) 唯一的问题是，你现在又得一路走回家了……"
+
+msgid "Find the last good commit"
+msgstr "找到最后一个正常的提交"
+
+msgid "Stashing"
+msgstr "储藏"
+
+msgid ""
+"You will encounter situations in which you are working on your project but you need to\n"
+"put your current changes aside temporarily. To do so, you can use the stash function. Use\n"
+"    git stash push \n"
+"to add your current changes to the stash stack."
+msgstr ""
+"你可能会遇到这样的情况：正在做项目，却需要把当前的改动\n"
+"暂时放到一边。这时可以用 stash（储藏）功能。用\n"
+"    git stash push\n"
+"把当前的改动放进储藏栈。"
+
+msgid ""
+"Just\n"
+"    git stash\n"
+"without \"push\" does the same thing."
+msgstr ""
+"直接用\n"
+"    git stash\n"
+"不加 push，效果是一样的。"
+
+msgid "After stashing, your working directory goes back to the last commit. Your changes aren't lost, they're waiting in the stash."
+msgstr "储藏之后，工作目录会回到最后一次提交的状态。你的改动没有丢，它们在储藏里等着你。"
+
+msgid ""
+"To see what's in the stash, use\n"
+"    git stash list"
+msgstr ""
+"想看看储藏里有什么，可以用\n"
+"    git stash list"
+
+msgid "Nice stash you got there! :)"
+msgstr "储藏得不错！:)"
+
+msgid "Did you stash the current changes?"
+msgstr "你储藏当前的改动了吗？"
+
+msgid "Pop from Stash"
+msgstr "从储藏中取出"
+
+msgid ""
+"When you stashed your changes and you want to apply them back to your current working directory, you can use\n"
+"    git stash pop\n"
+"This will remove the changes from the stash stack. If you also want to keep the changes on the stash stack, use\n"
+"    git stash apply"
+msgstr ""
+"如果你储藏了改动，现在想把它们放回当前的工作目录，可以用\n"
+"    git stash pop\n"
+"这会把改动从储藏栈中移除。如果想让改动继续留在储藏栈里，用\n"
+"    git stash apply"
+
+msgid "pop is apply plus drop: it applies the changes and removes the entry from the stash in one go."
+msgstr "pop 就是 apply 加 drop：应用改动，同时把这条记录从储藏里删掉。"
+
+msgid "If there are several entries in the stash, pop takes the most recent one, stash@{0}."
+msgstr "如果储藏里有好几条记录，pop 会取最新的那条，也就是 stash@{0}。"
+
+msgid "Yay, you got your changes back! :)"
+msgstr "耶，改动回来了！:)"
+
+msgid "Did you pop the changes from the stash stack?"
+msgstr "你从储藏栈中取出改动了吗？"
+
+msgid "Clear the Stash"
+msgstr "清空储藏"
+
+msgid ""
+"If you want to inspect your stash stack, use the command\n"
+"    git stash list\n"
+"    \n"
+"Oh, you don't want to keep your stashed changes? There are way too many? Then go ahead and clear the stack with\n"
+"    git stash clear\n"
+"If you only want to discard a certain stash entry, you can use\n"
+"    git stash drop <stash>\n"
+"    \n"
+"Clear your stash stack!"
+msgstr ""
+"想查看储藏栈，可以用命令\n"
+"    git stash list\n"
+"\n"
+"哦，不想保留储藏的改动了？实在太多了？那就用下面的命令清空栈吧\n"
+"    git stash clear\n"
+"如果只想丢弃某一条储藏记录，可以用\n"
+"    git stash drop <stash>\n"
+"\n"
+"清空你的储藏栈！"
+
+msgid "Stash entries are named stash@{0}, stash@{1} and so on. That's what you put in place of <stash>."
+msgstr "储藏记录的名字是 stash@{0}、stash@{1} 等等，填在 <stash> 位置的就是它们。"
+
+msgid "Careful: git stash clear removes all entries at once, without asking."
+msgstr "小心：git stash clear 会一次性删除所有记录，而且不会询问。"
+
+msgid ""
+"Just type\n"
+"    git stash clear"
+msgstr ""
+"直接输入\n"
+"    git stash clear"
+
+msgid "All clear! :)"
+msgstr "清理完毕！:)"
+
+msgid "Did you clear your stash stack?"
+msgstr "你清空储藏栈了吗？"
+
+msgid "Branch from stash"
+msgstr "从储藏创建分支"
+
+msgid ""
+"If you want to keep your changes but they don't belong to the main branch, you can easily\n"
+"create a new branch from your stashed changes. Just use\n"
+"    git stash branch <branchname> <stash>\n"
+"If you just want to use the latest stash entry, you can leave the <stash> option empty.\n"
+"\n"
+"Create a new branch from the stashed changes!"
+msgstr ""
+"如果你想保留改动，但它们不属于 main 分支，可以很方便地\n"
+"用储藏的改动创建一个新分支。只要用\n"
+"    git stash branch <branchname> <stash>\n"
+"如果只想用最新的储藏记录，<stash> 可以不填。\n"
+"\n"
+"用储藏的改动创建一个新分支！"
+
+msgid ""
+"For example:\n"
+"    git stash branch pie"
+msgstr ""
+"例如：\n"
+"    git stash branch pie"
+
+msgid "The new branch starts at the commit where you stashed, so there won't be any conflicts."
+msgstr "新分支从你储藏时所在的提交开始，所以不会有冲突。"
+
+msgid "After that, the stash entry is removed automatically."
+msgstr "之后这条储藏记录会被自动删除。"
+
+msgid "Stashed changes are in a new branch! :)"
+msgstr "储藏的改动已经放进新分支了！:)"
+
+msgid "Did you create a new branch from the stashed changes?"
+msgstr "你用储藏的改动创建新分支了吗？"
+
+msgid "Merging popped stash"
+msgstr "合并取出的储藏"
+
+msgid ""
+"When you want to re-apply your changes but you already continued working on your file, you might get\n"
+"a merge conflict! Let's practice this situation.\n"
+"Pop the changes from the stash with\n"
+"    git stash pop\n"
+"and resolve the merge conflict. Commit the resolved changes and clear the stash stack afterwards."
+msgstr ""
+"如果你想重新应用改动，但已经继续修改过这个文件，就可能出现\n"
+"合并冲突！我们来练习一下这种情况。\n"
+"用下面的命令从储藏中取出改动\n"
+"    git stash pop\n"
+"然后解决合并冲突。提交解决后的改动，最后清空储藏栈。"
+
+msgid "Open the file recipe, keep both the flour and the salt, and remove the markers <<<<<<<, ======= and >>>>>>>."
+msgstr "打开 recipe 文件，同时保留 Flour 和 Salt 两行，并删掉 <<<<<<<、======= 和 >>>>>>> 标记。"
+
+msgid ""
+"When there's a conflict, pop doesn't remove the entry from the stash, so you need to clear it at the end:\n"
+"    git stash clear"
+msgstr ""
+"出现冲突时，pop 不会把记录从储藏中删除，所以最后需要清空它：\n"
+"    git stash clear"
+
+msgid ""
+"Don't forget to add the file to the index before you commit:\n"
+"    git add recipe"
+msgstr ""
+"提交之前别忘了把文件加入暂存区：\n"
+"    git add recipe"
+
+msgid "Did you resolve the conflict and commit?"
+msgstr "你解决冲突并提交了吗？"
+
+msgid "Did you clear stash stack?"
+msgstr "你清空储藏栈了吗？"
+
+msgid "Creating tags"
+msgstr "创建标签"
+
+msgid ""
+"Some of your commits may be special commits. Maybe you reached a milestone or a new version number.\n"
+"\n"
+"You can mark these commits with a special flag called 'tag'.\n"
+"\n"
+"Write \n"
+"\n"
+"    git tag <tag-name> \n"
+"    \n"
+"to tag your commit."
+msgstr ""
+"有些提交可能很特别。也许你达到了一个里程碑，或者有了新的版本号。\n"
+"\n"
+"你可以用一种叫“标签”（tag）的特殊标记来标出这些提交。\n"
+"\n"
+"输入\n"
+"\n"
+"    git tag <tag-name>\n"
+"\n"
+"给当前提交打上标签。"
+
+msgid ""
+"For example:\n"
+"    git tag v1"
+msgstr ""
+"例如：\n"
+"    git tag v1"
+
+msgid "A tag sticks to the commit you're on right now. You'll see it in the graph next to that commit."
+msgstr "标签会贴在你现在所在的提交上。你会在图中看到它出现在那个提交旁边。"
+
+msgid ""
+"To list all tags, use\n"
+"    git tag"
+msgstr ""
+"想列出所有标签，可以用\n"
+"    git tag"
+
+msgid "Nice! You tagged your first commit :)"
+msgstr "不错！你给第一个提交打上了标签 :)"
+
+msgid "Did you create a new tag?"
+msgstr "你创建了新标签吗？"
+
+msgid "Removing tags"
+msgstr "删除标签"
+
+msgid ""
+"You added way too many tags? No prob! Delete them with\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"    \n"
+"Remove all tags in this repo!"
+msgstr ""
+"标签打得太多了？没关系！用下面的命令删掉它们\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"\n"
+"删除这个仓库里的所有标签！"
+
+msgid "This repo has three tags: v1, v2 and v3."
+msgstr "这个仓库里有三个标签：v1、v2 和 v3。"
+
+msgid ""
+"You can delete several tags at once:\n"
+"    git tag -d v1 v2 v3"
+msgstr ""
+"可以一次删除多个标签：\n"
+"    git tag -d v1 v2 v3"
+
+msgid ""
+"To check which tags are left, use\n"
+"    git tag"
+msgstr ""
+"想看看还剩哪些标签，可以用\n"
+"    git tag"
+
+msgid "Well done :)"
+msgstr "干得好 :)"
+
+msgid "Did you remove all tags?"
+msgstr "你删除所有标签了吗？"
+
+msgid "Tagging later"
+msgstr "事后打标签"
+
+msgid ""
+"But what happens if you forgot to tag your current commit?\n"
+"No Prob! You can also tag older commits via\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"    \n"
+"Tag the commit \"Adding feature 2\" with the name \"v1\"!"
+msgstr ""
+"要是忘了给当前提交打标签怎么办？\n"
+"没关系！你也可以给更早的提交打标签：\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"\n"
+"给 \"Adding feature 2\" 这个提交打上名为 v1 的标签！"
+
+msgid "Look at the graph and find the commit \"Adding feature 2\". It's the one right before the newest commit."
+msgstr "在图中找到 \"Adding feature 2\" 这个提交。它就在最新提交的前一个。"
+
+msgid "You don't need the full hash. The first few characters are enough, and HEAD~1 works too."
+msgstr "不需要完整的哈希值，前几个字符就够了，用 HEAD~1 也可以。"
+
+msgid ""
+"For example:\n"
+"    git tag v1 HEAD~1"
+msgstr ""
+"例如：\n"
+"    git tag v1 HEAD~1"
+
+msgid "Remote Tags"
+msgstr "远程标签"
+
+msgid ""
+"When you work with remote repositories, tags are not pushed or pulled automatically.\n"
+"\n"
+"You can push a tag with\n"
+"    git push <remote> <tag-name>\n"
+"Or all tags with:\n"
+"    git push <remote> --tags\n"
+"    \n"
+"Deleting tags on your remote works with: \n"
+"    git push <remote> --delete <tag-name>\n"
+"    \n"
+"You can also sync \n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"Add a tag named \"v2\" to the last commit and push it to the remote. Also pull the v1 tag to your local repository."
+msgstr ""
+"使用远程仓库时，标签不会自动推送或拉取。\n"
+"\n"
+"推送一个标签可以用\n"
+"    git push <remote> <tag-name>\n"
+"推送所有标签用：\n"
+"    git push <remote> --tags\n"
+"\n"
+"删除远程仓库上的标签用：\n"
+"    git push <remote> --delete <tag-name>\n"
+"\n"
+"你也可以同步标签：\n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"给最后一个提交加上名为 v2 的标签，并推送到远程仓库。另外，把 v1 标签拉取到你的本地仓库。"
+
+msgid "v1 tag in your repo"
+msgstr "你的仓库里有 v1 标签"
+
+msgid "v2 tag in your repo"
+msgstr "你的仓库里有 v2 标签"
+
+msgid "v2 tag in the remote"
+msgstr "远程仓库里有 v2 标签"
+
+msgid "Empty sandbox"
+msgstr "空沙盒"
+
+msgid "This is an empty sandbox you can play around in."
+msgstr "这是一个空沙盒，你可以在里面随便玩。"
+
+msgid "Sandbox with a remote"
+msgstr "带远程仓库的沙盒"
+
+msgid ""
+"Here's a sandbox with a remote! Try pulling, fetching, or pushing!\n"
+"\n"
+"How can you push tags and branches on a remote? How can you delete them again?"
+msgstr ""
+"这是一个带远程仓库的沙盒！试试 pull、fetch 或 push！\n"
+"\n"
+"怎样把标签和分支推送到远程仓库？又怎样再删除它们？"
+
+msgid "Sandbox with three commits"
+msgstr "有三次提交的沙盒"
+
+msgid ""
+"Here's a sandbox you can play around in.\n"
+"\n"
+"You can use both the playing cards, as well as the terminal. This is a real Git terminal! Fun things to try:\n"
+"\n"
+"- Make a commit that merges three timelines together at once!\n"
+"- Create and delete some tags!\n"
+"- Make a timeline that's completely independent of the rest!"
+msgstr ""
+"这是一个可以随便玩的沙盒。\n"
+"\n"
+"卡牌和终端都可以用。这是真正的 Git 终端！可以试试这些好玩的事：\n"
+"\n"
+"- 做一次一下子合并三条时间线的提交！\n"
+"- 创建并删除一些标签！\n"
+"- 做一条和其他部分完全无关的时间线！"
+
+msgid "Drag this card into the empty space above to initialize the time machine!"
+msgstr "把这张卡牌拖到上方的空白处，初始化时光机！"
+
+msgid "Create your own copy of someone else's repo."
+msgstr "创建别人仓库的一份你自己的副本。"
+
+msgid ""
+"Set your name.\n"
+"\n"
+"(Will not change anything outside of this game.)"
+msgstr ""
+"设置你的名字。\n"
+"\n"
+"（不会改变游戏之外的任何东西。）"
+
+msgid "Set your email address."
+msgstr "设置你的邮箱地址。"
+
+msgid "Drag this card to a commit or to a branch to travel to it!"
+msgstr "把这张卡牌拖到一个提交或分支上，就能穿越过去！"
+
+msgid "Reset changes in a local file."
+msgstr "撤销本地文件中的改动。"
+
+msgid "Get the file contents from the specified commits, and reset both the working directory, as well as the index, to it."
+msgstr "从指定的提交中取出文件内容，并把工作目录和暂存区都重置成它。"
+
+msgid ""
+"Make a new commit, after automatically adding all changes to the index.\n"
+"You'll be asked to enter a short description of what you changed."
+msgstr ""
+"先自动把所有改动加入暂存区，再做一次新的提交。\n"
+"你需要简单描述一下改了什么。"
+
+msgid "Make a new commit containing your current environment! Type in a description of what changed!"
+msgstr "用你当前的环境做一次新的提交！写一下改了什么！"
+
+msgid "Merge the specified timeline into yours. If necessary, will create a merge commit."
+msgstr "把指定的时间线合并到你的时间线中。必要时会创建一个合并提交。"
+
+msgid "Abort the current merge attempt, and reconstruct the previous state."
+msgstr "中止当前的合并，恢复到之前的状态。"
+
+msgid "Put the events in your current timeline on top of the specified one."
+msgstr "把你当前时间线上的事件放到指定时间线的后面。"
+
+msgid "Get someone else's version of the current timeline, and try to merge it into yours."
+msgstr "获取别人版本的当前时间线，并尝试合并到你的时间线中。"
+
+msgid "Get a someone else's version of the current timeline."
+msgstr "获取别人版本的当前时间线。"
+
+msgid "Give the current timeline to someone else."
+msgstr "把当前时间线交给别人。"
+
+msgid "Make changes to the events in your current timeline, back to the commit you drag this to."
+msgstr "修改当前时间线上的事件，一直改到你拖放这张卡牌的那个提交。"
+
+msgid "Continue the current rebasing process."
+msgstr "继续当前的变基过程。"
+
+msgid "Move the branch you're on to the specified commit."
+msgstr "把你所在的分支移到指定的提交上。"
+
+msgid "Jump to the commit, and update the index. Keep the current environment."
+msgstr "跳到这个提交并更新暂存区，保留当前的环境。"
+
+msgid "Reset the index version of a file to the version in the commit you're on."
+msgstr "把暂存区中的文件版本重置为当前提交中的版本。"
+
+msgid "Repeat the specified action on top of your current timeline."
+msgstr "在你当前的时间线上重复指定的操作。"
+
+msgid "Make a new commit that reverts the changes of the specified commit."
+msgstr "做一次新的提交，撤销指定提交的改动。"
+
+msgid "Start looking for the commit where things got bad."
+msgstr "开始寻找事情变糟的那个提交。"
+
+msgid "State that the current commit is good! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr "标记当前提交是好的！自动跳转后，继续打出 `good` 和 `bad` 卡牌！"
+
+msgid "State that the current commit is bad! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr "标记当前提交是坏的！自动跳转后，继续打出 `good` 和 `bad` 卡牌！"
+
+msgid "Update the index version of the file to its current real content."
+msgstr "把暂存区中的文件版本更新为它当前的实际内容。"
+
+msgid "Delete a file both in the working directory, as well as the index."
+msgstr "同时在工作目录和暂存区中删除文件。"
+
+msgid "Make a commit from the current index."
+msgstr "用当前的暂存区做一次提交。"
+
+msgid "Show what changed in the commit."
+msgstr "显示这个提交里改了什么。"
+
+msgid "Create a new branch at your current location."
+msgstr "在你当前的位置创建一个新分支。"
+
+msgid "Delete a branch."
+msgstr "删除一个分支。"
+
+msgid "Display a log of where the ref pointed to in the past."
+msgstr "显示引用过去指向过哪些位置的日志。"
+
+msgid "Create a new file."
+msgstr "创建一个新文件。"
+
+msgid "Delete a file."
+msgstr "删除一个文件。"
+
+msgid "Rename a file."
+msgstr "重命名一个文件。"
+
+msgid "Make a copy of a file."
+msgstr "复制一个文件。"
+
+msgid "These are your cards! Drag them to highlighted areas to play them!"
+msgstr "这些是你的卡牌！把它们拖到高亮的区域就能打出！"
+
+msgid "Draw new cards"
+msgstr "抽新卡牌"
+
+msgid "Click on these files to edit them!"
+msgstr "点击这些文件就能编辑它们！"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "The game ran into an error and will close."
+msgstr "游戏出现错误，即将关闭。"
+
+msgid "Introduction"
+msgstr "入门"
+
+msgid "Files"
+msgstr "文件"
+
+msgid "Branches"
+msgstr "分支"
+
+msgid "Merging"
+msgstr "合并"
+
+msgid "The index"
+msgstr "暂存区"
+
+msgid "Remotes"
+msgstr "远程仓库"
+
+msgid "Changing the past"
+msgstr "改变过去"
+
+msgid "Fixing mistakes"
+msgstr "修正错误"
+
+msgid "Workflows"
+msgstr "工作流程"
+
+msgid "Bisect"
+msgstr "二分查找"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Sandbox"
+msgstr "沙盒"
+
+msgid "(no description)"
+msgstr "（没有描述）"
+
+msgid "Complete the goal of this level"
+msgstr "完成本关目标"
+
+msgid "You get a golden badge for each level you solve without using the playing cards! Can you solve them all using the command line?"
+msgstr "每不用卡牌解开一关，你就能得到一枚金色徽章！你能全部用命令行通关吗？"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Reload"
+msgstr "重来"
+
+msgid ""
+"Help us improving Oh My Git! by\n"
+"answering some questions:"
+msgstr ""
+"回答几个问题，\n"
+"帮我们把 Oh My Git! 做得更好："
+
+msgid "To the survey /o/"
+msgstr "去填问卷 /o/"
+
+msgid "Cards!"
+msgstr "卡牌！"
+
+msgid "Tip!"
+msgstr "提示！"
+
+msgid "Next level"
+msgstr "下一关"
+
+msgid "Toggle music"
+msgstr "开关音乐"
+
+msgid "by bleeptrack & blinry"
+msgstr "作者：bleeptrack 和 blinry"
+
+msgid "Original score by winniehell"
+msgstr "原创配乐：winniehell"
+
+msgid "Levels"
+msgstr "关卡"
+
+msgid "Sure, I'll install it!"
+msgstr "好的，我去安装！"
+
+msgid ""
+"Hi! It seems that you don't have Git installed yet!\n"
+"\n"
+"On Linux, please install it from your package manager, usually the package is called \"git\"!\n"
+"\n"
+"On macOS 10.8 and below, you can download Git from git-scm.com."
+msgstr ""
+"你好！看起来你还没有安装 Git！\n"
+"\n"
+"在 Linux 上，请用包管理器安装，包名通常就叫“git”！\n"
+"\n"
+"在 macOS 10.8 及更早版本上，可以从 git-scm.com 下载 Git。"
+
+msgid "You can drag these around with your mouse!"
+msgstr "你可以用鼠标拖动它们！"
+
+msgid "Got it!"
+msgstr "明白了！"
+
+msgid "Interesting!"
+msgstr "有意思！"
+
+msgid "Very useful!"
+msgstr "很有用！"
+
+msgid "Cool!"
+msgstr "酷！"
+
+msgid "Nice!"
+msgstr "不错！"
+
+msgid "Whatever..."
+msgstr "随便吧……"
+
+msgid "Okay!"
+msgstr "好的！"
+
+msgid "Yay!"
+msgstr "耶！"
+
+msgid "Awesome!"
+msgstr "太棒了！"
+
+msgid "This is the time machine of another person! To interact with it, you need special commands!"
+msgstr "这是别人的时光机！要和它互动，需要用特殊的命令！"
+
+msgid "Index:"
+msgstr "暂存区："
+
+msgid "Update"
+msgstr "刷新"
+
+msgid "Hide trees and blobs"
+msgstr "隐藏树和数据对象"
+
+msgid "Hi, I'm Teo Hanki!"
+msgstr "你好，我是 Teo Hanki！"
+
+msgid ""
+"I translate Oh My Git! on my own, in my free time.\n"
+"The translation is free and will always stay free.\n"
+"Every donation helps me keep it up to date and add new languages.\n"
+"Thank you!"
+msgstr ""
+"Oh My Git! 的翻译是我一个人利用业余时间完成的。\n"
+"这份翻译免费，并且永远免费。\n"
+"每一笔捐助都能帮我持续更新翻译、加入新的语言。\n"
+"谢谢你！"
+
+msgid "new versions, bug reports, ideas"
+msgstr "新版本、错误反馈、建议"
+
+msgid "opens in your browser"
+msgstr "在浏览器中打开"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid ""
+"Thanks for playing!\n"
+"\n"
+"Oh My Git! is free and open-source! <3\n"
+"\n"
+"If this game was valuable to you, consider joining our supporters on Patreon:"
+msgstr ""
+"感谢游玩！\n"
+"\n"
+"Oh My Git! 是免费的开源游戏！<3\n"
+"\n"
+"如果这款游戏对你有帮助，欢迎在 Patreon 上支持我们："
+
+msgid "Support us! (Open two browser tabs)"
+msgstr "支持我们！（会打开两个浏览器标签页）"
+
+msgid "This is your terminal! All commands are executed here, and you can see their output. You can also type your own commands here!"
+msgstr "这是你的终端！所有命令都在这里执行，你也能看到它们的输出。你也可以在这里自己输入命令！"
+
+msgid "Support the translator"
+msgstr "支持译者"
+
+msgid "Language"
+msgstr "语言"
+
+msgid ""
+"Good job, you solved the level!\n"
+"\n"
+"Feel free to try a few more things or click 'Next level'."
+msgstr ""
+"干得好，你通过了这一关！\n"
+"\n"
+"你可以再多试试别的操作，或者点击“下一关”。"
+

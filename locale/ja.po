@@ -1,0 +1,1535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Oh My Git!\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Teo Hanki\n"
+"Language-Team: Japanese\n"
+
+msgid "Living dangerously"
+msgstr "危ない橋"
+
+msgid ""
+"So you have decided to apply for time travel school, to learn how to use this time machine called \"Git\"!\n"
+"\n"
+"How exciting!\n"
+"\n"
+"You're almost done with the paperwork! You just need to fill in one more reason why you want to learn Git."
+msgstr ""
+"きみはタイムトラベル学校に入学して、「Git」というタイムマシンの使い方を学ぶことにしました！\n"
+"\n"
+"わくわくしますね！\n"
+"\n"
+"書類はもうすぐ書き終わります！あとは、Git を学びたい理由をもう一つ書くだけです。"
+
+msgid ""
+"Suddenly, your cat jumps on the table, snatches away the form, and runs away! Oh no. All your hard work, gone!\n"
+"\n"
+"You clearly need a better solution.\n"
+"\n"
+"(Click \"Next Level\" as soon as you're ready!)"
+msgstr ""
+"突然、きみの猫が机に飛び乗って、書類をくわえて逃げていきました！ああ、なんてこと。苦労が全部パーです！\n"
+"\n"
+"もっといい方法が必要なのは明らかです。\n"
+"\n"
+"（準備ができたら「次のレベル」をクリック！）"
+
+msgid "Add another line to form.txt!"
+msgstr "form.txt にもう一行追加しよう！"
+
+msgid "Making backups"
+msgstr "バックアップを作る"
+
+msgid "This time, you're making a lot of backup copies - you can look at them by clicking on them!"
+msgstr "今回はバックアップのコピーをたくさん作っています。クリックすると中身を見られます！"
+
+msgid ""
+"Okay, this kind of works.\n"
+"\n"
+"But you're a bit worried that you'll end up with hundreds of copies of this form, and it will be hard to keep track of all of them.\n"
+"\n"
+"And especially when working with other people, sending copies back and forth doesn't seem ideal.\n"
+"\n"
+"You can't wait to try these time machines!"
+msgstr ""
+"うん、一応うまくいっています。\n"
+"\n"
+"でも、この書類のコピーが何百個にもなって、どれがどれだか分からなくなりそうで少し心配です。\n"
+"\n"
+"それに、ほかの人と一緒に作業するとき、コピーを何度も送り合うのはあまりいいやり方とは言えません。\n"
+"\n"
+"早くタイムマシンを試してみたい！"
+
+msgid "Add another line to form2_really_final.txt!"
+msgstr "form2_really_final.txt にもう一行追加しよう！"
+
+msgid "Enter the time machine"
+msgstr "タイムマシンに乗り込もう"
+
+msgid ""
+"You've been accepted to time travel school! Yay! It's your first day! Your teacher explains:\n"
+"\n"
+"\"To do anything with a time machine, you first need to initialize it!\"\n"
+"\n"
+"Drag that blue card up to play it!"
+msgstr ""
+"タイムトラベル学校に合格しました！やった！今日は初日です！先生が説明してくれます。\n"
+"\n"
+"「タイムマシンで何かをするには、まず初期化しないといけません！」\n"
+"\n"
+"青いカードを上にドラッグして使ってみよう！"
+
+msgid "Nice! See that little owl squirrel that appeared? It will be your companion, and always show you where you are in time!"
+msgstr "いいですね！小さなフクロウリスが現れたのが見えますか？きみの相棒で、今どの時点にいるのかをいつも教えてくれます！"
+
+msgid "Initialize the time machine!"
+msgstr "タイムマシンを初期化しよう！"
+
+msgid "The command line"
+msgstr "コマンドライン"
+
+msgid "These playing cards are designed to be easy to use and to remember! We'd suggest sticking to them if you don't have a lot of experience with Git!"
+msgstr "このカードは使いやすく、覚えやすいように作られています！Git にあまり慣れていないなら、カードを使うのがおすすめです！"
+
+msgid ""
+"But there's another way to interact with Git:\n"
+"\n"
+"Try typing `git init` into the black terminal below, and pressing the enter key!"
+msgstr ""
+"でも、Git を操作する方法はもう一つあります。\n"
+"\n"
+"下の黒いターミナルに `git init` と入力して、Enter キーを押してみよう！"
+
+msgid ""
+"Cool! Instead of using the playing cards, you can also do everything via the command line!\n"
+"\n"
+"The command line is pretty powerful! Often, you can use it to solve tasks faster compared to using a graphical interface."
+msgstr ""
+"すごい！カードの代わりに、コマンドラインでもすべての操作ができます！\n"
+"\n"
+"コマンドラインはとても強力です！グラフィカルな画面より速く作業を片付けられることもよくあります。"
+
+msgid "Your first commit"
+msgstr "初めてのコミット"
+
+msgid ""
+"You can use your time machine to make snapshots of objects around you! Here, let's practice this!\n"
+"\n"
+"(Your teacher pours some water into a glass.)"
+msgstr ""
+"タイムマシンを使うと、身の回りの物のスナップショットを撮れます！ここで練習してみましょう！\n"
+"\n"
+"（先生がグラスに水を少し注ぎます。）"
+
+msgid ""
+"Again, instead of using the card, you can also type the commands which are printed on it into the black terminal below!\n"
+"\n"
+"This is totally optional! But this will be a super useful skill in the real world - and it will give you a sparkling golden badge! :)"
+msgstr ""
+"ここでも、カードを使う代わりに、カードに書かれたコマンドを下の黒いターミナルに入力できます！\n"
+"\n"
+"これはまったくの任意です！でも実際の現場でとても役立つスキルですし、キラキラの金バッジももらえます！:)"
+
+msgid "Nice! You can try making some additional commits. When you feel comfortable, click on \"Next Level\"."
+msgstr "いいですね！ほかにもコミットを作ってみよう。慣れてきたら「次のレベル」をクリックしてください。"
+
+msgid "Make a snapshot of the glass (a \"commit\")"
+msgstr "グラスのスナップショット（「コミット」）を撮ろう"
+
+msgid "Change the contents of the glass!"
+msgstr "グラスの中身を変えよう！"
+
+msgid "And make a second commit!"
+msgstr "そして 2 つ目のコミットを作ろう！"
+
+msgid "Working together"
+msgstr "みんなで作業"
+
+msgid ""
+"Let's add your name to our list of students!\n"
+"\n"
+"I already have a second commit of it in my time machine - let's work together!"
+msgstr ""
+"生徒名簿にきみの名前を加えましょう！\n"
+"\n"
+"私のタイムマシンには、この名簿の 2 つ目のコミットがもうあります。一緒に作業しましょう！"
+
+msgid "To go back to old commands, you can press arrow up and down. That way, you don't have to type in long commands twice."
+msgstr "上下の矢印キーで前に入力したコマンドを呼び出せます。長いコマンドを二度打たなくて済みます。"
+
+msgid "Welcome to time travel school! :) I'll see you for your first class tomorrow!"
+msgstr "タイムトラベル学校へようこそ！:) 明日の最初の授業で会いましょう！"
+
+msgid "Get the second commit from your teacher using `git pull`."
+msgstr "`git pull` で先生から 2 つ目のコミットを受け取ろう。"
+
+msgid "Add your name to the list of students"
+msgstr "生徒名簿に自分の名前を加えよう"
+
+msgid "Commit your result."
+msgstr "結果をコミットしよう。"
+
+msgid "And use `git push` to send it to your teacher!"
+msgstr "そして `git push` で先生に送ろう！"
+
+msgid "Unexpected Roommates"
+msgstr "思いがけない同居人"
+
+msgid ""
+"The first day at Time Travel School comes to an end and you receive the key to your room.\n"
+"Full of excitement you open the door just to find... spider webs! Spider webs everywhere!\n"
+"\n"
+"Remove all the spider webs you can find with the remove card!"
+msgstr ""
+"タイムトラベル学校の一日目が終わり、自分の部屋の鍵を受け取りました。\n"
+"わくわくしながらドアを開けると……クモの巣！そこら中クモの巣だらけです！\n"
+"\n"
+"rm カードを使って、見つけたクモの巣をすべて片付けよう！"
+
+msgid ""
+"On the command line, you can easily delete all files ending in -web using this command:\n"
+"\n"
+"    rm *web"
+msgstr ""
+"コマンドラインなら、次のコマンドで名前が web で終わるファイルをまとめて削除できます。\n"
+"\n"
+"    rm *web"
+
+msgid "Your room looks now very tidy and cozy! Time to unpack your stuff!"
+msgstr "部屋がすっかり片付いて居心地よくなりました！荷物を開けましょう！"
+
+msgid "Remove all spider webs."
+msgstr "クモの巣をすべて片付けよう。"
+
+msgid "But make sure you keep your bed!"
+msgstr "でもベッドは残しておこう！"
+
+msgid "Interior design"
+msgstr "インテリアデザイン"
+
+msgid ""
+"Now that your room looks tidy, you can start to unpack your stuff. You brought two new pieces of furniture with you and with a bright smile,\n"
+"you see that their colors match the color of your bed!\n"
+"\n"
+"Build up your two pieces of furniture by playing the touch card.\n"
+"Then name your furniture - you can choose whatever you like.\n"
+"\n"
+"Make sure the colors match! You can find the bed's color in its description.\n"
+"Don't forget to add a color and description to your new furnitures, too!"
+msgstr ""
+"部屋が片付いたので、荷物を開けられます。きみは新しい家具を 2 つ持ってきていて、\n"
+"その色がベッドの色とぴったり合うのを見てにっこりします！\n"
+"\n"
+"touch カードを使って、家具を 2 つ置こう。\n"
+"それから家具に好きな名前をつけよう。\n"
+"\n"
+"色が合うようにしてね！ベッドの色は説明に書いてあります。\n"
+"新しい家具にも色と説明を書き忘れないように。色はベッドと同じく英語で書いてください（yellow）。"
+
+msgid "Don't you immediately feel more at home?"
+msgstr "すぐに我が家のような気分になりませんか？"
+
+msgid "Add two more pieces of furniture"
+msgstr "家具をあと 2 つ追加しよう"
+
+msgid "Make sure the colors match your bed's color."
+msgstr "家具の色をベッドの色（yellow）と同じにしよう。"
+
+msgid "Moving through time"
+msgstr "時間を移動する"
+
+msgid ""
+"The yellow boxes are frozen points in time, we call them \"commits\"! You can travel between them using the \"checkout\" card! (Try it!)\n"
+"\n"
+"Can you find out what happened here? Then, while on the last commit, edit the files to fix the problem, and make a new commit!"
+msgstr ""
+"黄色い箱は時間が止まった地点で、「コミット」と呼びます！checkout カードを使うと、コミットの間を移動できます！（試してみよう！）\n"
+"\n"
+"ここで何があったのか分かりますか？分かったら、最後のコミットにいる状態でファイルを直して問題を解決し、新しいコミットを作ろう！"
+
+msgid ""
+"To checkout a specific commit, type `git checkout`, then a space, and then right click on the commit you want!\n"
+"\n"
+"This will insert the commit's unique identifier!"
+msgstr ""
+"特定のコミットに移動するには、`git checkout` と空白を入力してから、行きたいコミットを右クリック！\n"
+"\n"
+"そのコミットの一意な識別子が入力されます！"
+
+msgid "Wonderful! Now that you're getting familiar with the time machine, let's look at some more complicated situations..."
+msgstr "素晴らしい！タイムマシンに慣れてきたところで、もう少し複雑な状況を見てみましょう……"
+
+msgid "Restore sisterly peace."
+msgstr "姉妹の仲を取り戻そう。"
+
+msgid "Make parallel commits"
+msgstr "並行してコミットする"
+
+msgid ""
+"Did you know that creating parallel timelines is perfectly legal and safe? It's true!\n"
+"\n"
+"Can you find out when things went wrong in this zoo? Then, go back to the last good commit and create a parallel universe where everyone is happy!"
+msgstr ""
+"並行するタイムラインを作るのは完全に合法で安全だって知っていましたか？本当ですよ！\n"
+"\n"
+"この動物園で何がまずかったのか見つけられますか？見つけたら、最後のうまくいっていたコミットに戻って、みんなが幸せな並行世界を作ろう！"
+
+msgid ""
+"The blue animal represents a concept known as the \"HEAD pointer\" in Git: It shows you which commit is the current one.\n"
+"\n"
+"Here's a cool trick to go to the previous commit: \n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"You can also go back two commits by typing, for example: \n"
+"\n"
+"    git checkout HEAD~2"
+msgstr ""
+"青い動物は、Git で「HEAD ポインター」と呼ばれる概念を表しています。今どのコミットにいるかを示しています。\n"
+"\n"
+"一つ前のコミットに移動する便利な技はこちら：\n"
+"\n"
+"    git checkout HEAD^\n"
+"\n"
+"例えばこう入力すると、2 つ前のコミットに戻れます：\n"
+"\n"
+"    git checkout HEAD~2"
+
+msgid ""
+"Whew, good job! This seems like a *much* better outcome.\n"
+"\n"
+"Feel free to add more parallel timelines, or make them longer.\n"
+"\n"
+"If you're ready, our next mission is already waiting..."
+msgstr ""
+"ふう、お見事！ずっと*よい*結末になりました。\n"
+"\n"
+"並行するタイムラインをもっと増やしたり、長くしたりしてもかまいません。\n"
+"\n"
+"準備ができたら、次のミッションがもう待っています……"
+
+msgid "Make sure that the child is happy."
+msgstr "子どもを幸せにしよう。"
+
+msgid "Make sure that the lion gets something to eat."
+msgstr "ライオンに何か食べさせよう。"
+
+msgid "Creating branches"
+msgstr "ブランチを作る"
+
+msgid ""
+"You were invited to two parties! At one of them, your favorite band is playing - and the other one is your best friend's birthday party. Where should you go? No worries - as a time travel agent in training, you can go to both parties!\n"
+"\n"
+"To make it easier to tell which timeline is which, you can create time portals! (We call these \"branches\".)"
+msgstr ""
+"パーティーに 2 つ招待されました！片方では大好きなバンドが演奏し、もう片方は親友の誕生日パーティーです。どっちに行こう？心配いりません。見習いタイムトラベルエージェントのきみなら、両方に行けます！\n"
+"\n"
+"どのタイムラインがどれなのか分かりやすくするために、タイムポータルを作れます！（これを「ブランチ」と呼びます。）"
+
+msgid "Branches also make it really easy to travel between different places using the command line! As soon as you have a branch called \"birthday\", you can type `git checkout birthday` to travel to it!"
+msgstr "ブランチがあると、コマンドラインで別の場所へ移動するのもとても簡単になります！「birthday」というブランチがあれば、`git checkout birthday` と入力するだけでそこへ行けます！"
+
+msgid ""
+"Now you can travel between those branches easily (using `git checkout`) - try it!\n"
+"\n"
+"Your friend is happy that you made it to the birthday party and you also got your concert ticket signed. Yay!"
+msgstr ""
+"これでブランチの間を簡単に移動できます（`git checkout` を使います）。試してみよう！\n"
+"\n"
+"友達はきみが誕生日パーティーに来てくれて喜んでいます。コンサートのチケットにもサインをもらえました。やった！"
+
+msgid "Create a branch called 'birthday' that points to the birthday timeline."
+msgstr "誕生日のタイムラインを指す「birthday」というブランチを作ろう。"
+
+msgid "Create a branch called 'concert' that points to the concert timeline."
+msgstr "コンサートのタイムラインを指す「concert」というブランチを作ろう。"
+
+msgid "Branches grow with you!"
+msgstr "ブランチはきみと一緒に伸びる！"
+
+msgid ""
+"Note that there are two options to \"travel to the end of a timeline\":\n"
+"\n"
+"First, you can directly travel to the commit, like we've done it before.\n"
+"\n"
+"And second, you can travel to the branch label. In this case, when you make a new commit, the branch will grow with you, and still point at the end of the timeline!"
+msgstr ""
+"「タイムラインの終わりに移動する」方法は 2 つあります。\n"
+"\n"
+"1 つ目は、これまでのようにコミットへ直接移動する方法です。\n"
+"\n"
+"2 つ目は、ブランチのラベルに移動する方法です。この場合、新しいコミットを作るとブランチもきみと一緒に伸びて、タイムラインの終わりを指し続けます！"
+
+msgid ""
+"To travel to a branch, type `git checkout name_of_the_branch`.\n"
+"\n"
+"And to travel to the last commit, type `git checkout --detach name_of_the_branch`."
+msgstr ""
+"ブランチに移動するには `git checkout name_of_the_branch` と入力します。\n"
+"\n"
+"最後のコミットに移動するには `git checkout --detach name_of_the_branch` と入力します。"
+
+msgid "Travel directly to the last yellow commit of the birthday timeline, make a change to 'you', and make a commit"
+msgstr "誕生日タイムラインの最後の黄色いコミットに直接移動して、「you」を変更し、コミットしよう"
+
+msgid "Travel to the blue 'concert' branch, make a change to 'you', and a commit."
+msgstr "青い「concert」ブランチに移動して、「you」を変更し、コミットしよう。"
+
+msgid "Deleting branches"
+msgstr "ブランチを削除する"
+
+msgid ""
+"Life is full of dangers, right? Even when walking to school, it seems like there's a lot of risks!\n"
+"\n"
+"This Monday is especially bad. You made it to school, but there's some timelines you definitely don't want to keep around."
+msgstr ""
+"人生は危険でいっぱいですよね？学校へ歩いていくだけでも、リスクがたくさんあるようです！\n"
+"\n"
+"この月曜日は特にひどい日です。学校には着きましたが、絶対に残しておきたくないタイムラインがいくつかあります。"
+
+msgid "On second thought, maybe you even prefer the ice cream timeline to the main one? :)"
+msgstr "考え直してみると、メインのタイムラインよりアイスクリームのタイムラインのほうがいいかも？:)"
+
+msgid "Find the bad branches and delete them. Keep only the best one."
+msgstr "悪いブランチを見つけて削除しよう。一番いいものだけ残そう。"
+
+msgid "Moving branches around"
+msgstr "ブランチを動かす"
+
+msgid ""
+"One of your colleagues messed up here, and put the branches in the wrong timelines!\n"
+"\n"
+"You could delete and re-create these branches - but you can also directly move them to different commits, by using\n"
+"\n"
+"    git checkout\n"
+"\n"
+"on the branch names, and then using\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"on the commit where you want the branch to be.\n"
+"\n"
+"The donut branch is in the right place, but the timeline is still incomplete - make you actually *eat* the donut in that branch!"
+msgstr ""
+"同僚の一人がここをめちゃくちゃにして、ブランチを間違ったタイムラインに置いてしまいました！\n"
+"\n"
+"ブランチを削除して作り直すこともできますが、別のコミットへ直接動かすこともできます。ブランチ名に対して\n"
+"\n"
+"    git checkout\n"
+"\n"
+"を使い、ブランチを置きたいコミットに対して\n"
+"\n"
+"    git reset --hard\n"
+"\n"
+"を使います。\n"
+"\n"
+"donut ブランチは正しい場所にありますが、タイムラインはまだ未完成です。このブランチで本当にドーナツを*食べる*ようにしよう！（you ファイルに英語で一行追加します。例：You ate a donut.）"
+
+msgid "Did you eat a baguette on the baguette branch?"
+msgstr "baguette ブランチでバゲットを食べた？"
+
+msgid "Did you drink a coffee on the coffee branch?"
+msgstr "coffee ブランチでコーヒーを飲んだ？"
+
+msgid "Did you eat a donut on the donut branch?"
+msgstr "donut ブランチでドーナツを食べた？"
+
+msgid "Remember to checkout the blue branch tag when you want it to grow with the timeline."
+msgstr "青いブランチのタグをタイムラインと一緒に伸ばしたいときは、そのブランチを checkout するのを忘れずに。"
+
+msgid "Merging timelines"
+msgstr "タイムラインをマージする"
+
+msgid "Here's a trick so that you can sleep a bit longer: just do all your morning activities in parallel universes, and then at the end, merge them together!"
+msgstr "もう少し長く寝ていられる技があります。朝の用事を全部並行世界でこなして、最後にマージするんです！"
+
+msgid "I wonder if you're more relaxed when you *sleep* in parallel timelines..."
+msgstr "並行するタイムラインで*寝たら*、もっと疲れが取れるのかな……"
+
+msgid "Build a situation where you consumed a baguette, a coffee, *and* a donut."
+msgstr "バゲットを食べて、コーヒーを飲んで、*さらに*ドーナツも食べた状態を作ろう。"
+
+msgid "Be on a merge commit."
+msgstr "マージコミットの上にいよう。"
+
+msgid "Contradictions"
+msgstr "矛盾"
+
+msgid ""
+"Sometimes, timelines will contradict each other.\n"
+"\n"
+"For example, in this case, one of our clients wants these timelines merged, but they ate different things for breakfast in both timelines.\n"
+"\n"
+"Try to merge them together! You'll notice that there will be a conflict! The time machine will leave it up to you how to proceed: you can edit the problematic item, it will show you the conflicting sections. You can keep either of the two versions - or create a combination of them! Remove the >>>, <<<, and === markers, and make a new commit to finalize the merge!\n"
+"\n"
+"Let your finalized timeline be the \"main\" one."
+msgstr ""
+"タイムライン同士が矛盾することもあります。\n"
+"\n"
+"例えばこの場合、お客さんの一人がこれらのタイムラインをマージしたがっていますが、それぞれのタイムラインで朝食に違うものを食べています。\n"
+"\n"
+"マージしてみよう！コンフリクトが起きるのに気づくはずです！どう進めるかはタイムマシンがきみに任せてくれます。問題のある物を編集すると、ぶつかっている部分が表示されます。どちらかのバージョンを残してもいいし、組み合わせてもかまいません！>>>、<<<、=== のマーカーを消して、新しいコミットを作ってマージを完了しよう！\n"
+"\n"
+"完成したタイムラインを「main」にしよう。"
+
+msgid "Yum, that sounds like a good breakfast!"
+msgstr "うーん、おいしそうな朝食ですね！"
+
+msgid "Make a breakfast compromise in the 'main' branch."
+msgstr "「main」ブランチで朝食の妥協案を作ろう。"
+
+msgid "Step by step"
+msgstr "一歩ずつ"
+
+msgid ""
+"Welcome to today's lesson! We're going to learn how to make commits with more precision!\n"
+"\n"
+"Have a look at these two timelines. They have exactly the same outcome. But one of them makes it much easier to figure out what happened."
+msgstr ""
+"今日の授業へようこそ！コミットをもっと正確に作る方法を学びます！\n"
+"\n"
+"この 2 つのタイムラインを見てください。結果はまったく同じです。でも片方のほうが、何が起きたのかずっと分かりやすくなっています。"
+
+msgid "Pick the timeline that's clearer, and make the alarm go off!"
+msgstr "分かりやすいほうのタイムラインを選んで、アラームを鳴らそう！"
+
+msgid "Add new files to the index"
+msgstr "新しいファイルをインデックスに追加する"
+
+msgid ""
+"So far, when we made a commit, we've always recorded the current status of all objects, right?\n"
+"\n"
+"But Git allows you to pick which changes you want to put in a commit!\n"
+"\n"
+"To learn how that works, we need to learn about the \"index\"! In the index, we can prepare what will be in the next commit. In this game, the index is represented by a blue aura around icons in the file browser!\n"
+"\n"
+"Initially, the index is empty. To make a commit that contains a new file, we need to add it!"
+msgstr ""
+"これまでコミットするときは、いつもすべての物の今の状態を記録していましたよね？\n"
+"\n"
+"でも Git では、どの変更をコミットに入れるかを選べます！\n"
+"\n"
+"その仕組みを理解するには、「インデックス」について知る必要があります！インデックスでは、次のコミットに入れる内容を準備します。このゲームでは、インデックスはファイルブラウザーのアイコンの周りにある青い光で表されます！\n"
+"\n"
+"最初、インデックスは空っぽです。新しいファイルを含むコミットを作るには、そのファイルを追加する必要があります！"
+
+msgid "You can use tab completion in the terminal! Start typing a filename, then press the tab key to complete its name. This will often save you some time!"
+msgstr "ターミナルでは Tab 補完が使えます！ファイル名を入力し始めて Tab キーを押すと、名前が補完されます。時間の節約になりますよ！"
+
+msgid "Add the candle."
+msgstr "ろうそくを追加しよう。"
+
+msgid "Make a commit."
+msgstr "コミットしよう。"
+
+msgid "Update files in the index"
+msgstr "インデックスのファイルを更新する"
+
+msgid ""
+"When we change files, the index won't change on its own. We have to use `git add` to update the index to the changed version of the file.\n"
+"\n"
+"Let's try that!\n"
+"\n"
+"The icons in the file browser show you when the actual file (white) and the version in the index (blue) are different, and when they are the same!"
+msgstr ""
+"ファイルを変更しても、インデックスは勝手には変わりません。`git add` を使って、インデックスを変更後のファイルのバージョンに更新する必要があります。\n"
+"\n"
+"やってみましょう！\n"
+"\n"
+"ファイルブラウザーのアイコンを見ると、実際のファイル（白）とインデックスのバージョン（青）が違うのか同じなのかが分かります！"
+
+msgid "Make a change to the candle."
+msgstr "ろうそくを変更しよう。"
+
+msgid "Resetting files in the index"
+msgstr "インデックスのファイルをリセットする"
+
+msgid ""
+"See the dark shadow behind the icons? That's the version of the file in the last commit!\n"
+"\n"
+"For example, these candles have been blown out, and that change has been added.\n"
+"\n"
+"But you decide that this was a mistake! You only want to blow out the red candle in the next commit!\n"
+"\n"
+"If you already have updated the index to a changed file, but want to reset it, you can use `git reset`!"
+msgstr ""
+"アイコンの後ろの濃い影が見えますか？それが最後のコミットにあるファイルのバージョンです！\n"
+"\n"
+"例えば、これらのろうそくは吹き消されていて、その変更はインデックスに追加済みです。\n"
+"\n"
+"でも、それは間違いだったと思い直しました！次のコミットでは赤いろうそくだけを吹き消したいのです！\n"
+"\n"
+"変更したファイルをインデックスに反映したあとで元に戻したいときは、`git reset` を使います！"
+
+msgid "Reset the changes in the green and blue candles!"
+msgstr "緑と青のろうそくの変更をリセットしよう！"
+
+msgid "And make a commit!"
+msgstr "そしてコミットしよう！"
+
+msgid "Adding changes step by step"
+msgstr "変更を一歩ずつ追加する"
+
+msgid "The index is really useful, because it allows us to be precise about which changes we want to include in each commit!"
+msgstr "インデックスはとても便利です。各コミットにどの変更を入れるかを正確に決められるからです！"
+
+msgid "Make changes to all three objects, to form a logical sequence of events!"
+msgstr "3 つの物をすべて変更して、筋の通った出来事の流れにしよう！"
+
+msgid "Only add one of these changes!"
+msgstr "変更のうち 1 つだけを追加しよう！"
+
+msgid "And make a commit."
+msgstr "そしてコミットしよう。"
+
+msgid "Make a second commit that only records a single change."
+msgstr "変更を 1 つだけ記録した 2 つ目のコミットを作ろう。"
+
+msgid "And a third one."
+msgstr "そして 3 つ目も。"
+
+msgid "Friend"
+msgstr "友達"
+
+msgid ""
+"Your friend added another line to your essay! Get it, add a third one and send it to them!\n"
+"\n"
+"Take turns until you have five lines!"
+msgstr ""
+"友達がきみの作文に一行追加してくれました！それを受け取って、3 行目を加えて、友達に送ろう！\n"
+"\n"
+"5 行になるまで交互に書こう！"
+
+msgid "Oh nice, I added a fourth line!"
+msgstr "おっ、4 行目を追加したよ！"
+
+msgid "Got the second line from your friend"
+msgstr "友達から 2 行目を受け取った"
+
+msgid "Got the fourth line from your friend."
+msgstr "友達から 4 行目を受け取った。"
+
+msgid "The friend got a third line from you"
+msgstr "友達がきみから 3 行目を受け取った"
+
+msgid "The friend got a fifth line from you"
+msgstr "友達がきみから 5 行目を受け取った"
+
+msgid "Problems"
+msgstr "問題発生"
+
+msgid "Both you and your friend have been working on the file, and want to sync up!"
+msgstr "きみも友達もこのファイルを編集していたので、同期したいところです！"
+
+msgid "Commit your local changes."
+msgstr "ローカルの変更をコミットしよう。"
+
+msgid "Look at your friend's suggestion, make a compromise, and push it back."
+msgstr "友達の提案を見て、妥協案を作り、それを push しよう。"
+
+msgid "Rebasing"
+msgstr "リベース"
+
+msgid ""
+"Okay - turns out that saving time in the morning by utilizing parallel universes is against the regulations of the International Time Travel Association. You'll have to do your tasks in sequence after all.\n"
+"\n"
+"See the \"rebase\" card? When you drag it to a commit, it will copy the events in your current timeline after the specified one! This way, make a clean, linear timeline where you visit all three shops.\n"
+"\n"
+"Again, we want to make that our base reality - the \"main\" branch should point to that timeline!"
+msgstr ""
+"さて、並行世界を利用して朝の時間を節約するのは、国際タイムトラベル協会の規則違反だと分かりました。結局、用事は順番にこなすしかありません。\n"
+"\n"
+"「rebase」カードが見えますか？コミットにドラッグすると、今のタイムラインの出来事を指定したコミットの後ろにコピーしてくれます！これを使って、3 つのお店を全部回る、すっきりした一直線のタイムラインを作ろう。\n"
+"\n"
+"そしてまた、それを基本の現実にしましょう。「main」ブランチがそのタイムラインを指すようにしよう！"
+
+msgid ""
+"Notice how the other timelines and commits are still there - if anything goes wrong, you can also travel back to them.\n"
+"\n"
+"It's really hard to actually *destroy* stuff with your time machine."
+msgstr ""
+"ほかのタイムラインやコミットがまだ残っていることに注目してください。何かうまくいかなかったら、そこへ戻ることもできます。\n"
+"\n"
+"タイムマシンで何かを本当に*壊す*のは、実はとても難しいのです。"
+
+msgid "Order all tree branches into one and move the main branch ref"
+msgstr "木の枝を全部一本にまとめて、main ブランチを動かそう"
+
+msgid "Reordering events"
+msgstr "出来事を並べ替える"
+
+msgid ""
+"Oops, looks like there's something messed up here. Can you put the events back into their correct order?\n"
+"\n"
+"There are two ways to do this: You can drag the \"interactive rebase\" card to the commit before the one you want to change, then reorder the lines in the file that opens, and save it.\n"
+"\n"
+"Or you can reset the main tag to the very first commit, and then cherry-pick single commits in the order you want. You have cards for both approaches!"
+msgstr ""
+"おっと、ここで何かがごちゃごちゃになっているようです。出来事を正しい順番に戻せますか？\n"
+"\n"
+"やり方は 2 つあります。「対話的リベース」（rebase -i）カードを、変更したいコミットの一つ前のコミットにドラッグし、開いたファイルの行を並べ替えて保存する方法。\n"
+"\n"
+"もう一つは、main タグを一番最初のコミットにリセットしてから、好きな順番で 1 つずつコミットを cherry-pick する方法です。どちらのやり方のカードもあります！"
+
+msgid "Feel free to reset the level and try the other strategy! Which one do you like better?"
+msgstr "レベルをリセットして、もう一つのやり方も試してみよう！どちらが好き？"
+
+msgid "Reorder the commits to dress yourself in the correct way"
+msgstr "正しい順番で服を着るようにコミットを並べ替えよう"
+
+msgid "Restore a deleted file"
+msgstr "削除したファイルを元に戻す"
+
+msgid ""
+"Oops - you deleted the \"essay\" file, which you worked on all night!\n"
+"\n"
+"Luckily, Git is here to help! You can use `git checkout` to restore the file!"
+msgstr ""
+"おっと、一晩中取り組んでいた「essay」ファイルを削除してしまいました！\n"
+"\n"
+"でも大丈夫、Git が助けてくれます！`git checkout` でファイルを元に戻せます！"
+
+msgid "Restore the essay to contain \"important content\""
+msgstr "作文を元に戻して、中身を \"important content\" にしよう"
+
+msgid "Restore a file from the past"
+msgstr "過去からファイルを戻す"
+
+msgid ""
+"Here's a similar problem: you really liked the essay from the very first commit, and want to have it back! Well, checkout can also restore things from older commits, Here's how:\n"
+"\n"
+"    git checkout [commit] [file]"
+msgstr ""
+"似たような問題です。最初のコミットの作文がとても気に入っていて、それを取り戻したいとします！checkout は古いコミットからも物を戻せます。やり方はこうです：\n"
+"\n"
+"    git checkout [commit] [file]"
+
+msgid "Get the first version of your essay, and make a new commit with it."
+msgstr "作文の最初のバージョンを取り出して、それで新しいコミットを作ろう。"
+
+msgid "Undo a bad commit"
+msgstr "まずいコミットを取り消す"
+
+msgid ""
+"Oh no, we made a bad commit! How can we undo making the commit, and go back to a point where we can try again?\n"
+"\n"
+"The answer is using `git reset [commit]`, which does two things:\n"
+"\n"
+"- It resets the current branch ref to the commit you specify.\n"
+"- And it resets the index to that commit.\n"
+"\n"
+"It does not change your working directory in any way, which means that after that, you can try making the commit you want again."
+msgstr ""
+"あらら、まずいコミットをしてしまいました！どうすればコミットを取り消して、やり直せる地点まで戻れるでしょう？\n"
+"\n"
+"答えは `git reset [commit]` です。このコマンドは 2 つのことをします：\n"
+"\n"
+"- 今のブランチを指定したコミットへ移動します。\n"
+"- インデックスをそのコミットの状態にリセットします。\n"
+"\n"
+"作業ディレクトリは一切変更しないので、そのあとで目的のコミットをもう一度作り直せます。"
+
+msgid "In the last main commit, the numbers file contains the numbers from 1 to 10."
+msgstr "main の最後のコミットで、numbers ファイルに 1 から 10 までの数字が入っている。"
+
+msgid "The commit message of that commit is \"More numbers\"."
+msgstr "そのコミットのメッセージは \"More numbers\" である。"
+
+msgid "The commit with the typo is not part of the main branch anymore."
+msgstr "タイプミスのあるコミットはもう main ブランチに含まれていない。"
+
+msgid "I pushed something broken"
+msgstr "壊れたものを push してしまった"
+
+msgid "We were talking about how to undo a commit, and fix it. This only helps when you haven't already pushed it to a remote. When that has happened, and you want to undo the effects of the commit completely, your best option is `git revert`"
+msgstr "ここまで、コミットを取り消して直す方法について話してきました。でもこれは、まだリモートに push していない場合にしか役に立ちません。もう push してしまっていて、コミットの影響を完全に取り消したいなら、一番いい方法は `git revert` です"
+
+msgid "The team's main branch no longer contains the bad thing."
+msgstr "チームの main ブランチに、もう悪いものは入っていない。"
+
+msgid "And the history has not been modified."
+msgstr "しかも履歴は書き換えられていない。"
+
+msgid "Go back to where you were before"
+msgstr "前にいた場所に戻る"
+
+msgid ""
+"Say you were looking at something in the past, and then switched back to the main branch.\n"
+"\n"
+"But then, you got reaaally distracted, and after your lunch break, you can't remember which past commit you were on before. How can you find out?\n"
+"\n"
+"There's a convenient command that shows you all the places your HEAD has pointed to in the past:\n"
+"\n"
+"    git reflog"
+msgstr ""
+"過去の何かを見ていて、それから main ブランチに戻ったとします。\n"
+"\n"
+"でもそのあと、すっかり気が散ってしまって、お昼休みのあとには、前にどの過去のコミットにいたのか思い出せません。どうやって調べればいいでしょう？\n"
+"\n"
+"HEAD が過去に指していた場所をすべて表示してくれる便利なコマンドがあります：\n"
+"\n"
+"    git reflog"
+
+msgid "Find out where you've been before, and go back there!"
+msgstr "前にいた場所を調べて、そこへ戻ろう！"
+
+msgid "Cloning a repo"
+msgstr "リポジトリをクローンする"
+
+msgid "Your friend has a problem! Clone the repo located in `../friend`, create a branch called \"solution\", and fix the problem in this branch. When you're ready, make a \"Pull Request\" by using `git tag pr`."
+msgstr "友達が困っています！`../friend` にあるリポジトリをクローンして、「solution」というブランチを作り、そのブランチで問題を直そう。準備ができたら、`git tag pr` で「Pull Request」を出そう。"
+
+msgid "Thanks!"
+msgstr "ありがとう！"
+
+msgid "Yellow brick road"
+msgstr "黄色いレンガの道"
+
+msgid ""
+"(Please zoom out a bit using your mouse wheel! :D)\n"
+"\n"
+"Oh no! You have lost your key at some point during the day!\n"
+"\n"
+"Sure, you could look at every single commit in an attempt to find it - but there's a better way: your time machine has a built-in way to find the point in time where things went wrong quickly!\n"
+"\n"
+"First, play the \"bisect start\" card. Then, go to a commit where you don't have the key, and play the \"bisect bad\" card. Likewise, go to a commit early on where you have the key *in your pocket*, and play the \"bisect good\" card.\n"
+"\n"
+"After you've found the last good commit, reset the main branch to it. What happened to the key after you lost it?"
+msgstr ""
+"（マウスホイールで少し縮小してください！:D）\n"
+"\n"
+"大変！一日のどこかで鍵をなくしてしまいました！\n"
+"\n"
+"鍵を探すためにコミットを一つずつ全部見ていくこともできますが、もっといい方法があります。タイムマシンには、物事がおかしくなった時点をすばやく見つける機能が組み込まれているのです！\n"
+"\n"
+"まず「bisect start」カードを使います。次に、鍵をもう持っていないコミットに移動して「bisect bad」カードを使います。同じように、鍵がまだ*ポケットに入っている*早い時点のコミットに移動して「bisect good」カードを使います。\n"
+"\n"
+"最後のうまくいっていたコミットが見つかったら、main ブランチをそこへリセットしよう。なくしたあと、鍵はどうなったのでしょう？"
+
+msgid "Well done! :) The only problem is that you now have to walk all the way back home, again..."
+msgstr "お見事！:) ただ困ったことに、今からまた家まで歩いて帰らないといけません……"
+
+msgid "Find the last good commit"
+msgstr "最後のうまくいっていたコミットを見つけよう"
+
+msgid "Stashing"
+msgstr "スタッシュ"
+
+msgid ""
+"You will encounter situations in which you are working on your project but you need to\n"
+"put your current changes aside temporarily. To do so, you can use the stash function. Use\n"
+"    git stash push \n"
+"to add your current changes to the stash stack."
+msgstr ""
+"プロジェクトの作業中に、今の変更を一時的に脇へ\n"
+"置いておきたくなることがあります。そんなときはスタッシュ（stash）機能を使います。\n"
+"    git stash push\n"
+"で、今の変更をスタッシュのスタックに追加します。"
+
+msgid ""
+"Just\n"
+"    git stash\n"
+"without \"push\" does the same thing."
+msgstr ""
+"単に\n"
+"    git stash\n"
+"と push なしで入力しても同じです。"
+
+msgid "After stashing, your working directory goes back to the last commit. Your changes aren't lost, they're waiting in the stash."
+msgstr "スタッシュすると、作業ディレクトリは最後のコミットの状態に戻ります。変更は消えたわけではなく、スタッシュの中で待っています。"
+
+msgid ""
+"To see what's in the stash, use\n"
+"    git stash list"
+msgstr ""
+"スタッシュの中身を見るには、\n"
+"    git stash list\n"
+"を使います。"
+
+msgid "Nice stash you got there! :)"
+msgstr "いいスタッシュですね！:)"
+
+msgid "Did you stash the current changes?"
+msgstr "今の変更をスタッシュした？"
+
+msgid "Pop from Stash"
+msgstr "スタッシュから取り出す"
+
+msgid ""
+"When you stashed your changes and you want to apply them back to your current working directory, you can use\n"
+"    git stash pop\n"
+"This will remove the changes from the stash stack. If you also want to keep the changes on the stash stack, use\n"
+"    git stash apply"
+msgstr ""
+"変更をスタッシュしてあって、それを今の作業ディレクトリに戻したいときは、\n"
+"    git stash pop\n"
+"を使います。これで変更はスタッシュのスタックから取り除かれます。変更をスタッシュのスタックにも残しておきたいなら、\n"
+"    git stash apply\n"
+"を使います。"
+
+msgid "pop is apply plus drop: it applies the changes and removes the entry from the stash in one go."
+msgstr "pop は apply と drop を合わせたものです。変更を適用して、その項目をスタッシュから一度に削除します。"
+
+msgid "If there are several entries in the stash, pop takes the most recent one, stash@{0}."
+msgstr "スタッシュに項目がいくつかある場合、pop は一番新しいもの、つまり stash@{0} を取り出します。"
+
+msgid "Yay, you got your changes back! :)"
+msgstr "やった、変更が戻ってきました！:)"
+
+msgid "Did you pop the changes from the stash stack?"
+msgstr "スタッシュのスタックから変更を取り出した？"
+
+msgid "Clear the Stash"
+msgstr "スタッシュを空にする"
+
+msgid ""
+"If you want to inspect your stash stack, use the command\n"
+"    git stash list\n"
+"    \n"
+"Oh, you don't want to keep your stashed changes? There are way too many? Then go ahead and clear the stack with\n"
+"    git stash clear\n"
+"If you only want to discard a certain stash entry, you can use\n"
+"    git stash drop <stash>\n"
+"    \n"
+"Clear your stash stack!"
+msgstr ""
+"スタッシュのスタックを確認するには、次のコマンドを使います\n"
+"    git stash list\n"
+"\n"
+"おや、スタッシュした変更はもういらない？多すぎる？それなら、次のコマンドでスタックを空にしよう\n"
+"    git stash clear\n"
+"特定の項目だけを捨てたいときは、これを使います\n"
+"    git stash drop <stash>\n"
+"\n"
+"スタッシュのスタックを空にしよう！"
+
+msgid "Stash entries are named stash@{0}, stash@{1} and so on. That's what you put in place of <stash>."
+msgstr "スタッシュの項目は stash@{0}、stash@{1} のような名前です。<stash> の部分にはこれを入れます。"
+
+msgid "Careful: git stash clear removes all entries at once, without asking."
+msgstr "気をつけて：git stash clear は確認なしで、すべての項目を一度に削除します。"
+
+msgid ""
+"Just type\n"
+"    git stash clear"
+msgstr ""
+"単にこう入力します\n"
+"    git stash clear"
+
+msgid "All clear! :)"
+msgstr "すっきりしました！:)"
+
+msgid "Did you clear your stash stack?"
+msgstr "スタッシュのスタックを空にした？"
+
+msgid "Branch from stash"
+msgstr "スタッシュからブランチを作る"
+
+msgid ""
+"If you want to keep your changes but they don't belong to the main branch, you can easily\n"
+"create a new branch from your stashed changes. Just use\n"
+"    git stash branch <branchname> <stash>\n"
+"If you just want to use the latest stash entry, you can leave the <stash> option empty.\n"
+"\n"
+"Create a new branch from the stashed changes!"
+msgstr ""
+"変更は残しておきたいけれど main ブランチには入れたくない場合、スタッシュした変更から\n"
+"新しいブランチを簡単に作れます。次のコマンドを使います\n"
+"    git stash branch <branchname> <stash>\n"
+"一番新しいスタッシュの項目を使うなら、<stash> は省略できます。\n"
+"\n"
+"スタッシュした変更から新しいブランチを作ろう！"
+
+msgid ""
+"For example:\n"
+"    git stash branch pie"
+msgstr ""
+"例えば：\n"
+"    git stash branch pie"
+
+msgid "The new branch starts at the commit where you stashed, so there won't be any conflicts."
+msgstr "新しいブランチはスタッシュしたときのコミットから始まるので、コンフリクトは起きません。"
+
+msgid "After that, the stash entry is removed automatically."
+msgstr "そのあと、スタッシュの項目は自動的に削除されます。"
+
+msgid "Stashed changes are in a new branch! :)"
+msgstr "スタッシュした変更が新しいブランチに入りました！:)"
+
+msgid "Did you create a new branch from the stashed changes?"
+msgstr "スタッシュした変更から新しいブランチを作った？"
+
+msgid "Merging popped stash"
+msgstr "pop したスタッシュをマージする"
+
+msgid ""
+"When you want to re-apply your changes but you already continued working on your file, you might get\n"
+"a merge conflict! Let's practice this situation.\n"
+"Pop the changes from the stash with\n"
+"    git stash pop\n"
+"and resolve the merge conflict. Commit the resolved changes and clear the stash stack afterwards."
+msgstr ""
+"変更を戻したいけれど、すでにそのファイルで作業を続けていた場合、\n"
+"マージのコンフリクトが起きることがあります！この状況を練習しましょう。\n"
+"次のコマンドでスタッシュから変更を取り出して\n"
+"    git stash pop\n"
+"コンフリクトを解決しよう。解決した変更をコミットしてから、スタッシュのスタックを空にしよう。"
+
+msgid "Open the file recipe, keep both the flour and the salt, and remove the markers <<<<<<<, ======= and >>>>>>>."
+msgstr "recipe ファイルを開いて、Flour と Salt の行を両方残し、<<<<<<<、=======、>>>>>>> のマーカーを消そう。"
+
+msgid ""
+"When there's a conflict, pop doesn't remove the entry from the stash, so you need to clear it at the end:\n"
+"    git stash clear"
+msgstr ""
+"コンフリクトが起きたとき、pop はスタッシュから項目を削除しないので、最後に空にする必要があります：\n"
+"    git stash clear"
+
+msgid ""
+"Don't forget to add the file to the index before you commit:\n"
+"    git add recipe"
+msgstr ""
+"コミットする前に、ファイルをインデックスに追加するのを忘れずに：\n"
+"    git add recipe"
+
+msgid "Did you resolve the conflict and commit?"
+msgstr "コンフリクトを解決してコミットした？"
+
+msgid "Did you clear stash stack?"
+msgstr "スタッシュのスタックを空にした？"
+
+msgid "Creating tags"
+msgstr "タグを作る"
+
+msgid ""
+"Some of your commits may be special commits. Maybe you reached a milestone or a new version number.\n"
+"\n"
+"You can mark these commits with a special flag called 'tag'.\n"
+"\n"
+"Write \n"
+"\n"
+"    git tag <tag-name> \n"
+"    \n"
+"to tag your commit."
+msgstr ""
+"コミットの中には特別なものもあるでしょう。節目に到達したとか、新しいバージョン番号になったとか。\n"
+"\n"
+"そういうコミットには「タグ」という特別な目印をつけられます。\n"
+"\n"
+"次のように入力して\n"
+"\n"
+"    git tag <tag-name>\n"
+"\n"
+"コミットにタグをつけよう。"
+
+msgid ""
+"For example:\n"
+"    git tag v1"
+msgstr ""
+"例えば：\n"
+"    git tag v1"
+
+msgid "A tag sticks to the commit you're on right now. You'll see it in the graph next to that commit."
+msgstr "タグは今いるコミットにくっつきます。グラフでそのコミットの隣に表示されます。"
+
+msgid ""
+"To list all tags, use\n"
+"    git tag"
+msgstr ""
+"タグの一覧を見るには、\n"
+"    git tag\n"
+"を使います。"
+
+msgid "Nice! You tagged your first commit :)"
+msgstr "いいですね！初めてコミットにタグをつけました :)"
+
+msgid "Did you create a new tag?"
+msgstr "新しいタグを作った？"
+
+msgid "Removing tags"
+msgstr "タグを削除する"
+
+msgid ""
+"You added way too many tags? No prob! Delete them with\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"    \n"
+"Remove all tags in this repo!"
+msgstr ""
+"タグをつけすぎた？大丈夫！次のコマンドで削除できます\n"
+"\n"
+"    git tag -d <tag-name>\n"
+"\n"
+"このリポジトリのタグを全部削除しよう！"
+
+msgid "This repo has three tags: v1, v2 and v3."
+msgstr "このリポジトリには v1、v2、v3 の 3 つのタグがあります。"
+
+msgid ""
+"You can delete several tags at once:\n"
+"    git tag -d v1 v2 v3"
+msgstr ""
+"複数のタグを一度に削除できます：\n"
+"    git tag -d v1 v2 v3"
+
+msgid ""
+"To check which tags are left, use\n"
+"    git tag"
+msgstr ""
+"残っているタグを確認するには、\n"
+"    git tag\n"
+"を使います。"
+
+msgid "Well done :)"
+msgstr "お見事 :)"
+
+msgid "Did you remove all tags?"
+msgstr "タグを全部削除した？"
+
+msgid "Tagging later"
+msgstr "あとからタグをつける"
+
+msgid ""
+"But what happens if you forgot to tag your current commit?\n"
+"No Prob! You can also tag older commits via\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"    \n"
+"Tag the commit \"Adding feature 2\" with the name \"v1\"!"
+msgstr ""
+"今のコミットにタグをつけ忘れたらどうしましょう？\n"
+"大丈夫！古いコミットにもタグをつけられます：\n"
+"\n"
+"    git tag <tag-name> <commit-hash>\n"
+"\n"
+"\"Adding feature 2\" のコミットに v1 という名前のタグをつけよう！"
+
+msgid "Look at the graph and find the commit \"Adding feature 2\". It's the one right before the newest commit."
+msgstr "グラフで \"Adding feature 2\" のコミットを探そう。一番新しいコミットのすぐ前にあります。"
+
+msgid "You don't need the full hash. The first few characters are enough, and HEAD~1 works too."
+msgstr "ハッシュは全部いりません。最初の数文字で十分ですし、HEAD~1 でも大丈夫です。"
+
+msgid ""
+"For example:\n"
+"    git tag v1 HEAD~1"
+msgstr ""
+"例えば：\n"
+"    git tag v1 HEAD~1"
+
+msgid "Remote Tags"
+msgstr "リモートのタグ"
+
+msgid ""
+"When you work with remote repositories, tags are not pushed or pulled automatically.\n"
+"\n"
+"You can push a tag with\n"
+"    git push <remote> <tag-name>\n"
+"Or all tags with:\n"
+"    git push <remote> --tags\n"
+"    \n"
+"Deleting tags on your remote works with: \n"
+"    git push <remote> --delete <tag-name>\n"
+"    \n"
+"You can also sync \n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"Add a tag named \"v2\" to the last commit and push it to the remote. Also pull the v1 tag to your local repository."
+msgstr ""
+"リモートリポジトリを使うとき、タグは自動では push も pull もされません。\n"
+"\n"
+"タグを push するには\n"
+"    git push <remote> <tag-name>\n"
+"全部のタグなら：\n"
+"    git push <remote> --tags\n"
+"\n"
+"リモートのタグを削除するには：\n"
+"    git push <remote> --delete <tag-name>\n"
+"\n"
+"同期することもできます\n"
+"    git fetch <remote> --prune --prune-tags\n"
+"\n"
+"\n"
+"最後のコミットに v2 という名前のタグをつけて、リモートに push しよう。それから、v1 タグをローカルリポジトリに pull しよう。"
+
+msgid "v1 tag in your repo"
+msgstr "きみのリポジトリに v1 タグがある"
+
+msgid "v2 tag in your repo"
+msgstr "きみのリポジトリに v2 タグがある"
+
+msgid "v2 tag in the remote"
+msgstr "リモートに v2 タグがある"
+
+msgid "Empty sandbox"
+msgstr "空のサンドボックス"
+
+msgid "This is an empty sandbox you can play around in."
+msgstr "自由に遊べる空のサンドボックスです。"
+
+msgid "Sandbox with a remote"
+msgstr "リモートつきのサンドボックス"
+
+msgid ""
+"Here's a sandbox with a remote! Try pulling, fetching, or pushing!\n"
+"\n"
+"How can you push tags and branches on a remote? How can you delete them again?"
+msgstr ""
+"リモートつきのサンドボックスです！pull、fetch、push を試してみよう！\n"
+"\n"
+"リモートにタグやブランチを push するにはどうすればいい？それをまた削除するには？"
+
+msgid "Sandbox with three commits"
+msgstr "コミットが 3 つあるサンドボックス"
+
+msgid ""
+"Here's a sandbox you can play around in.\n"
+"\n"
+"You can use both the playing cards, as well as the terminal. This is a real Git terminal! Fun things to try:\n"
+"\n"
+"- Make a commit that merges three timelines together at once!\n"
+"- Create and delete some tags!\n"
+"- Make a timeline that's completely independent of the rest!"
+msgstr ""
+"自由に遊べるサンドボックスです。\n"
+"\n"
+"カードもターミナルも使えます。これは本物の Git ターミナルです！試すと楽しいこと：\n"
+"\n"
+"- 3 つのタイムラインを一度にマージするコミットを作ろう！\n"
+"- タグを作ったり削除したりしよう！\n"
+"- ほかと完全に独立したタイムラインを作ろう！"
+
+msgid "Drag this card into the empty space above to initialize the time machine!"
+msgstr "このカードを上の空いている場所にドラッグして、タイムマシンを初期化しよう！"
+
+msgid "Create your own copy of someone else's repo."
+msgstr "ほかの人のリポジトリの自分用コピーを作る。"
+
+msgid ""
+"Set your name.\n"
+"\n"
+"(Will not change anything outside of this game.)"
+msgstr ""
+"自分の名前を設定する。\n"
+"\n"
+"（ゲームの外には何も影響しません。）"
+
+msgid "Set your email address."
+msgstr "自分のメールアドレスを設定する。"
+
+msgid "Drag this card to a commit or to a branch to travel to it!"
+msgstr "このカードをコミットかブランチにドラッグすると、そこへ移動できます！"
+
+msgid "Reset changes in a local file."
+msgstr "ローカルファイルの変更を元に戻す。"
+
+msgid "Get the file contents from the specified commits, and reset both the working directory, as well as the index, to it."
+msgstr "指定したコミットからファイルの内容を取り出して、作業ディレクトリとインデックスの両方をその内容に戻す。"
+
+msgid ""
+"Make a new commit, after automatically adding all changes to the index.\n"
+"You'll be asked to enter a short description of what you changed."
+msgstr ""
+"すべての変更を自動でインデックスに追加してから、新しいコミットを作る。\n"
+"何を変更したのか、短い説明を入力するよう求められます。"
+
+msgid "Make a new commit containing your current environment! Type in a description of what changed!"
+msgstr "今の環境を含む新しいコミットを作る！何が変わったか説明を入力しよう！"
+
+msgid "Merge the specified timeline into yours. If necessary, will create a merge commit."
+msgstr "指定したタイムラインを自分のタイムラインにマージする。必要ならマージコミットを作ります。"
+
+msgid "Abort the current merge attempt, and reconstruct the previous state."
+msgstr "今のマージを中止して、前の状態に戻す。"
+
+msgid "Put the events in your current timeline on top of the specified one."
+msgstr "今のタイムラインの出来事を、指定したタイムラインの上に載せる。"
+
+msgid "Get someone else's version of the current timeline, and try to merge it into yours."
+msgstr "ほかの人の今のタイムラインを取得して、自分のタイムラインにマージしてみる。"
+
+msgid "Get a someone else's version of the current timeline."
+msgstr "ほかの人の今のタイムラインを取得する。"
+
+msgid "Give the current timeline to someone else."
+msgstr "今のタイムラインをほかの人に渡す。"
+
+msgid "Make changes to the events in your current timeline, back to the commit you drag this to."
+msgstr "このカードをドラッグしたコミットまで戻って、今のタイムラインの出来事を変更する。"
+
+msgid "Continue the current rebasing process."
+msgstr "今のリベースを続ける。"
+
+msgid "Move the branch you're on to the specified commit."
+msgstr "今いるブランチを指定したコミットへ移動する。"
+
+msgid "Jump to the commit, and update the index. Keep the current environment."
+msgstr "コミットへジャンプして、インデックスを更新する。今の環境はそのまま残す。"
+
+msgid "Reset the index version of a file to the version in the commit you're on."
+msgstr "インデックスにあるファイルのバージョンを、今いるコミットのバージョンに戻す。"
+
+msgid "Repeat the specified action on top of your current timeline."
+msgstr "指定した操作を、今のタイムラインの上でもう一度行う。"
+
+msgid "Make a new commit that reverts the changes of the specified commit."
+msgstr "指定したコミットの変更を打ち消す新しいコミットを作る。"
+
+msgid "Start looking for the commit where things got bad."
+msgstr "物事がおかしくなったコミットを探し始める。"
+
+msgid "State that the current commit is good! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr "今のコミットは「良い」と宣言する！自動的に移動したら、`good` と `bad` のカードを使い続けよう！"
+
+msgid "State that the current commit is bad! When you're automatically transferred, keep playing the `good` and `bad` cards!"
+msgstr "今のコミットは「悪い」と宣言する！自動的に移動したら、`good` と `bad` のカードを使い続けよう！"
+
+msgid "Update the index version of the file to its current real content."
+msgstr "インデックスにあるファイルのバージョンを、今の実際の内容に更新する。"
+
+msgid "Delete a file both in the working directory, as well as the index."
+msgstr "作業ディレクトリとインデックスの両方からファイルを削除する。"
+
+msgid "Make a commit from the current index."
+msgstr "今のインデックスからコミットを作る。"
+
+msgid "Show what changed in the commit."
+msgstr "コミットで何が変わったかを表示する。"
+
+msgid "Create a new branch at your current location."
+msgstr "今いる場所に新しいブランチを作る。"
+
+msgid "Delete a branch."
+msgstr "ブランチを削除する。"
+
+msgid "Display a log of where the ref pointed to in the past."
+msgstr "参照が過去にどこを指していたかの記録を表示する。"
+
+msgid "Create a new file."
+msgstr "新しいファイルを作る。"
+
+msgid "Delete a file."
+msgstr "ファイルを削除する。"
+
+msgid "Rename a file."
+msgstr "ファイルの名前を変える。"
+
+msgid "Make a copy of a file."
+msgstr "ファイルをコピーする。"
+
+msgid "These are your cards! Drag them to highlighted areas to play them!"
+msgstr "これがきみのカードです！ハイライトされた場所にドラッグして使おう！"
+
+msgid "Draw new cards"
+msgstr "新しいカードを引く"
+
+msgid "Click on these files to edit them!"
+msgstr "これらのファイルをクリックして編集しよう！"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "The game ran into an error and will close."
+msgstr "エラーが発生したため、ゲームを終了します。"
+
+msgid "Introduction"
+msgstr "はじめに"
+
+msgid "Files"
+msgstr "ファイル"
+
+msgid "Branches"
+msgstr "ブランチ"
+
+msgid "Merging"
+msgstr "マージ"
+
+msgid "The index"
+msgstr "インデックス"
+
+msgid "Remotes"
+msgstr "リモート"
+
+msgid "Changing the past"
+msgstr "過去を変える"
+
+msgid "Fixing mistakes"
+msgstr "ミスを直す"
+
+msgid "Workflows"
+msgstr "ワークフロー"
+
+msgid "Bisect"
+msgstr "bisect"
+
+msgid "Tags"
+msgstr "タグ"
+
+msgid "Sandbox"
+msgstr "サンドボックス"
+
+msgid "(no description)"
+msgstr "（説明なし）"
+
+msgid "Complete the goal of this level"
+msgstr "このレベルの目標を達成しよう"
+
+msgid "You get a golden badge for each level you solve without using the playing cards! Can you solve them all using the command line?"
+msgstr "カードを使わずに解いたレベルごとに金バッジがもらえます！全部コマンドラインで解けるかな？"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Reload"
+msgstr "やり直す"
+
+msgid ""
+"Help us improving Oh My Git! by\n"
+"answering some questions:"
+msgstr ""
+"いくつかの質問に答えて\n"
+"Oh My Git! の改善に協力してください："
+
+msgid "To the survey /o/"
+msgstr "アンケートへ /o/"
+
+msgid "Cards!"
+msgstr "カード！"
+
+msgid "Tip!"
+msgstr "ヒント！"
+
+msgid "Next level"
+msgstr "次のレベル"
+
+msgid "Toggle music"
+msgstr "音楽オン/オフ"
+
+msgid "by bleeptrack & blinry"
+msgstr "作者：bleeptrack と blinry"
+
+msgid "Original score by winniehell"
+msgstr "オリジナル音楽：winniehell"
+
+msgid "Levels"
+msgstr "レベル"
+
+msgid "Sure, I'll install it!"
+msgstr "分かりました、インストールします！"
+
+msgid ""
+"Hi! It seems that you don't have Git installed yet!\n"
+"\n"
+"On Linux, please install it from your package manager, usually the package is called \"git\"!\n"
+"\n"
+"On macOS 10.8 and below, you can download Git from git-scm.com."
+msgstr ""
+"こんにちは！Git がまだインストールされていないようです！\n"
+"\n"
+"Linux では、パッケージマネージャーからインストールしてください。パッケージ名はたいてい「git」です！\n"
+"\n"
+"macOS 10.8 以前では、git-scm.com から Git をダウンロードできます。"
+
+msgid "You can drag these around with your mouse!"
+msgstr "マウスでドラッグして動かせます！"
+
+msgid "Got it!"
+msgstr "了解！"
+
+msgid "Interesting!"
+msgstr "面白い！"
+
+msgid "Very useful!"
+msgstr "とても役立つ！"
+
+msgid "Cool!"
+msgstr "いいね！"
+
+msgid "Nice!"
+msgstr "ナイス！"
+
+msgid "Whatever..."
+msgstr "ふーん……"
+
+msgid "Okay!"
+msgstr "オッケー！"
+
+msgid "Yay!"
+msgstr "やった！"
+
+msgid "Awesome!"
+msgstr "最高！"
+
+msgid "This is the time machine of another person! To interact with it, you need special commands!"
+msgstr "これはほかの人のタイムマシンです！操作するには特別なコマンドが必要です！"
+
+msgid "Index:"
+msgstr "インデックス："
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Hide trees and blobs"
+msgstr "ツリーとブロブを隠す"
+
+msgid "Hi, I'm Teo Hanki!"
+msgstr "こんにちは、Teo Hanki です！"
+
+msgid ""
+"I translate Oh My Git! on my own, in my free time.\n"
+"The translation is free and will always stay free.\n"
+"Every donation helps me keep it up to date and add new languages.\n"
+"Thank you!"
+msgstr ""
+"Oh My Git! の翻訳は、私が一人で空き時間に作っています。\n"
+"翻訳は無料で、これからもずっと無料です。\n"
+"支援は翻訳の更新と新しい言語の追加に役立ちます。\n"
+"ありがとうございます！"
+
+msgid "new versions, bug reports, ideas"
+msgstr "新バージョン、バグ報告、ご提案"
+
+msgid "opens in your browser"
+msgstr "ブラウザで開きます"
+
+msgid "Quit"
+msgstr "終了"
+
+msgid ""
+"Thanks for playing!\n"
+"\n"
+"Oh My Git! is free and open-source! <3\n"
+"\n"
+"If this game was valuable to you, consider joining our supporters on Patreon:"
+msgstr ""
+"遊んでくれてありがとう！\n"
+"\n"
+"Oh My Git! は無料のオープンソースです！<3\n"
+"\n"
+"このゲームが役に立ったなら、Patreon で私たちを支援してもらえるとうれしいです："
+
+msgid "Support us! (Open two browser tabs)"
+msgstr "支援する！（ブラウザのタブが 2 つ開きます）"
+
+msgid "This is your terminal! All commands are executed here, and you can see their output. You can also type your own commands here!"
+msgstr "これがきみのターミナルです！すべてのコマンドはここで実行され、その出力も見られます。自分でコマンドを入力することもできます！"
+
+msgid "Support the translator"
+msgstr "翻訳者を支援する"
+
+msgid "Language"
+msgstr "言語"
+
+msgid ""
+"Good job, you solved the level!\n"
+"\n"
+"Feel free to try a few more things or click 'Next level'."
+msgstr ""
+"よくできました、レベルクリアです！\n"
+"\n"
+"ほかにもいろいろ試してみるか、「次のレベル」をクリックしてください。"
+
