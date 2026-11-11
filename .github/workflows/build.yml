@@ -21,6 +21,7 @@ jobs:
     timeout-minutes: 40
     container:
       image: barichello/godot-ci:3.2.3
+      options: --dns 8.8.8.8 --dns 1.1.1.1
     steps:
       - name: Install tools
         env:
