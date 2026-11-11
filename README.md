@@ -17,7 +17,7 @@ Oh My Git! in 10 languages. Pick yours:
 
 On the first launch the game opens the language list and remembers your choice. Levels, hints, goals, cards, menus and your teacher's messages are translated. Git commands, branch names and file names stay in English, because you type them and Git expects them that way.
 
-The Windows build brings its own Git. On Linux and macOS, install Git first (`git --version` tells you if you have it). macOS blocks unsigned apps, so after you copy the app, run `xattr -cr "/Applications/Oh My Git!.app"` once. Macs with Apple Silicon work too.
+The Windows build brings its own Git. On Linux and macOS, install Git first (`git --version` tells you if you have it). The app is not signed, so macOS blocks it on the first launch. Open System Settings → Privacy & Security, scroll down to Security, press Open Anyway and confirm. In the terminal, `xattr -cr "/Applications/Oh My Git!.app"` has the same effect. Tested on a Mac with an M1 Pro.
 
 **Install:** download the zip for your system from [Releases](../../releases/latest), unpack it and start the game.
 
@@ -42,7 +42,7 @@ Found a bug, a clumsy phrase or have an idea? Write in [Issues](../../issues). T
 
 第一次启动时，游戏会自动展开语言列表，并记住你的选择。关卡、提示、目标、卡牌、菜单和老师的话都已翻译。Git 命令、分支名和文件名保持英文，因为要你亲手输入，Git 也只认这样的写法。
 
-Windows 版自带 Git。Linux 和 macOS 需要先安装 Git（在终端运行 `git --version` 可以检查）。macOS 会拦截没有签名的应用，所以把应用拷贝好之后，运行一次 `xattr -cr "/Applications/Oh My Git!.app"`。搭载苹果芯片的 Mac 也能运行。
+Windows 版自带 Git。Linux 和 macOS 需要先安装 Git（在终端运行 `git --version` 可以检查）。应用没有签名，所以 macOS 在首次启动时会拦截它。打开系统设置 → Privacy & Security（隐私与安全性），向下滚动到 Security 部分，点击 Open Anyway（仍要打开）并确认。在终端运行 `xattr -cr "/Applications/Oh My Git!.app"` 效果相同。已在搭载 M1 Pro 的 Mac 上测试。
 
 **安装：** 在 [Releases](../../releases/latest) 下载适合你系统的压缩包，解压后启动游戏。
 
@@ -67,7 +67,7 @@ Windows 版自带 Git。Linux 和 macOS 需要先安装 Git（在终端运行 `g
 
 Al abrir el juego por primera vez se despliega la lista de idiomas, y el juego recuerda tu elección. Los niveles, las pistas, los objetivos, las cartas, los menús y los mensajes de tu profesor están traducidos. Los comandos de Git y los nombres de ramas y archivos siguen en inglés, porque los escribes tú y Git los espera así.
 
-La versión de Windows trae su propio Git. En Linux y macOS instala Git antes (`git --version` te dice si ya lo tienes). macOS bloquea las apps sin firmar, así que después de copiar la app ejecuta una vez `xattr -cr "/Applications/Oh My Git!.app"`. Los Mac con Apple Silicon también funcionan.
+La versión de Windows trae su propio Git. En Linux y macOS instala Git antes (`git --version` te dice si ya lo tienes). La app no está firmada, así que macOS la bloquea en el primer arranque. Abre Ajustes del Sistema → Privacy & Security (Privacidad y seguridad), baja hasta Security, pulsa Open Anyway (Abrir igualmente) y confirma. En la terminal, `xattr -cr "/Applications/Oh My Git!.app"` tiene el mismo efecto. Probado en un Mac con M1 Pro.
 
 **Instalación:** descarga el zip de tu sistema en [Releases](../../releases/latest), descomprímelo y abre el juego.
 
@@ -92,7 +92,7 @@ La traducción es gratis y seguirá siéndolo.
 
 Au premier lancement, le jeu ouvre la liste des langues et retient votre choix. Les niveaux, les indices, les objectifs, les cartes, les menus et les messages de votre professeur sont traduits. Les commandes Git ainsi que les noms de branches et de fichiers restent en anglais, car vous les tapez et Git les attend ainsi.
 
-La version Windows embarque son propre Git. Sous Linux et macOS, installez Git d'abord (`git --version` indique si c'est déjà fait). macOS bloque les applications non signées : après avoir copié l'application, lancez une fois `xattr -cr "/Applications/Oh My Git!.app"`. Les Mac Apple Silicon fonctionnent aussi.
+La version Windows embarque son propre Git. Sous Linux et macOS, installez Git d'abord (`git --version` indique si c'est déjà fait). L'application n'est pas signée, donc macOS la bloque au premier lancement. Ouvrez Réglages Système → Privacy & Security (Confidentialité et sécurité), descendez jusqu'à Security, cliquez sur Open Anyway (Ouvrir quand même) et confirmez. Dans le terminal, `xattr -cr "/Applications/Oh My Git!.app"` a le même effet. Testé sur un Mac avec une puce M1 Pro.
 
 **Installation :** téléchargez le zip de votre système dans [Releases](../../releases/latest), décompressez-le et lancez le jeu.
 
@@ -117,7 +117,7 @@ Un bug, une tournure maladroite ou une idée ? Écrivez-moi dans les [Issues](.
 
 Na primeira vez que abre, o jogo mostra a lista de idiomas e guarda a sua escolha. Níveis, dicas, objetivos, cartas, menus e as mensagens do seu professor estão traduzidos. Os comandos do Git e os nomes de branches e de arquivos continuam em inglês, porque você os digita e o Git espera assim.
 
-A versão para Windows traz o próprio Git. No Linux e no macOS, instale o Git antes (`git --version` mostra se você já tem). O macOS bloqueia apps sem assinatura, então depois de copiar o app rode uma vez `xattr -cr "/Applications/Oh My Git!.app"`. Macs com Apple Silicon também funcionam.
+A versão para Windows traz o próprio Git. No Linux e no macOS, instale o Git antes (`git --version` mostra se você já tem). O app não é assinado, então o macOS o bloqueia na primeira abertura. Abra Ajustes do Sistema → Privacy & Security (Privacidade e Segurança), role até Security, clique em Open Anyway (Abrir Mesmo Assim) e confirme. No terminal, `xattr -cr "/Applications/Oh My Git!.app"` tem o mesmo efeito. Testado em um Mac com M1 Pro.
 
 **Instalação:** baixe o zip do seu sistema em [Releases](../../releases/latest), descompacte e abra o jogo.
 
@@ -142,7 +142,7 @@ Achou um bug, uma frase estranha ou tem uma ideia? Escreva em [Issues](../../iss
 
 При первом запуске игра сама раскрывает список языков и запоминает ваш выбор. Переведены уровни, подсказки, цели, карточки, меню и реплики учителя. Команды Git, названия веток и файлов остаются английскими: вы вводите их сами, а Git понимает только такую запись.
 
-В сборку для Windows уже входит Git. На Linux и macOS Git нужно поставить заранее (`git --version` покажет, есть ли он). macOS блокирует неподписанные приложения, поэтому после копирования приложения один раз выполните `xattr -cr "/Applications/Oh My Git!.app"`. На Mac с Apple Silicon игра тоже работает.
+В сборку для Windows уже входит Git. На Linux и macOS Git нужно поставить заранее (`git --version` покажет, есть ли он). Приложение не подписано, поэтому при первом запуске macOS его блокирует. Откройте Системные настройки → Конфиденциальность и безопасность, прокрутите вниз до раздела «Безопасность», нажмите «Все равно открыть» и подтвердите. То же самое делает команда `xattr -cr "/Applications/Oh My Git!.app"` в терминале. Проверено на Mac с M1 Pro.
 
 **Установка:** скачайте архив для своей системы в [Releases](../../releases/latest), распакуйте и запустите игру.
 
@@ -167,7 +167,7 @@ Achou um bug, uma frase estranha ou tem uma ideia? Escreva em [Issues](../../iss
 
 Saat pertama dibuka, game menampilkan daftar bahasa dan mengingat pilihan Anda. Level, petunjuk, tujuan, kartu, menu, dan pesan dari guru Anda sudah diterjemahkan. Perintah Git, nama branch, dan nama file tetap berbahasa Inggris, karena Anda mengetiknya sendiri dan Git memang memintanya begitu.
 
-Versi Windows sudah membawa Git sendiri. Di Linux dan macOS, pasang Git lebih dulu (`git --version` menunjukkan apakah sudah ada). macOS memblokir aplikasi tanpa tanda tangan, jadi setelah menyalin aplikasinya, jalankan sekali `xattr -cr "/Applications/Oh My Git!.app"`. Mac dengan Apple Silicon juga bisa.
+Versi Windows sudah membawa Git sendiri. Di Linux dan macOS, pasang Git lebih dulu (`git --version` menunjukkan apakah sudah ada). Aplikasinya tidak ditandatangani, jadi macOS memblokirnya saat pertama dibuka. Buka Pengaturan Sistem → Privacy & Security (Privasi & Keamanan), gulir ke bagian Security, klik Open Anyway (Tetap Buka) dan konfirmasi. Di terminal, `xattr -cr "/Applications/Oh My Git!.app"` berefek sama. Diuji di Mac dengan M1 Pro.
 
 **Pemasangan:** unduh zip untuk sistem Anda di [Releases](../../releases/latest), ekstrak, lalu jalankan gamenya.
 
@@ -192,7 +192,7 @@ Menemukan bug, kalimat yang janggal, atau punya ide? Tulis di [Issues](../../iss
 
 Beim ersten Start klappt das Spiel die Sprachliste auf und merkt sich deine Wahl. Level, Hinweise, Ziele, Karten, Menüs und die Nachrichten deiner Lehrkraft sind übersetzt. Git-Befehle, Branch-Namen und Dateinamen bleiben englisch, weil du sie selbst tippst und Git sie so erwartet.
 
-Die Windows-Version bringt ihr eigenes Git mit. Unter Linux und macOS installierst du Git vorher (`git --version` zeigt, ob es schon da ist). macOS blockiert nicht signierte Apps, also führe nach dem Kopieren der App einmal `xattr -cr "/Applications/Oh My Git!.app"` aus. Macs mit Apple Silicon laufen ebenfalls.
+Die Windows-Version bringt ihr eigenes Git mit. Unter Linux und macOS installierst du Git vorher (`git --version` zeigt, ob es schon da ist). Die App ist nicht signiert, deshalb blockiert macOS sie beim ersten Start. Öffne Systemeinstellungen → Privacy & Security (Datenschutz & Sicherheit), scrolle zum Abschnitt Security, klicke auf Open Anyway (Trotzdem öffnen) und bestätige. Im Terminal hat `xattr -cr "/Applications/Oh My Git!.app"` dieselbe Wirkung. Getestet auf einem Mac mit M1 Pro.
 
 **Installation:** Lade das Zip für dein System unter [Releases](../../releases/latest) herunter, entpacke es und starte das Spiel.
 
@@ -217,7 +217,7 @@ Fehler, holprige Formulierung oder eine Idee? Schreib in die [Issues](../../issu
 
 初回起動時に言語リストが自動で開き、選んだ言語は記憶されます。レベル、ヒント、目標、カード、メニュー、先生のメッセージを翻訳しました。Git コマンド、ブランチ名、ファイル名は英語のままです。自分で入力するものですし、Git もその書き方を前提にしているからです。
 
-Windows 版には Git が同梱されています。Linux と macOS では先に Git をインストールしてください（ターミナルで `git --version` を実行すると確認できます）。macOS は署名のないアプリをブロックするので、アプリをコピーしたあとに一度だけ `xattr -cr "/Applications/Oh My Git!.app"` を実行します。Apple Silicon の Mac でも動作します。
+Windows 版には Git が同梱されています。Linux と macOS では先に Git をインストールしてください（ターミナルで `git --version` を実行すると確認できます）。アプリには署名がないため、macOS は初回起動時にブロックします。システム設定 → Privacy & Security（プライバシーとセキュリティ）を開き、Security の項目まで下にスクロールして、Open Anyway（このまま開く）を押し、確認します。ターミナルで `xattr -cr "/Applications/Oh My Git!.app"` を実行しても同じ結果になります。M1 Pro の Mac で動作を確認しました。
 
 **導入方法：** [Releases](../../releases/latest) から自分のシステム用の zip をダウンロードし、展開してゲームを起動します。
 
@@ -242,7 +242,7 @@ Windows 版には Git が同梱されています。Linux と macOS では先に
 
 İlk açılışta oyun dil listesini kendisi açar ve seçimini hatırlar. Bölümler, ipuçları, hedefler, kartlar, menüler ve öğretmenin mesajları çevrildi. Git komutları, dal adları ve dosya adları İngilizce kalır, çünkü onları sen yazarsın ve Git de öyle bekler.
 
-Windows sürümü kendi Git'iyle gelir. Linux ve macOS'ta önce Git'i kur (`git --version` kurulu olup olmadığını gösterir). macOS imzasız uygulamaları engeller, bu yüzden uygulamayı kopyaladıktan sonra bir kez `xattr -cr "/Applications/Oh My Git!.app"` çalıştır. Apple Silicon'lu Mac'ler de çalışır.
+Windows sürümü kendi Git'iyle gelir. Linux ve macOS'ta önce Git'i kur (`git --version` kurulu olup olmadığını gösterir). Uygulama imzalı olmadığı için macOS ilk açılışta onu engeller. Sistem Ayarları → Privacy & Security (Gizlilik ve Güvenlik) bölümünü aç, Security kısmına kadar kaydır, Open Anyway (Yine de Aç) düğmesine bas ve onayla. Terminalde `xattr -cr "/Applications/Oh My Git!.app"` aynı etkiyi yapar. M1 Pro'lu bir Mac'te denendi.
 
 **Kurulum:** [Releases](../../releases/latest) sayfasından sistemine uygun zip'i indir, aç ve oyunu başlat.
 
